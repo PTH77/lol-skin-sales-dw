@@ -10,53 +10,41 @@ NUM_TRANSACTIONS = 20000
 REGIONS = ["EUW", "EUNE", "NA", "KR"]
 SEGMENTS = ["casual", "core", "whale"]
 
-# Mapowanie rarity -> ceny RP (zgodne z nowym systemem)
-# Legacy ma 3 mozliwe ceny, wiec bedziemy brali z pliku
-RARITY_BASE_PRICE = {
-    "default": 0,
-    "legacy": 750,      # Srednia cena Legacy (520, 750, 975)
-    "epic": 1350,
-    "legendary": 1820,
-    "ultimate": 3250
-}
-
 # ================= SCIEZKI =================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-skins_path = os.path.join(BASE_DIR,"csv", "dim_skins.csv")
-dim_player_path = os.path.join(BASE_DIR,"csv", "dim_player.csv")
+skins_path = os.path.join(BASE_DIR, "dim_skins_with_prices.csv")
+dim_player_path = os.path.join(BASE_DIR, "dim_player.csv")
 fact_sales_path = os.path.join(BASE_DIR, "fact_sales.csv")
 
 print("="*60)
-print("GENEROWANIE DANYCH ZRODLOWYCH")
+print("GENEROWANIE DANYCH ZRODLOWYCH DLA HURTOWNI")
 print("="*60)
 
 # ================= WCZYTAJ SKINY =================
-print("\nWczytuje plik skinow z:", skins_path)
+print("\nWczytywanie skinow z:", skins_path)
 
 try:
     dim_skin_df = pd.read_csv(skins_path)
 except FileNotFoundError:
     print(f"BLAD: Nie znaleziono pliku {skins_path}")
-    print("Uruchom najpierw: python generate_skin_data_clean.py")
+    print("Uruchom najpierw:")
+    print("  1. fetch_skins.py (Twoj skrypt)")
+    print("  2. add_prices_to_skins.py")
     exit(1)
 
 print(f"Wczytano {len(dim_skin_df)} skinow")
 
 # Usun default skiny (nie sa sprzedawane)
-if "rarity" in dim_skin_df.columns:
-    original_count = len(dim_skin_df)
-    dim_skin_df = dim_skin_df[dim_skin_df["rarity"].str.lower() != "default"]
-    removed = original_count - len(dim_skin_df)
-    print(f"Usunieto {removed} default skinow (nie sa sprzedawane)")
-else:
-    raise ValueError("BLAD: Plik dim_skins.csv musi miec kolumne 'rarity'!")
+original_count = len(dim_skin_df)
+dim_skin_df = dim_skin_df[dim_skin_df["rarity"] != "Default"].copy()
+removed = original_count - len(dim_skin_df)
+print(f"Usunieto {removed} default skinow (nie sa sprzedawane)")
 
-# Sprawdz czy jest kolumna price_rp
-if "price_rp" not in dim_skin_df.columns:
-    raise ValueError("BLAD: Plik dim_skins.csv musi miec kolumne 'price_rp'!")
-
-# Utworz slownik skin_id -> price_rp (bedziemy brali ceny bezposrednio z pliku)
-skin_price_map = dict(zip(dim_skin_df["skin_id"], dim_skin_df["price_rp"]))
+# Utworz slownik skin_id -> price_rp
+skin_price_map = dict(zip(
+    dim_skin_df["skin_id_hurtownia"], 
+    dim_skin_df["price_rp"]
+))
 skin_ids = list(skin_price_map.keys())
 
 print(f"Dostepnych skinow do sprzedazy: {len(skin_ids)}")
@@ -129,25 +117,34 @@ for t in range(1, NUM_TRANSACTIONS + 1):
     # Wybor skina na podstawie segmentu gracza
     if segment == "whale":
         # Whales preferuja drogie skiny (70% drogie, 20% srednie, 10% tanie)
-        skin_pool = (
-            expensive_skins * 7 +
-            mid_skins * 2 +
-            cheap_skins * 1
-        )
+        if expensive_skins:
+            skin_pool = (
+                expensive_skins * 7 +
+                (mid_skins * 2 if mid_skins else []) +
+                (cheap_skins * 1 if cheap_skins else [])
+            )
+        else:
+            skin_pool = skin_ids
     elif segment == "core":
         # Core preferuja srednie i drogie (50% srednie, 30% drogie, 20% tanie)
-        skin_pool = (
-            mid_skins * 5 +
-            expensive_skins * 3 +
-            cheap_skins * 2
-        )
+        if mid_skins:
+            skin_pool = (
+                mid_skins * 5 +
+                (expensive_skins * 3 if expensive_skins else []) +
+                (cheap_skins * 2 if cheap_skins else [])
+            )
+        else:
+            skin_pool = skin_ids
     else:  # casual
         # Casual preferuja tanie i srednie (50% tanie, 40% srednie, 10% drogie)
-        skin_pool = (
-            cheap_skins * 5 +
-            mid_skins * 4 +
-            expensive_skins * 1
-        )
+        if cheap_skins:
+            skin_pool = (
+                cheap_skins * 5 +
+                (mid_skins * 4 if mid_skins else []) +
+                (expensive_skins * 1 if expensive_skins else [])
+            )
+        else:
+            skin_pool = skin_ids
     
     # Jesli pool jest pusty (edge case), uzyj wszystkich skinow
     if not skin_pool:
@@ -207,8 +204,8 @@ print(f"DIM_SKIN: {len(dim_skin_df)} skinow (bez Default)")
 print(f"FACT_SALES: {len(fact_sales_df)} transakcji")
 print(f"\nPliki zapisane w: {BASE_DIR}")
 print("  - dim_player.csv")
+print("  - dim_skins_with_prices.csv (zrodlo skinow)")
 print("  - fact_sales.csv")
-print("\nPlik dim_skins.csv juz istnial (wygenerowany przez generate_skin_data_clean.py)")
 print("\n" + "="*60)
-print("GOTOWE! Dane sa gotowe do zaladowania do hurtowni.")
+print("GOTOWE! Dane sa gotowe do zaladowania do hurtowni SQL Server.")
 print("="*60)
