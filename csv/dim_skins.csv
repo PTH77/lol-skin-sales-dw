@@ -1,0 +1,158 @@
+skin_id,champion_name,skin_name,rarity,price_rp,release_date
+1,Ahri,Default Ahri,Default,0,2019-05-28
+2,Ahri,Cosmic Ahri,Epic,1350,2021-10-30
+3,Ahri,Divine Sword Ahri,Legacy,750,2024-08-01
+4,Ahri,Battle Academia Ahri,Epic,1350,2022-08-07
+5,Yasuo,Default Yasuo,Default,0,2020-05-06
+6,Yasuo,Lunar Beast Yasuo,Epic,1350,2025-11-21
+7,Yasuo,Coven Yasuo,Legacy,975,2025-02-27
+8,Yasuo,K/DA Yasuo,Legacy,520,2025-09-23
+9,Yasuo,Elderwood Yasuo,Epic,1350,2024-09-30
+10,Yasuo,Divine Sword Yasuo,Epic,1350,2025-02-27
+11,Lux,Default Lux,Default,0,2020-03-13
+12,Lux,Divine Sword Lux,Epic,1350,2023-03-01
+13,Lux,Lunar Beast Lux,Epic,1350,2022-05-31
+14,Lux,Spirit Blossom Lux,Legendary,1820,2021-07-26
+15,Lux,Snow Day Lux,Legendary,1820,2023-06-16
+16,Lux,Cosmic Lux,Epic,1350,2023-04-23
+17,Jinx,Default Jinx,Default,0,2021-02-21
+18,Jinx,Pulsefire Jinx,Epic,1350,2023-02-26
+19,Jinx,Elderwood Jinx,Epic,1350,2025-04-18
+20,Jinx,High Noon Jinx,Legacy,750,2022-11-09
+21,Jinx,True Damage Jinx,Epic,1350,2023-01-11
+22,Jinx,Mecha Jinx,Legacy,750,2024-12-10
+23,Jinx,PROJECT Jinx,Epic,1350,2023-12-02
+24,Jinx,Snow Day Jinx,Legacy,750,2023-05-08
+25,Zed,Default Zed,Default,0,2019-07-11
+26,Zed,Snow Day Zed,Epic,1350,2021-03-18
+27,Zed,Pool Party Zed,Epic,1350,2024-11-09
+28,Zed,Divine Sword Zed,Legendary,1820,2023-01-09
+29,Ezreal,Default Ezreal,Default,0,2021-05-08
+30,Ezreal,Cosmic Ezreal,Legacy,750,2022-01-18
+31,Ezreal,Snow Day Ezreal,Legacy,975,2024-04-02
+32,Ezreal,Coven Ezreal,Legendary,1820,2025-02-20
+33,Ezreal,Dark Star Ezreal,Epic,1350,2023-05-25
+34,Ezreal,Crime City Ezreal,Legacy,520,2021-03-31
+35,Ezreal,Blood Moon Ezreal,Epic,1350,2024-09-13
+36,Ezreal,Lunar Beast Ezreal,Epic,1350,2022-02-05
+37,Thresh,Default Thresh,Default,0,2020-04-06
+38,Thresh,Dark Star Thresh,Epic,1350,2025-05-23
+39,Thresh,Arcade Thresh,Epic,1350,2021-10-16
+40,Thresh,Lunar Beast Thresh,Epic,1350,2024-11-04
+41,Thresh,High Noon Thresh,Legacy,520,2022-12-22
+42,Thresh,K/DA Thresh,Epic,1350,2021-08-28
+43,Lee Sin,Default Lee Sin,Default,0,2020-07-04
+44,Lee Sin,Snow Day Lee Sin,Legacy,750,2023-04-29
+45,Lee Sin,Coven Lee Sin,Epic,1350,2024-05-06
+46,Lee Sin,Dark Star Lee Sin,Epic,1350,2024-01-08
+47,Lee Sin,Arcade Lee Sin,Epic,1350,2021-06-12
+48,Lee Sin,Star Guardian Lee Sin,Legacy,750,2021-12-10
+49,Vayne,Default Vayne,Default,0,2021-07-04
+50,Vayne,Crime City Vayne,Legendary,1820,2024-10-13
+51,Vayne,PROJECT Vayne,Epic,1350,2023-04-20
+52,Vayne,True Damage Vayne,Epic,1350,2022-09-22
+53,Katarina,Default Katarina,Default,0,2019-05-09
+54,Katarina,Crime City Katarina,Legacy,975,2022-09-10
+55,Katarina,Cosmic Katarina,Epic,1350,2025-12-28
+56,Katarina,Star Guardian Katarina,Epic,1350,2021-12-09
+57,Katarina,Pulsefire Katarina,Legacy,750,2021-05-16
+58,Akali,Default Akali,Default,0,2021-05-07
+59,Akali,Blood Moon Akali,Epic,1350,2025-12-10
+60,Akali,Arcade Akali,Epic,1350,2022-08-30
+61,Akali,Snow Day Akali,Legacy,750,2021-11-29
+62,Akali,True Damage Akali,Legendary,1820,2021-07-03
+63,Darius,Default Darius,Default,0,2018-10-08
+64,Darius,PROJECT Darius,Legacy,975,2024-06-28
+65,Darius,K/DA Darius,Epic,1350,2024-09-13
+66,Darius,Spirit Blossom Darius,Epic,1350,2022-04-22
+67,Darius,Cosmic Darius,Legendary,1820,2023-01-14
+68,Darius,Pulsefire Darius,Legacy,975,2024-11-28
+69,Jhin,Default Jhin,Default,0,2019-11-07
+70,Jhin,Snow Day Jhin,Epic,1350,2022-03-19
+71,Jhin,Star Guardian Jhin,Legendary,1820,2025-05-04
+72,Jhin,Pool Party Jhin,Epic,1350,2023-01-28
+73,Kai'Sa,Default Kai'Sa,Default,0,2017-11-16
+74,Kai'Sa,Spirit Blossom Kai'Sa,Epic,1350,2023-07-01
+75,Kai'Sa,Arcade Kai'Sa,Legendary,1820,2024-01-17
+76,Kai'Sa,Star Guardian Kai'Sa,Legacy,520,2024-10-05
+77,Kai'Sa,Divine Sword Kai'Sa,Legacy,520,2022-01-31
+78,Kai'Sa,Battle Academia Kai'Sa,Epic,1350,2023-07-05
+79,Sylas,Default Sylas,Default,0,2020-05-25
+80,Sylas,Mecha Sylas,Epic,1350,2022-12-15
+81,Sylas,Star Guardian Sylas,Epic,1350,2025-01-05
+82,Sylas,Cosmic Sylas,Legendary,1820,2023-09-03
+83,Sylas,Dark Star Sylas,Epic,1350,2022-04-09
+84,Sylas,Coven Sylas,Legendary,1820,2024-06-02
+85,Yone,Default Yone,Default,0,2018-06-27
+86,Yone,Crime City Yone,Ultimate,3250,2024-11-11
+87,Yone,Pool Party Yone,Legendary,1820,2024-03-25
+88,Yone,Mecha Yone,Legacy,520,2024-10-29
+89,Seraphine,Default Seraphine,Default,0,2018-10-25
+90,Seraphine,Cosmic Seraphine,Epic,1350,2023-10-27
+91,Seraphine,Pulsefire Seraphine,Epic,1350,2025-11-11
+92,Seraphine,Blood Moon Seraphine,Epic,1350,2022-08-07
+93,Seraphine,K/DA Seraphine,Legendary,1820,2022-08-25
+94,Seraphine,PROJECT Seraphine,Legacy,750,2023-05-16
+95,Seraphine,Lunar Beast Seraphine,Legendary,1820,2024-11-26
+96,Seraphine,Spirit Blossom Seraphine,Legacy,750,2022-12-10
+97,Viego,Default Viego,Default,0,2021-05-15
+98,Viego,Pulsefire Viego,Epic,1350,2025-08-07
+99,Viego,Blood Moon Viego,Epic,1350,2026-01-16
+100,Viego,Crime City Viego,Legacy,750,2023-07-24
+101,Viego,PROJECT Viego,Legacy,975,2023-12-27
+102,Gwen,Default Gwen,Default,0,2019-03-09
+103,Gwen,Pool Party Gwen,Legacy,975,2024-03-05
+104,Gwen,PROJECT Gwen,Epic,1350,2024-09-24
+105,Gwen,Star Guardian Gwen,Epic,1350,2022-07-04
+106,Gwen,Divine Sword Gwen,Legacy,520,2023-07-27
+107,Aphelios,Default Aphelios,Default,0,2018-09-11
+108,Aphelios,Pulsefire Aphelios,Legendary,1820,2021-07-15
+109,Aphelios,Crime City Aphelios,Epic,1350,2024-07-05
+110,Aphelios,Elderwood Aphelios,Epic,1350,2022-03-22
+111,Sett,Default Sett,Default,0,2019-05-11
+112,Sett,Snow Day Sett,Legendary,1820,2022-01-11
+113,Sett,Elderwood Sett,Epic,1350,2025-08-21
+114,Sett,Lunar Beast Sett,Legendary,1820,2023-11-13
+115,Sett,Pool Party Sett,Epic,1350,2021-04-01
+116,Samira,Default Samira,Default,0,2019-08-27
+117,Samira,Spirit Blossom Samira,Legacy,520,2025-04-19
+118,Samira,Dark Star Samira,Legacy,975,2022-03-03
+119,Samira,Star Guardian Samira,Legacy,975,2025-02-13
+120,Samira,Blood Moon Samira,Legacy,520,2021-10-15
+121,Samira,Coven Samira,Epic,1350,2023-03-10
+122,Miss Fortune,Default Miss Fortune,Default,0,2019-08-03
+123,Miss Fortune,Crime City Miss Fortune,Epic,1350,2024-01-10
+124,Miss Fortune,True Damage Miss Fortune,Epic,1350,2023-03-22
+125,Miss Fortune,Spirit Blossom Miss Fortune,Epic,1350,2025-10-21
+126,Miss Fortune,Pool Party Miss Fortune,Epic,1350,2025-09-25
+127,Ashe,Default Ashe,Default,0,2017-12-14
+128,Ashe,Divine Sword Ashe,Epic,1350,2023-03-03
+129,Ashe,Mecha Ashe,Epic,1350,2022-01-01
+130,Ashe,PROJECT Ashe,Epic,1350,2024-03-30
+131,Caitlyn,Default Caitlyn,Default,0,2020-02-03
+132,Caitlyn,Pool Party Caitlyn,Epic,1350,2025-01-24
+133,Caitlyn,Arcade Caitlyn,Epic,1350,2025-01-20
+134,Caitlyn,Star Guardian Caitlyn,Legacy,975,2024-01-16
+135,Caitlyn,Lunar Beast Caitlyn,Legacy,975,2024-06-21
+136,Caitlyn,Dark Star Caitlyn,Epic,1350,2024-07-29
+137,Caitlyn,Mecha Caitlyn,Epic,1350,2023-03-21
+138,Draven,Default Draven,Default,0,2018-05-21
+139,Draven,Blood Moon Draven,Epic,1350,2025-07-28
+140,Draven,Crime City Draven,Epic,1350,2023-01-11
+141,Draven,Pool Party Draven,Epic,1350,2021-11-11
+142,Pyke,Default Pyke,Default,0,2020-11-06
+143,Pyke,Dark Star Pyke,Legacy,750,2024-03-19
+144,Pyke,Blood Moon Pyke,Legacy,520,2025-01-06
+145,Pyke,Divine Sword Pyke,Epic,1350,2023-08-02
+146,Pyke,High Noon Pyke,Epic,1350,2025-06-27
+147,Pyke,Pulsefire Pyke,Epic,1350,2024-04-20
+148,Ekko,Default Ekko,Default,0,2020-12-24
+149,Ekko,Divine Sword Ekko,Epic,1350,2023-04-25
+150,Ekko,Dark Star Ekko,Epic,1350,2021-08-23
+151,Ekko,Blood Moon Ekko,Epic,1350,2022-04-12
+152,Ekko,Star Guardian Ekko,Epic,1350,2022-11-13
+153,Ekko,Elderwood Ekko,Legacy,975,2024-02-28
+154,Aatrox,Default Aatrox,Default,0,2018-12-15
+155,Aatrox,Snow Day Aatrox,Legacy,975,2023-11-18
+156,Aatrox,Pulsefire Aatrox,Epic,1350,2025-05-29
+157,Aatrox,Star Guardian Aatrox,Epic,1350,2023-05-16
