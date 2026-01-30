@@ -1,211 +1,104 @@
 import pandas as pd
-import random
-from datetime import datetime, timedelta
+import numpy as np
 import os
+from datetime import datetime, timedelta
+import random
 
-# ================= USTAWIENIA =================
+# ============================================================
+# GENERATE SOURCE – SYNTHETIC SALES DATA
+# ============================================================
+
+print("=" * 60)
+print("GENERATE SOURCE – SYNTHETIC SALES DATA")
+print("=" * 60)
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+SKINS_PATH = os.path.join(BASE_DIR, "csv", "dim_skins_merged.csv")
+OUTPUT_PATH = os.path.join(BASE_DIR, "csv", "fact_skin_sales.csv")
+
+# ------------------------------------------------------------
+# PARAMETRY GENEROWANIA
+# ------------------------------------------------------------
 NUM_PLAYERS = 5000
-NUM_TRANSACTIONS = 20000
+NUM_TRANSACTIONS = 100_000
+START_DATE = datetime(2022, 1, 1)
+END_DATE = datetime(2024, 12, 31)
 
-REGIONS = ["EUW", "EUNE", "NA", "KR"]
-SEGMENTS = ["casual", "core", "whale"]
+REGIONS = ["EUW", "EUNE", "NA", "KR", "BR", "JP"]
 
-# ================= SCIEZKI =================
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-skins_path = os.path.join(BASE_DIR, "dim_skins_with_prices.csv")
-dim_player_path = os.path.join(BASE_DIR, "dim_player.csv")
-fact_sales_path = os.path.join(BASE_DIR, "fact_sales.csv")
+# Wagi popularności rarity (im droższy, tym rzadziej kupowany)
+RARITY_WEIGHTS = {
+    "Common": 1.0,
+    "Uncommon": 0.9,
+    "Rare": 0.8,
+    "Epic": 0.6,
+    "Legendary": 0.35,
+    "Mythic": 0.15,
+    "Ultimate": 0.1
+}
 
-print("="*60)
-print("GENEROWANIE DANYCH ZRODLOWYCH DLA HURTOWNI")
-print("="*60)
+# ------------------------------------------------------------
+# WCZYTANIE DANYCH
+# ------------------------------------------------------------
+skins = pd.read_csv(SKINS_PATH)
 
-# ================= WCZYTAJ SKINY =================
-print("\nWczytywanie skinow z:", skins_path)
+print(f"Załadowano skinów: {len(skins)}")
 
-try:
-    dim_skin_df = pd.read_csv(skins_path)
-except FileNotFoundError:
-    print(f"BLAD: Nie znaleziono pliku {skins_path}")
-    print("Uruchom najpierw:")
-    print("  1. fetch_skins.py (Twoj skrypt)")
-    print("  2. add_prices_to_skins.py")
-    exit(1)
+# Usuwamy base skiny (dla pewności)
+skins = skins[~skins["skin_name"].str.lower().isin(["default", "base"])].copy()
 
-print(f"Wczytano {len(dim_skin_df)} skinow")
+# Wagi losowania
+skins["weight"] = skins["rarity"].map(RARITY_WEIGHTS).fillna(0.5)
 
-# Usun default skiny (nie sa sprzedawane)
-original_count = len(dim_skin_df)
-dim_skin_df = dim_skin_df[dim_skin_df["rarity"] != "Default"].copy()
-removed = original_count - len(dim_skin_df)
-print(f"Usunieto {removed} default skinow (nie sa sprzedawane)")
+# ------------------------------------------------------------
+# GENEROWANIE GRACZY
+# ------------------------------------------------------------
+players = pd.DataFrame({
+    "player_id": range(1, NUM_PLAYERS + 1),
+    "region": np.random.choice(REGIONS, NUM_PLAYERS),
+    "account_created": [
+        START_DATE + timedelta(days=random.randint(0, 900))
+        for _ in range(NUM_PLAYERS)
+    ]
+})
 
-# Utworz slownik skin_id -> price_rp
-skin_price_map = dict(zip(
-    dim_skin_df["skin_id_hurtownia"], 
-    dim_skin_df["price_rp"]
-))
-skin_ids = list(skin_price_map.keys())
-
-print(f"Dostepnych skinow do sprzedazy: {len(skin_ids)}")
-
-# Statystyki cenowe
-print("\nRozklad cen skinow:")
-price_stats = dim_skin_df.groupby('price_rp').size().sort_index()
-for price, count in price_stats.items():
-    print(f"  {price:4d} RP: {count:4d} skinow")
-
-# ================= GENERUJ DIM_PLAYER =================
-print("\n" + "="*60)
-print("GENEROWANIE GRACZY")
-print("="*60)
-
-players = []
-for i in range(1, NUM_PLAYERS + 1):
-    segment = random.choices(SEGMENTS, weights=[0.6, 0.3, 0.1])[0]
-    
-    # Data utworzenia konta (ostatnie 5 lat)
-    account_age_days = random.randint(30, 1825)
-    
-    players.append({
-        "player_id": i,
-        "region": random.choice(REGIONS),
-        "account_created_date": (
-            datetime.now() - timedelta(days=account_age_days)
-        ).date(),
-        "player_segment": segment
-    })
-
-dim_player_df = pd.DataFrame(players)
-
-# Statystyki graczy
-print(f"\nWygenerowano {len(dim_player_df)} graczy")
-print("\nRozklad segmentow:")
-segment_counts = dim_player_df['player_segment'].value_counts()
-for segment, count in segment_counts.items():
-    pct = (count / len(dim_player_df)) * 100
-    print(f"  {segment:8s}: {count:5d} ({pct:5.1f}%)")
-
-print("\nRozklad regionow:")
-region_counts = dim_player_df['region'].value_counts()
-for region, count in region_counts.items():
-    pct = (count / len(dim_player_df)) * 100
-    print(f"  {region:4s}: {count:5d} ({pct:5.1f}%)")
-
-dim_player_df.to_csv(dim_player_path, index=False)
-print(f"\nZapisano: {dim_player_path}")
-
-# ================= GENERUJ FACT_SALES =================
-print("\n" + "="*60)
-print("GENEROWANIE TRANSAKCJI")
-print("="*60)
-
-# Segmentacja skinow po cenie dla roznych typow graczy
-cheap_skins = [sid for sid, price in skin_price_map.items() if price <= 750]
-mid_skins = [sid for sid, price in skin_price_map.items() if 751 <= price <= 1350]
-expensive_skins = [sid for sid, price in skin_price_map.items() if price >= 1351]
-
-print(f"\nSkiny tanie (<=750 RP): {len(cheap_skins)}")
-print(f"Skiny srednie (751-1350 RP): {len(mid_skins)}")
-print(f"Skiny drogie (>=1351 RP): {len(expensive_skins)}")
-
+# ------------------------------------------------------------
+# GENEROWANIE TRANSAKCJI
+# ------------------------------------------------------------
 transactions = []
-for t in range(1, NUM_TRANSACTIONS + 1):
-    player = random.choice(players)
-    segment = player["player_segment"]
-    
-    # Wybor skina na podstawie segmentu gracza
-    if segment == "whale":
-        # Whales preferuja drogie skiny (70% drogie, 20% srednie, 10% tanie)
-        if expensive_skins:
-            skin_pool = (
-                expensive_skins * 7 +
-                (mid_skins * 2 if mid_skins else []) +
-                (cheap_skins * 1 if cheap_skins else [])
-            )
-        else:
-            skin_pool = skin_ids
-    elif segment == "core":
-        # Core preferuja srednie i drogie (50% srednie, 30% drogie, 20% tanie)
-        if mid_skins:
-            skin_pool = (
-                mid_skins * 5 +
-                (expensive_skins * 3 if expensive_skins else []) +
-                (cheap_skins * 2 if cheap_skins else [])
-            )
-        else:
-            skin_pool = skin_ids
-    else:  # casual
-        # Casual preferuja tanie i srednie (50% tanie, 40% srednie, 10% drogie)
-        if cheap_skins:
-            skin_pool = (
-                cheap_skins * 5 +
-                (mid_skins * 4 if mid_skins else []) +
-                (expensive_skins * 1 if expensive_skins else [])
-            )
-        else:
-            skin_pool = skin_ids
-    
-    # Jesli pool jest pusty (edge case), uzyj wszystkich skinow
-    if not skin_pool:
-        skin_pool = skin_ids
-    
-    skin_id = random.choice(skin_pool)
-    price_rp = skin_price_map[skin_id]
-    
-    # Data zakupu (ostatni rok)
-    purchase_days_ago = random.randint(1, 365)
-    purchase_date = (datetime.now() - timedelta(days=purchase_days_ago)).date()
-    
+
+skin_choices = skins.index.to_list()
+skin_weights = skins["weight"].to_list()
+
+for tx_id in range(1, NUM_TRANSACTIONS + 1):
+    skin_idx = random.choices(skin_choices, weights=skin_weights, k=1)[0]
+    skin = skins.loc[skin_idx]
+
+    player = players.sample(1).iloc[0]
+
+    sale_date = START_DATE + timedelta(
+        days=random.randint(0, (END_DATE - START_DATE).days)
+    )
+
     transactions.append({
-        "transaction_id": t,
+        "transaction_id": tx_id,
+        "sale_date": sale_date.date(),
         "player_id": player["player_id"],
-        "skin_id": skin_id,
-        "purchase_date": purchase_date,
-        "price_rp": price_rp,
-        "quantity": 1
+        "region": player["region"],
+        "champion_id": skin["champion_id"],
+        "skin_name": skin["skin_name"],
+        "rarity": skin["rarity"],
+        "price_rp": skin["price_rp"]
     })
 
-fact_sales_df = pd.DataFrame(transactions)
+fact_sales = pd.DataFrame(transactions)
 
-# Statystyki transakcji
-print(f"\nWygenerowano {len(fact_sales_df)} transakcji")
+# ------------------------------------------------------------
+# ZAPIS
+# ------------------------------------------------------------
+fact_sales.to_csv(OUTPUT_PATH, index=False)
 
-print("\nRozklad transakcji po segmentach:")
-sales_by_segment = fact_sales_df.merge(
-    dim_player_df[['player_id', 'player_segment']], 
-    on='player_id'
-)
-segment_sales = sales_by_segment['player_segment'].value_counts()
-for segment, count in segment_sales.items():
-    pct = (count / len(fact_sales_df)) * 100
-    print(f"  {segment:8s}: {count:5d} transakcji ({pct:5.1f}%)")
-
-print("\nRozklad wartosci transakcji:")
-price_distribution = fact_sales_df['price_rp'].value_counts().sort_index()
-for price, count in price_distribution.items():
-    pct = (count / len(fact_sales_df)) * 100
-    print(f"  {price:4d} RP: {count:5d} transakcji ({pct:5.1f}%)")
-
-# Calkowity przychod
-total_revenue = fact_sales_df['price_rp'].sum()
-print(f"\nCalkowity przychod: {total_revenue:,} RP")
-print(f"Srednia wartosc transakcji: {total_revenue / len(fact_sales_df):.2f} RP")
-
-fact_sales_df.to_csv(fact_sales_path, index=False)
-print(f"\nZapisano: {fact_sales_path}")
-
-# ================= PODSUMOWANIE =================
-print("\n" + "="*60)
-print("PODSUMOWANIE")
-print("="*60)
-print(f"\nDIM_PLAYER: {len(dim_player_df)} graczy")
-print(f"DIM_SKIN: {len(dim_skin_df)} skinow (bez Default)")
-print(f"FACT_SALES: {len(fact_sales_df)} transakcji")
-print(f"\nPliki zapisane w: {BASE_DIR}")
-print("  - dim_player.csv")
-print("  - dim_skins_with_prices.csv (zrodlo skinow)")
-print("  - fact_sales.csv")
-print("\n" + "="*60)
-print("GOTOWE! Dane sa gotowe do zaladowania do hurtowni SQL Server.")
-print("="*60)
+print(f"Zapisano: {OUTPUT_PATH}")
+print(f"Liczba transakcji: {len(fact_sales)}")
+print("=" * 60)
