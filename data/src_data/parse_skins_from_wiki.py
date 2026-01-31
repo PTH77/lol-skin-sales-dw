@@ -1,17 +1,25 @@
 import re
 import pandas as pd
+import os
 
 print("="*60)
 print("PARSOWANIE SKINDATA.LUA - POPRAWIONE")
 print("="*60)
 
-# Wczytaj plik
+# ================= ŚCIEŻKI =================
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DIR = os.path.join(BASE_DIR, "raw")
+
+INPUT_LUA = os.path.join(RAW_DIR, "skindata_raw.lua")
+OUTPUT_CSV = os.path.join(RAW_DIR, "wiki_skins_clean.csv")
+
+# ================= WCZYTAJ PLIK =================
 print("\nWczytywanie skindata_raw.lua...")
 try:
-    with open("skindata_raw.lua", "r", encoding="utf-8") as f:
+    with open(INPUT_LUA, "r", encoding="utf-8") as f:
         lua_content = f.read()
 except FileNotFoundError:
-    print("BŁĄD: Nie znaleziono pliku skindata_raw.lua")
+    print(f"BŁĄD: Nie znaleziono pliku {INPUT_LUA}")
     exit(1)
 
 print(f"Wczytano {len(lua_content):,} znaków")
@@ -115,7 +123,7 @@ for champ in champions_found[:10]:
 
 # Jeśli za mało skinów, użyj prostszego parsera
 if len(skins) < 500:
-    print("\n⚠️ Za mało skinów! Używam prostszego parsera...")
+    print("\n Za mało skinów! Używam prostszego parsera...")
     
     skins = []
     
@@ -214,11 +222,10 @@ for price, count in df['price_rp'].value_counts().sort_index().head(15).items():
     print(f"  {price:4d} RP: {count:4d}")
 
 # Zapisz
-output = "wiki_skins_clean.csv"
-df.to_csv(output, index=False)
+df.to_csv(OUTPUT_CSV, index=False)
 
 print(f"\n{'='*60}")
-print(f"Zapisano: {output}")
+print(f"Zapisano: {OUTPUT_CSV}")
 print(f"{'='*60}")
 
 # Przykłady

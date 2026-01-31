@@ -1,4 +1,6 @@
+-- ================================================================
 -- SILVER LAYER - Cleaned and validated data
+-- ================================================================
 -- Database: lol_skins_dw
 -- Purpose: Transform Bronze → Silver with data quality rules
 
@@ -99,7 +101,7 @@ CREATE TABLE silver.dim_skin (
     
     -- Constraints
     CONSTRAINT chk_price_positive CHECK (price_rp >= 0),
-    CONSTRAINT chk_rarity_valid CHECK (rarity IN ('Legacy', 'Epic', 'Legendary', 'Ultimate'))
+    CONSTRAINT chk_rarity_valid CHECK (rarity IN ('Default', 'Legacy', 'Epic', 'Legendary', 'Ultimate'))
 );
 
 COMMENT ON TABLE silver.dim_skin IS 'Validated skin dimension';
@@ -123,7 +125,7 @@ SELECT
         WHEN champion_name IS NULL OR TRIM(champion_name) = '' THEN FALSE
         WHEN skin_name IS NULL OR TRIM(skin_name) = '' THEN FALSE
         WHEN price_rp < 0 THEN FALSE
-        WHEN rarity NOT IN ('Legacy', 'Epic', 'Legendary', 'Ultimate') THEN FALSE
+        WHEN rarity NOT IN ('Default', 'Legacy', 'Epic', 'Legendary', 'Ultimate') THEN FALSE
         ELSE TRUE
     END as is_valid
 FROM bronze.stg_skins

@@ -6,17 +6,19 @@ import os
 # ================= USTAWIENIA =================
 NUM_PLAYERS = 5000
 NUM_TRANSACTIONS = 20000
+ERROR_RATE = 0.10  # 10% błędnych danych w transakcjach
 
 REGIONS = ["EUW", "EUNE", "NA", "KR"]
 SEGMENTS = ["casual", "core", "whale"]
 
 # ================= SCIEZKI =================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_DIR = os.path.join(BASE_DIR, "..", "csv")
+DATA_RAW_DIR = os.path.join(BASE_DIR, "..", "raw")
+DATA_RAW_DIR = os.path.abspath(DATA_RAW_DIR)
 
-skins_path = os.path.join(CSV_DIR, "dim_skins_final.csv")
-dim_player_path = os.path.join(CSV_DIR, "dim_player.csv")
-fact_sales_path = os.path.join(CSV_DIR, "fact_sales.csv")
+skins_path = os.path.join(DATA_RAW_DIR, "dim_skins_final.csv")
+dim_player_path = os.path.join(DATA_RAW_DIR, "dim_player.csv")
+fact_sales_path = os.path.join(DATA_RAW_DIR, "fact_sales.csv")
 
 print("="*60)
 print("GENEROWANIE GRACZY I TRANSAKCJI")
@@ -110,6 +112,20 @@ print(f"Skiny średnie (751-1350 RP): {len(mid_skins)}")
 print(f"Skiny drogie (>=1351 RP): {len(expensive_skins)}")
 
 transactions = []
+
+# Tracking błędów
+error_log = {
+    'null_player_id': 0,
+    'null_skin_id': 0,
+    'null_price': 0,
+    'negative_price': 0,
+    'zero_quantity': 0,
+    'invalid_player_id': 0,
+    'invalid_skin_id': 0,
+    'future_date': 0,
+    'past_date': 0
+}
+
 for t in range(1, NUM_TRANSACTIONS + 1):
     player = random.choice(players)
     segment = player["player_segment"]
@@ -157,19 +173,90 @@ for t in range(1, NUM_TRANSACTIONS + 1):
     purchase_days_ago = random.randint(1, 365)
     purchase_date = (datetime.now() - timedelta(days=purchase_days_ago)).date()
     
+    quantity = 1
+    player_id = player["player_id"]
+    
+    # ================= WSTRZYKNIJ BŁĘDY (10% transakcji) =================
+    is_error = random.random() < ERROR_RATE
+    
+    if is_error:
+        error_type = random.choice([
+            'null_player_id',
+            'null_skin_id', 
+            'null_price',
+            'negative_price',
+            'zero_quantity',
+            'invalid_player_id',
+            'invalid_skin_id',
+            'future_date',
+            'past_date'
+        ])
+        
+        if error_type == 'null_player_id':
+            player_id = None
+            error_log['null_player_id'] += 1
+            
+        elif error_type == 'null_skin_id':
+            skin_id = None
+            error_log['null_skin_id'] += 1
+            
+        elif error_type == 'null_price':
+            price_rp = None
+            error_log['null_price'] += 1
+            
+        elif error_type == 'negative_price':
+            price_rp = random.randint(-1000, -1)
+            error_log['negative_price'] += 1
+            
+        elif error_type == 'zero_quantity':
+            quantity = 0
+            error_log['zero_quantity'] += 1
+            
+        elif error_type == 'invalid_player_id':
+            player_id = random.randint(10000, 99999)  # Nieistniejący
+            error_log['invalid_player_id'] += 1
+            
+        elif error_type == 'invalid_skin_id':
+            skin_id = random.randint(10000, 99999)  # Nieistniejący
+            error_log['invalid_skin_id'] += 1
+            
+        elif error_type == 'future_date':
+            purchase_date = (datetime.now() + timedelta(days=random.randint(1, 365))).date()
+            error_log['future_date'] += 1
+            
+        elif error_type == 'past_date':
+            purchase_date = (datetime.now() - timedelta(days=random.randint(3000, 5000))).date()
+            error_log['past_date'] += 1
+    
     transactions.append({
         "transaction_id": t,
-        "player_id": player["player_id"],
+        "player_id": player_id,
         "skin_id": skin_id,
         "purchase_date": purchase_date,
         "price_rp": price_rp,
-        "quantity": 1
+        "quantity": quantity
     })
+
+# Dodaj 1% duplikatów
+num_duplicates = int(NUM_TRANSACTIONS * 0.01)
+duplicates = random.sample(transactions, num_duplicates)
+for dup in duplicates:
+    new_dup = dup.copy()
+    new_dup['transaction_id'] = len(transactions) + 1
+    transactions.append(new_dup)
 
 fact_sales_df = pd.DataFrame(transactions)
 
 # Statystyki transakcji
 print(f"\nWygenerowano {len(fact_sales_df)} transakcji")
+print(f"  - Czyste: {NUM_TRANSACTIONS - sum(error_log.values())}")
+print(f"  - Błędne: {sum(error_log.values())} ({sum(error_log.values())/len(fact_sales_df)*100:.1f}%)")
+
+if sum(error_log.values()) > 0:
+    print("\nRaport błędów:")
+    for error_type, count in sorted(error_log.items(), key=lambda x: x[1], reverse=True):
+        if count > 0:
+            print(f"  {error_type:20s}: {count:4d}")
 
 print("\nRozkład transakcji po segmentach:")
 sales_by_segment = fact_sales_df.merge(
@@ -185,7 +272,9 @@ print("\nTop 10 najczęściej kupowanych cen:")
 price_distribution = fact_sales_df['price_rp'].value_counts().sort_values(ascending=False).head(10)
 for price, count in price_distribution.items():
     pct = (count / len(fact_sales_df)) * 100
-    print(f"  {price:4d} RP: {count:5d} transakcji ({pct:5.1f}%)")
+    price_label = "NULL" if pd.isna(price) else int(price)
+    print(f"  {price_label:>4} RP: {count:5d} transakcji ({pct:5.1f}%)")
+
 
 # Całkowity przychód
 total_revenue = fact_sales_df['price_rp'].sum()
@@ -209,15 +298,4 @@ print("="*60)
 print(f"\nDIM_PLAYER: {len(dim_player_df)} graczy")
 print(f"DIM_SKIN: {len(dim_skin_df)} skinów (bez Default)")
 print(f"FACT_SALES: {len(fact_sales_df)} transakcji")
-print(f"\nPliki zapisane w: {CSV_DIR}")
-print("  - dim_player.csv")
-print("  - dim_skins_final.csv (źródło skinów)")
-print("  - fact_sales.csv")
-print("\n" + "="*60)
-print("GOTOWE! Dane są gotowe do załadowania do SQL Server.")
-print("="*60)
-print("\nNastępne kroki:")
-print("1. Otwórz SQL Server Management Studio")
-print("2. Utwórz bazę danych 'LOLDW'")
-print("3. Załaduj dane przez SSIS (Visual Studio)")
-print("4. Zbuduj kostkę OLAP")
+print(f"\nPliki zapisane w: {DATA_RAW_DIR}")

@@ -1,0 +1,2047 @@
+champion_id,champion_name,skin_num,skin_name
+Aatrox,Aatrox,0,default
+Aatrox,Aatrox,1,Justicar Aatrox
+Aatrox,Aatrox,2,Mecha Aatrox
+Aatrox,Aatrox,3,Sea Hunter Aatrox
+Aatrox,Aatrox,7,Blood Moon Aatrox
+Aatrox,Aatrox,8,Prestige Blood Moon Aatrox
+Aatrox,Aatrox,9,Victorious Aatrox
+Aatrox,Aatrox,11,Odyssey Aatrox
+Aatrox,Aatrox,20,Prestige Blood Moon Aatrox (2022)
+Aatrox,Aatrox,21,Lunar Eclipse Aatrox
+Aatrox,Aatrox,30,DRX Aatrox
+Aatrox,Aatrox,31,Prestige DRX Aatrox
+Aatrox,Aatrox,33,Primordian Aatrox
+Ahri,Ahri,0,default
+Ahri,Ahri,1,Dynasty Ahri
+Ahri,Ahri,2,Midnight Ahri
+Ahri,Ahri,3,Foxfire Ahri
+Ahri,Ahri,4,Popstar Ahri
+Ahri,Ahri,5,Challenger Ahri
+Ahri,Ahri,6,Academy Ahri
+Ahri,Ahri,7,Arcade Ahri
+Ahri,Ahri,14,Star Guardian Ahri
+Ahri,Ahri,15,K/DA Ahri
+Ahri,Ahri,16,Prestige K/DA Ahri
+Ahri,Ahri,17,Elderwood Ahri
+Ahri,Ahri,27,Spirit Blossom Ahri
+Ahri,Ahri,28,K/DA ALL OUT Ahri
+Ahri,Ahri,42,Coven Ahri
+Ahri,Ahri,65,Prestige K/DA Ahri (2022)
+Ahri,Ahri,66,Arcana Ahri
+Ahri,Ahri,76,Snow Moon Ahri
+Ahri,Ahri,85,Risen Legend Ahri
+Ahri,Ahri,86,Immortalized Legend Ahri
+Ahri,Ahri,88,Spirit Blossom Springs Ahri
+Ahri,Ahri,89,After Hours Spirit Blossom Springs Ahri
+Akali,Akali,0,default
+Akali,Akali,1,Stinger Akali
+Akali,Akali,2,Infernal Akali
+Akali,Akali,3,All-star Akali
+Akali,Akali,4,Nurse Akali
+Akali,Akali,5,Blood Moon Akali
+Akali,Akali,6,Silverfang Akali
+Akali,Akali,7,Headhunter Akali
+Akali,Akali,8,Sashimi Akali
+Akali,Akali,9,K/DA Akali
+Akali,Akali,13,Prestige K/DA Akali
+Akali,Akali,14,PROJECT: Akali
+Akali,Akali,15,True Damage Akali
+Akali,Akali,32,K/DA ALL OUT Akali
+Akali,Akali,50,Crime City Nightmare Akali
+Akali,Akali,60,Prestige K/DA Akali (2022)
+Akali,Akali,61,Star Guardian Akali
+Akali,Akali,68,DRX Akali
+Akali,Akali,70,Coven Akali
+Akali,Akali,71,Prestige Coven Akali
+Akali,Akali,82,Empyrean Akali
+Akali,Akali,92,Spirit Blossom Akali
+Akshan,Akshan,0,default
+Akshan,Akshan,1,Cyber Pop Akshan
+Akshan,Akshan,10,Crystal Rose Akshan
+Akshan,Akshan,20,Three Honors Akshan
+Alistar,Alistar,0,default
+Alistar,Alistar,1,Black Alistar
+Alistar,Alistar,2,Golden Alistar
+Alistar,Alistar,3,Matador Alistar
+Alistar,Alistar,4,Longhorn Alistar
+Alistar,Alistar,5,Unchained Alistar
+Alistar,Alistar,6,Infernal Alistar
+Alistar,Alistar,7,Sweeper Alistar
+Alistar,Alistar,8,Marauder Alistar
+Alistar,Alistar,9,SKT T1 Alistar
+Alistar,Alistar,10,Moo Cow Alistar
+Alistar,Alistar,19,Hextech Alistar
+Alistar,Alistar,20,Conqueror Alistar
+Alistar,Alistar,22,Blackfrost Alistar
+Alistar,Alistar,29,Lunar Beast Alistar
+Alistar,Alistar,40,Elderwood Alistar
+Ambessa,Ambessa,0,default
+Ambessa,Ambessa,1,Chosen of the Wolf Ambessa
+Amumu,Amumu,0,default
+Amumu,Amumu,1,Pharaoh Amumu
+Amumu,Amumu,2,Vancouver Amumu
+Amumu,Amumu,3,Emumu
+Amumu,Amumu,4,Re-Gifted Amumu
+Amumu,Amumu,5,Almost-Prom King Amumu
+Amumu,Amumu,6,Little Knight Amumu
+Amumu,Amumu,7,Sad Robot Amumu
+Amumu,Amumu,8,Surprise Party Amumu
+Amumu,Amumu,17,Infernal Amumu
+Amumu,Amumu,23,Hextech Amumu
+Amumu,Amumu,24,Pumpkin Prince Amumu
+Amumu,Amumu,34,Porcelain Amumu
+Amumu,Amumu,44,Heartache Amumu
+Amumu,Amumu,53,Dumpling Darlings Amumu
+Anivia,Anivia,0,default
+Anivia,Anivia,1,Team Spirit Anivia
+Anivia,Anivia,2,Bird of Prey Anivia
+Anivia,Anivia,3,Noxus Hunter Anivia
+Anivia,Anivia,4,Hextech Anivia
+Anivia,Anivia,5,Blackfrost Anivia
+Anivia,Anivia,6,Prehistoric Anivia
+Anivia,Anivia,7,Festival Queen Anivia
+Anivia,Anivia,8,Papercraft Anivia
+Anivia,Anivia,17,Cosmic Flight Anivia
+Anivia,Anivia,27,Divine Phoenix Anivia
+Anivia,Anivia,37,Bewitching Batnivia
+Anivia,Anivia,46,Victorious Anivia
+Annie,Annie,0,default
+Annie,Annie,1,Goth Annie
+Annie,Annie,2,Red Riding Annie
+Annie,Annie,3,Annie in Wonderland
+Annie,Annie,4,Prom Queen Annie
+Annie,Annie,5,Frostfire Annie
+Annie,Annie,6,Reverse Annie
+Annie,Annie,7,FrankenTibbers Annie
+Annie,Annie,8,Panda Annie
+Annie,Annie,9,Sweetheart Annie
+Annie,Annie,10,Hextech Annie
+Annie,Annie,11,Super Galaxy Annie
+Annie,Annie,12,Annie-Versary
+Annie,Annie,13,Lunar Beast Annie
+Annie,Annie,22,Cafe Cuties Annie
+Annie,Annie,31,Fright Night Annie
+Annie,Annie,40,Winterblessed Annie
+Annie,Annie,50,Battle Princess Annie
+Aphelios,Aphelios,0,default
+Aphelios,Aphelios,1,Nightbringer Aphelios
+Aphelios,Aphelios,9,Lunar Beast Aphelios
+Aphelios,Aphelios,18,EDG Aphelios
+Aphelios,Aphelios,20,Spirit Blossom Aphelios
+Aphelios,Aphelios,30,HEARTSTEEL Aphelios
+Aphelios,Aphelios,40,Prestige Spirit Blossom Springs Aphelios
+Ashe,Ashe,0,default
+Ashe,Ashe,1,Freljord Ashe
+Ashe,Ashe,2,Sherwood Forest Ashe
+Ashe,Ashe,3,Woad Ashe
+Ashe,Ashe,4,Queen Ashe
+Ashe,Ashe,5,Amethyst Ashe
+Ashe,Ashe,6,Heartseeker Ashe
+Ashe,Ashe,7,Marauder Ashe
+Ashe,Ashe,8,PROJECT: Ashe
+Ashe,Ashe,9,Worlds 2017 Ashe
+Ashe,Ashe,11,Cosmic Queen Ashe
+Ashe,Ashe,17,High Noon Ashe
+Ashe,Ashe,23,Fae Dragon Ashe
+Ashe,Ashe,32,Coven Ashe
+Ashe,Ashe,43,Ocean Song Ashe
+Ashe,Ashe,52,Lunar Empress Ashe
+Ashe,Ashe,63,DRX Ashe
+Ashe,Ashe,65,Crystalis Motus Ashe
+Ashe,Ashe,67,Infernal Ashe
+Ashe,Ashe,76,Spirit Blossom Ashe
+AurelionSol,Aurelion Sol,0,default
+AurelionSol,Aurelion Sol,1,Ashen Lord Aurelion Sol
+AurelionSol,Aurelion Sol,2,Mecha Aurelion Sol
+AurelionSol,Aurelion Sol,11,Storm Dragon Aurelion Sol
+AurelionSol,Aurelion Sol,21,Inkshadow Aurelion Sol
+AurelionSol,Aurelion Sol,31,Porcelain Protector Aurelion Sol
+Aurora,Aurora,0,default
+Aurora,Aurora,1,Battle Bunny Aurora
+Aurora,Aurora,11,Arcana Aurora
+Azir,Azir,0,default
+Azir,Azir,1,Galactic Azir
+Azir,Azir,2,Gravelord Azir
+Azir,Azir,3,SKT T1 Azir
+Azir,Azir,4,Warring Kingdoms Azir
+Azir,Azir,5,Elderwood Azir
+Azir,Azir,14,Worlds 2022 Azir
+Azir,Azir,19,Attorney Azir
+Bard,Bard,0,default
+Bard,Bard,1,Elderwood Bard
+Bard,Bard,5,Snow Day Bard
+Bard,Bard,6,Bard Bard
+Bard,Bard,8,Astronaut Bard
+Bard,Bard,17,Cafe Cuties Bard
+Bard,Bard,26,Shan Hai Scrolls Bard
+Bard,Bard,35,T1 Bard
+Bard,Bard,37,Spirit Blossom Bard
+Belveth,Bel'Veth,0,default
+Belveth,Bel'Veth,1,Battle Boss Bel'Veth
+Belveth,Bel'Veth,10,Cosmic Matriarch Bel'Veth
+Belveth,Bel'Veth,19,Primordian Bel'Veth
+Blitzcrank,Blitzcrank,0,default
+Blitzcrank,Blitzcrank,1,Rusty Blitzcrank
+Blitzcrank,Blitzcrank,2,Goalkeeper Blitzcrank
+Blitzcrank,Blitzcrank,3,Boom Boom Blitzcrank
+Blitzcrank,Blitzcrank,4,Piltover Customs Blitzcrank
+Blitzcrank,Blitzcrank,5,Definitely Not Blitzcrank
+Blitzcrank,Blitzcrank,6,iBlitzcrank
+Blitzcrank,Blitzcrank,7,Riot Blitzcrank
+Blitzcrank,Blitzcrank,11,Battle Boss Blitzcrank
+Blitzcrank,Blitzcrank,20,Lancer Rogue Blitzcrank
+Blitzcrank,Blitzcrank,21,Lancer Paragon Blitzcrank
+Blitzcrank,Blitzcrank,22,Witch's Brew Blitzcrank
+Blitzcrank,Blitzcrank,29,Space Groove Blitz & Crank
+Blitzcrank,Blitzcrank,36,Victorious Blitzcrank
+Blitzcrank,Blitzcrank,47,Zenith Games Blitzcrank
+Blitzcrank,Blitzcrank,56,Beezcrank
+Brand,Brand,0,default
+Brand,Brand,1,Apocalyptic Brand
+Brand,Brand,2,Vandal Brand
+Brand,Brand,3,Cryocore Brand
+Brand,Brand,4,Zombie Brand
+Brand,Brand,5,Spirit Fire Brand
+Brand,Brand,6,Battle Boss Brand
+Brand,Brand,7,Arclight Brand
+Brand,Brand,8,Eternal Dragon Brand
+Brand,Brand,21,Debonair Brand
+Brand,Brand,22,Prestige Debonair Brand
+Brand,Brand,33,Street Demons Brand
+Brand,Brand,42,Empyrean Brand
+Braum,Braum,0,default
+Braum,Braum,1,Dragonslayer Braum
+Braum,Braum,2,El Tigre Braum
+Braum,Braum,3,Braum Lionheart
+Braum,Braum,10,Santa Braum
+Braum,Braum,11,Crime City Braum
+Braum,Braum,24,Sugar Rush Braum
+Braum,Braum,33,Pool Party Braum
+Braum,Braum,42,Grill Master Braum
+Briar,Briar,0,default
+Briar,Briar,1,Street Demons Briar
+Briar,Briar,10,Primordian Briar
+Briar,Briar,20,Battle Academia Briar
+Caitlyn,Caitlyn,0,default
+Caitlyn,Caitlyn,1,Resistance Caitlyn
+Caitlyn,Caitlyn,2,Sheriff Caitlyn
+Caitlyn,Caitlyn,3,Safari Caitlyn
+Caitlyn,Caitlyn,4,Arctic Warfare Caitlyn
+Caitlyn,Caitlyn,5,Officer Caitlyn
+Caitlyn,Caitlyn,6,Headhunter Caitlyn
+Caitlyn,Caitlyn,10,Lunar Wraith Caitlyn
+Caitlyn,Caitlyn,11,Pulsefire Caitlyn
+Caitlyn,Caitlyn,13,Pool Party Caitlyn
+Caitlyn,Caitlyn,19,Arcade Caitlyn
+Caitlyn,Caitlyn,20,Prestige Arcade Caitlyn
+Caitlyn,Caitlyn,22,Battle Academia Caitlyn
+Caitlyn,Caitlyn,28,Arcane Enforcer Caitlyn
+Caitlyn,Caitlyn,29,Prestige Arcade Caitlyn (2022)
+Caitlyn,Caitlyn,30,Snow Moon Caitlyn
+Caitlyn,Caitlyn,39,Heartthrob Caitlyn
+Caitlyn,Caitlyn,48,DRX Caitlyn
+Caitlyn,Caitlyn,50,Arcane Commander Caitlyn
+Caitlyn,Caitlyn,51,Prestige Arcane Commander Caitlyn
+Camille,Camille,0,default
+Camille,Camille,1,Program Camille
+Camille,Camille,2,Coven Camille
+Camille,Camille,10,iG Camille
+Camille,Camille,11,Arcana Camille
+Camille,Camille,21,Strike Commander Camille
+Camille,Camille,31,Winterblessed Camille
+Camille,Camille,32,Prestige Winterblessed Camille
+Cassiopeia,Cassiopeia,0,default
+Cassiopeia,Cassiopeia,1,Desperada Cassiopeia
+Cassiopeia,Cassiopeia,2,Siren Cassiopeia
+Cassiopeia,Cassiopeia,3,Mythic Cassiopeia
+Cassiopeia,Cassiopeia,4,Jade Fang Cassiopeia
+Cassiopeia,Cassiopeia,8,Eternum Cassiopeia
+Cassiopeia,Cassiopeia,9,Spirit Blossom Cassiopeia
+Cassiopeia,Cassiopeia,18,Coven Cassiopeia
+Cassiopeia,Cassiopeia,28,Bewitching Cassiopeia
+Cassiopeia,Cassiopeia,38,Prestige Mythmaker Cassiopeia
+Chogath,Cho'Gath,0,default
+Chogath,Cho'Gath,1,Nightmare Cho'Gath
+Chogath,Cho'Gath,2,Gentleman Cho'Gath
+Chogath,Cho'Gath,3,Loch Ness Cho'Gath
+Chogath,Cho'Gath,4,Jurassic Cho'Gath
+Chogath,Cho'Gath,5,Battlecast Prime Cho'Gath
+Chogath,Cho'Gath,6,Prehistoric Cho'Gath
+Chogath,Cho'Gath,7,Dark Star Cho'Gath
+Chogath,Cho'Gath,14,Shan Hai Scrolls Cho'Gath
+Chogath,Cho'Gath,23,Broken Covenant Cho'Gath
+Chogath,Cho'Gath,32,Toy Terror Cho'Gath
+Chogath,Cho'Gath,41,Petricite Cho'Gath
+Corki,Corki,0,default
+Corki,Corki,1,UFO Corki
+Corki,Corki,2,Ice Toboggan Corki
+Corki,Corki,3,Red Baron Corki
+Corki,Corki,4,Hot Rod Corki
+Corki,Corki,5,Urfrider Corki
+Corki,Corki,6,Dragonwing Corki
+Corki,Corki,7,Fnatic Corki
+Corki,Corki,8,Arcade Corki
+Corki,Corki,18,Corgi Corki
+Corki,Corki,26,Astronaut Corki
+Corki,Corki,36,Brick Toy Corki
+Darius,Darius,0,default
+Darius,Darius,1,Lord Darius
+Darius,Darius,2,Bioforge Darius
+Darius,Darius,3,Woad King Darius
+Darius,Darius,4,Dunkmaster Darius
+Darius,Darius,8,Academy Darius
+Darius,Darius,14,Dreadnova Darius
+Darius,Darius,15,God-King Darius
+Darius,Darius,16,High Noon Darius
+Darius,Darius,24,Lunar Beast Darius
+Darius,Darius,33,Crime City Nightmare Darius
+Darius,Darius,43,Spirit Blossom Darius
+Darius,Darius,54,Porcelain Darius
+Darius,Darius,64,Divine God-King Darius
+Darius,Darius,65,Prestige Triumphant General Darius
+Darius,Darius,67,Mecha Kingdoms Darius
+Diana,Diana,0,default
+Diana,Diana,1,Dark Valkyrie Diana
+Diana,Diana,2,Lunar Goddess Diana
+Diana,Diana,3,Infernal Diana
+Diana,Diana,11,Blood Moon Diana
+Diana,Diana,12,Dark Waters Diana
+Diana,Diana,18,Dragonslayer Diana
+Diana,Diana,25,Battle Queen Diana
+Diana,Diana,26,Prestige Battle Queen Diana
+Diana,Diana,27,Sentinel Diana
+Diana,Diana,37,Firecracker Diana
+Diana,Diana,47,Winterblessed Diana
+Diana,Diana,54,Heavenscale Diana
+Diana,Diana,64,Dark Cosmic Diana
+Diana,Diana,65,Prestige Dark Cosmic Diana
+Draven,Draven,0,default
+Draven,Draven,1,Soul Reaver Draven
+Draven,Draven,2,Gladiator Draven
+Draven,Draven,3,Primetime Draven
+Draven,Draven,4,Pool Party Draven
+Draven,Draven,5,Beast Hunter Draven
+Draven,Draven,6,Draven Draven
+Draven,Draven,12,Santa Draven
+Draven,Draven,13,Mecha Kingdoms Draven
+Draven,Draven,20,Ruined Draven
+Draven,Draven,29,Debonair Draven
+Draven,Draven,39,Fright Night Draven
+Draven,Draven,48,La Ilusión Draven
+Draven,Draven,58,Grand Reckoning Draven
+Draven,Draven,68,Victorious Draven
+DrMundo,Dr. Mundo,0,default
+DrMundo,Dr. Mundo,1,Toxic Dr. Mundo
+DrMundo,Dr. Mundo,2,Mr. Mundoverse
+DrMundo,Dr. Mundo,3,Corporate Mundo
+DrMundo,Dr. Mundo,4,Mundo Mundo
+DrMundo,Dr. Mundo,5,Executioner Mundo
+DrMundo,Dr. Mundo,6,Rageborn Mundo
+DrMundo,Dr. Mundo,7,TPA Mundo
+DrMundo,Dr. Mundo,8,Pool Party Mundo
+DrMundo,Dr. Mundo,9,El Macho Mundo
+DrMundo,Dr. Mundo,10,Frozen Prince Mundo
+DrMundo,Dr. Mundo,21,Street Demons Dr. Mundo
+Ekko,Ekko,0,default
+Ekko,Ekko,1,Sandstorm Ekko
+Ekko,Ekko,2,Academy Ekko
+Ekko,Ekko,3,PROJECT: Ekko
+Ekko,Ekko,11,SKT T1 Ekko
+Ekko,Ekko,12,Trick or Treat Ekko
+Ekko,Ekko,19,True Damage Ekko
+Ekko,Ekko,28,Pulsefire Ekko
+Ekko,Ekko,36,Arcane Firelight Ekko
+Ekko,Ekko,45,Star Guardian Ekko
+Ekko,Ekko,46,Prestige Star Guardian Ekko
+Ekko,Ekko,56,Breakout True Damage Ekko
+Ekko,Ekko,57,Arcane Last Stand Ekko
+Elise,Elise,0,default
+Elise,Elise,1,Death Blossom Elise
+Elise,Elise,2,Victorious Elise
+Elise,Elise,3,Blood Moon Elise
+Elise,Elise,4,SKT T1 Elise
+Elise,Elise,5,Super Galaxy Elise
+Elise,Elise,6,Bewitching Elise
+Elise,Elise,15,Withered Rose Elise
+Elise,Elise,24,Coven Elise
+Elise,Elise,34,Masque of the Black Rose Elise
+Evelynn,Evelynn,0,default
+Evelynn,Evelynn,1,Shadow Evelynn
+Evelynn,Evelynn,2,Masquerade Evelynn
+Evelynn,Evelynn,3,Tango Evelynn
+Evelynn,Evelynn,4,Safecracker Evelynn
+Evelynn,Evelynn,5,Blood Moon Evelynn
+Evelynn,Evelynn,6,K/DA Evelynn
+Evelynn,Evelynn,7,Prestige K/DA Evelynn
+Evelynn,Evelynn,8,Sugar Rush Evelynn
+Evelynn,Evelynn,15,K/DA ALL OUT Evelynn
+Evelynn,Evelynn,24,Coven Evelynn
+Evelynn,Evelynn,31,Prestige K/DA Evelynn (2022)
+Evelynn,Evelynn,32,Spirit Blossom Evelynn
+Evelynn,Evelynn,42,Soul Fighter Evelynn
+Evelynn,Evelynn,52,High Noon Evelynn
+Evelynn,Evelynn,53,Prestige High Noon Evelynn
+Evelynn,Evelynn,64,Nightbringer Evelynn
+Ezreal,Ezreal,0,default
+Ezreal,Ezreal,1,Nottingham Ezreal
+Ezreal,Ezreal,2,Striker Ezreal
+Ezreal,Ezreal,3,Frosted Ezreal
+Ezreal,Ezreal,4,Explorer Ezreal
+Ezreal,Ezreal,5,Pulsefire Ezreal
+Ezreal,Ezreal,6,TPA Ezreal
+Ezreal,Ezreal,7,Debonair Ezreal
+Ezreal,Ezreal,8,Ace of Spades Ezreal
+Ezreal,Ezreal,9,Arcade Ezreal
+Ezreal,Ezreal,18,Star Guardian Ezreal
+Ezreal,Ezreal,19,SSG Ezreal
+Ezreal,Ezreal,20,Pajama Guardian Ezreal
+Ezreal,Ezreal,21,Battle Academia Ezreal
+Ezreal,Ezreal,22,PsyOps Ezreal
+Ezreal,Ezreal,23,Prestige PsyOps Ezreal
+Ezreal,Ezreal,25,Porcelain Protector Ezreal
+Ezreal,Ezreal,33,Faerie Court Ezreal
+Ezreal,Ezreal,43,HEARTSTEEL Ezreal
+Ezreal,Ezreal,44,Heavenscale Ezreal
+Ezreal,Ezreal,54,Prestige Heavenscale Ezreal
+Ezreal,Ezreal,65,Masque of the Black Rose Ezreal
+Fiddlesticks,Fiddlesticks,0,default
+Fiddlesticks,Fiddlesticks,1,Spectral Fiddlesticks
+Fiddlesticks,Fiddlesticks,2,Union Jack Fiddlesticks
+Fiddlesticks,Fiddlesticks,3,Bandito Fiddlesticks
+Fiddlesticks,Fiddlesticks,4,Pumpkinhead Fiddlesticks
+Fiddlesticks,Fiddlesticks,5,Fiddle Me Timbers
+Fiddlesticks,Fiddlesticks,6,Surprise Party Fiddlesticks
+Fiddlesticks,Fiddlesticks,7,Dark Candy Fiddlesticks
+Fiddlesticks,Fiddlesticks,8,Risen Fiddlesticks
+Fiddlesticks,Fiddlesticks,9,Praetorian Fiddlesticks
+Fiddlesticks,Fiddlesticks,27,Star Nemesis Fiddlesticks
+Fiddlesticks,Fiddlesticks,37,Blood Moon Fiddlesticks
+Fiddlesticks,Fiddlesticks,46,Flora Fatalis Fiddlesticks
+Fiora,Fiora,0,default
+Fiora,Fiora,1,Royal Guard Fiora
+Fiora,Fiora,2,Nightraven Fiora
+Fiora,Fiora,3,Headmistress Fiora
+Fiora,Fiora,4,PROJECT: Fiora
+Fiora,Fiora,5,Pool Party Fiora
+Fiora,Fiora,22,Soaring Sword Fiora
+Fiora,Fiora,23,Heartpiercer Fiora
+Fiora,Fiora,31,iG Fiora
+Fiora,Fiora,41,Pulsefire Fiora
+Fiora,Fiora,50,Lunar Beast Fiora
+Fiora,Fiora,51,Prestige Lunar Beast Fiora
+Fiora,Fiora,60,Bewitching Fiora
+Fiora,Fiora,69,Faerie Court Fiora
+Fiora,Fiora,80,Dragonmancer Fiora
+Fiora,Fiora,89,Battle Queen Fiora
+Fiora,Fiora,98,Victorious Fiora
+Fizz,Fizz,0,default
+Fizz,Fizz,1,Atlantean Fizz
+Fizz,Fizz,2,Tundra Fizz
+Fizz,Fizz,3,Fisherman Fizz
+Fizz,Fizz,4,Void Fizz
+Fizz,Fizz,8,Cottontail Fizz
+Fizz,Fizz,9,Super Galaxy Fizz
+Fizz,Fizz,10,Omega Squad Fizz
+Fizz,Fizz,14,Fuzz Fizz
+Fizz,Fizz,15,Prestige Fuzz Fizz
+Fizz,Fizz,16,Little Devil Fizz
+Fizz,Fizz,25,Prestige Fuzz Fizz (2022)
+Fizz,Fizz,26,Astronaut Fizz
+Fizz,Fizz,35,Rain Shepherd Fizz
+Galio,Galio,0,default
+Galio,Galio,1,Enchanted Galio
+Galio,Galio,2,Hextech Galio
+Galio,Galio,3,Commando Galio
+Galio,Galio,4,Gatekeeper Galio
+Galio,Galio,5,Debonair Galio
+Galio,Galio,6,Birdio
+Galio,Galio,13,Infernal Galio
+Galio,Galio,19,Dragon Guardian Galio
+Galio,Galio,28,Mythmaker Galio
+Galio,Galio,40,Aegis Frame Galio
+Gangplank,Gangplank,0,default
+Gangplank,Gangplank,1,Spooky Gangplank
+Gangplank,Gangplank,2,Minuteman Gangplank
+Gangplank,Gangplank,3,Sailor Gangplank
+Gangplank,Gangplank,4,Toy Soldier Gangplank
+Gangplank,Gangplank,5,Special Forces Gangplank
+Gangplank,Gangplank,6,Sultan Gangplank
+Gangplank,Gangplank,7,Captain Gangplank
+Gangplank,Gangplank,8,Dreadnova Gangplank
+Gangplank,Gangplank,14,Pool Party Gangplank
+Gangplank,Gangplank,21,FPX Gangplank
+Gangplank,Gangplank,23,Gangplank the Betrayer
+Gangplank,Gangplank,33,PROJECT: Gangplank
+Garen,Garen,0,default
+Garen,Garen,1,Sanguine Garen
+Garen,Garen,2,Desert Trooper Garen
+Garen,Garen,3,Commando Garen
+Garen,Garen,4,Dreadknight Garen
+Garen,Garen,5,Rugged Garen
+Garen,Garen,6,Steel Legion Garen
+Garen,Garen,10,Rogue Admiral Garen
+Garen,Garen,11,Warring Kingdoms Garen
+Garen,Garen,13,God-King Garen
+Garen,Garen,14,Demacia Vice Garen
+Garen,Garen,22,Mecha Kingdoms Garen
+Garen,Garen,23,Prestige Mecha Kingdoms Garen
+Garen,Garen,24,Battle Academia Garen
+Garen,Garen,33,Mythmaker Garen
+Garen,Garen,44,Fallen God-King Garen
+Garen,Garen,46,Visions of the Fallen Garen
+Gnar,Gnar,0,default
+Gnar,Gnar,1,Dino Gnar
+Gnar,Gnar,2,Gentleman Gnar
+Gnar,Gnar,3,Snow Day Gnar
+Gnar,Gnar,4,El León Gnar
+Gnar,Gnar,13,Super Galaxy Gnar
+Gnar,Gnar,14,SSG Gnar
+Gnar,Gnar,15,Astronaut Gnar
+Gnar,Gnar,22,Elderwood Gnar
+Gnar,Gnar,31,La Ilusión Gnar
+Gnar,Gnar,41,T1 Gnar
+Gragas,Gragas,0,default
+Gragas,Gragas,1,Scuba Gragas
+Gragas,Gragas,2,Hillbilly Gragas
+Gragas,Gragas,3,Santa Gragas
+Gragas,Gragas,4,"Gragas, Esq."
+Gragas,Gragas,5,Vandal Gragas
+Gragas,Gragas,6,Oktoberfest Gragas
+Gragas,Gragas,7,Superfan Gragas
+Gragas,Gragas,8,Fnatic Gragas
+Gragas,Gragas,9,Gragas Caskbreaker
+Gragas,Gragas,10,Arctic Ops Gragas
+Gragas,Gragas,11,Warden Gragas
+Gragas,Gragas,20,Space Groove Gragas
+Gragas,Gragas,29,High Noon Gragas
+Gragas,Gragas,39,Music Fan Gragas
+Graves,Graves,0,default
+Graves,Graves,1,Hired Gun Graves
+Graves,Graves,2,Jailbreak Graves
+Graves,Graves,3,Crime City Graves
+Graves,Graves,4,Riot Graves
+Graves,Graves,5,Pool Party Graves
+Graves,Graves,6,Cutthroat Graves
+Graves,Graves,7,Snow Day Graves
+Graves,Graves,14,Victorious Graves
+Graves,Graves,18,Praetorian Graves
+Graves,Graves,25,Battle Professor Graves
+Graves,Graves,35,Sentinel Graves
+Graves,Graves,42,EDG Graves
+Graves,Graves,45,Porcelain Graves
+Gwen,Gwen,0,default
+Gwen,Gwen,1,Space Groove Gwen
+Gwen,Gwen,11,Cafe Cuties Gwen
+Gwen,Gwen,20,Soul Fighter Gwen
+Gwen,Gwen,30,Battle Queen Gwen
+Gwen,Gwen,39,Rain Shepherd Gwen
+Hecarim,Hecarim,0,default
+Hecarim,Hecarim,1,Blood Knight Hecarim
+Hecarim,Hecarim,2,Reaper Hecarim
+Hecarim,Hecarim,3,Headless Hecarim
+Hecarim,Hecarim,4,Arcade Hecarim
+Hecarim,Hecarim,5,Elderwood Hecarim
+Hecarim,Hecarim,6,Worldbreaker Hecarim
+Hecarim,Hecarim,7,Lancer Zero Hecarim
+Hecarim,Hecarim,8,High Noon Hecarim
+Hecarim,Hecarim,14,Cosmic Charger Hecarim
+Hecarim,Hecarim,22,Arcana Hecarim
+Hecarim,Hecarim,31,Winterblessed Hecarim
+Hecarim,Hecarim,41,Nightbringer Hecarim
+Heimerdinger,Heimerdinger,0,default
+Heimerdinger,Heimerdinger,1,Alien Invader Heimerdinger
+Heimerdinger,Heimerdinger,2,Blast Zone Heimerdinger
+Heimerdinger,Heimerdinger,3,Piltover Customs Heimerdinger
+Heimerdinger,Heimerdinger,4,Snowmerdinger
+Heimerdinger,Heimerdinger,5,Hazmat Heimerdinger
+Heimerdinger,Heimerdinger,6,Dragon Trainer Heimerdinger
+Heimerdinger,Heimerdinger,15,Pool Party Heimerdinger
+Heimerdinger,Heimerdinger,24,Heimerstinger
+Heimerdinger,Heimerdinger,33,Arcane Professor Heimerdinger
+Hwei,Hwei,0,default
+Hwei,Hwei,1,Winterblessed Hwei
+Hwei,Hwei,11,Spirit Blossom Hwei
+Illaoi,Illaoi,0,default
+Illaoi,Illaoi,1,Void Bringer Illaoi
+Illaoi,Illaoi,2,Resistance Illaoi
+Illaoi,Illaoi,10,Cosmic Invoker Illaoi
+Illaoi,Illaoi,18,Snow Moon Illaoi
+Illaoi,Illaoi,27,Battle Bear Illaoi
+Irelia,Irelia,0,default
+Irelia,Irelia,1,Nightblade Irelia
+Irelia,Irelia,2,Aviator Irelia
+Irelia,Irelia,3,Infiltrator Irelia
+Irelia,Irelia,4,Frostblade Irelia
+Irelia,Irelia,5,Order of the Lotus Irelia
+Irelia,Irelia,6,Divine Sword Irelia
+Irelia,Irelia,15,iG Irelia
+Irelia,Irelia,16,PROJECT: Irelia
+Irelia,Irelia,17,Prestige PROJECT: Irelia
+Irelia,Irelia,18,High Noon Irelia
+Irelia,Irelia,26,Sentinel Irelia
+Irelia,Irelia,36,Prestige PROJECT: Irelia (2022)
+Irelia,Irelia,37,Mythmaker Irelia
+Irelia,Irelia,45,Porcelain Irelia
+Irelia,Irelia,55,Spirit Blossom Irelia
+Ivern,Ivern,0,default
+Ivern,Ivern,1,Candy King Ivern
+Ivern,Ivern,2,Dunkmaster Ivern
+Ivern,Ivern,11,Old God Ivern
+Ivern,Ivern,20,Astronaut Ivern
+Ivern,Ivern,30,Spirit Blossom Ivern
+Janna,Janna,0,default
+Janna,Janna,1,Tempest Janna
+Janna,Janna,2,Hextech Janna
+Janna,Janna,3,Frost Queen Janna
+Janna,Janna,4,Victorious Janna
+Janna,Janna,5,Forecast Janna
+Janna,Janna,6,Fnatic Janna
+Janna,Janna,7,Star Guardian Janna
+Janna,Janna,8,Sacred Sword Janna
+Janna,Janna,13,Bewitching Janna
+Janna,Janna,20,Guardian of the Sands Janna
+Janna,Janna,27,Battle Queen Janna
+Janna,Janna,36,Crystal Rose Janna
+Janna,Janna,45,Cyber Halo Janna
+Janna,Janna,46,Prestige Cyber Halo Janna
+Janna,Janna,56,Heavenscale Janna
+Janna,Janna,66,Dawnbringer Janna
+JarvanIV,Jarvan IV,0,default
+JarvanIV,Jarvan IV,1,Commando Jarvan IV
+JarvanIV,Jarvan IV,2,Dragonslayer Jarvan IV
+JarvanIV,Jarvan IV,3,Darkforge Jarvan IV
+JarvanIV,Jarvan IV,4,Victorious Jarvan IV
+JarvanIV,Jarvan IV,5,Warring Kingdoms Jarvan IV
+JarvanIV,Jarvan IV,6,Fnatic Jarvan IV
+JarvanIV,Jarvan IV,7,Dark Star Jarvan IV
+JarvanIV,Jarvan IV,8,SSG Jarvan IV
+JarvanIV,Jarvan IV,9,Hextech Jarvan IV
+JarvanIV,Jarvan IV,11,Pool Party Jarvan IV
+JarvanIV,Jarvan IV,21,Lunar Beast Jarvan IV
+JarvanIV,Jarvan IV,30,Worlds 2021 Jarvan IV
+JarvanIV,Jarvan IV,35,Nightbringer Jarvan IV
+JarvanIV,Jarvan IV,44,Mythmaker Jarvan IV
+JarvanIV,Jarvan IV,54,Prestige Visions of the Fallen Jarvan IV
+Jax,Jax,0,default
+Jax,Jax,1,The Mighty Jax
+Jax,Jax,2,Vandal Jax
+Jax,Jax,3,Angler Jax
+Jax,Jax,4,PAX Jax
+Jax,Jax,5,Jaximus
+Jax,Jax,6,Temple Jax
+Jax,Jax,7,Nemesis Jax
+Jax,Jax,8,SKT T1 Jax
+Jax,Jax,12,Warden Jax
+Jax,Jax,13,God Staff Jax
+Jax,Jax,14,Mecha Kingdoms Jax
+Jax,Jax,20,Conqueror Jax
+Jax,Jax,21,Prestige Conqueror Jax
+Jax,Jax,22,Empyrean Jax
+Jax,Jax,32,Neo PAX Jax
+Jax,Jax,33,PROJECT: Jax
+Jayce,Jayce,0,default
+Jayce,Jayce,1,Full Metal Jayce
+Jayce,Jayce,2,Debonair Jayce
+Jayce,Jayce,3,Forsaken Jayce
+Jayce,Jayce,4,Jayce Brighthammer
+Jayce,Jayce,5,Battle Academia Jayce
+Jayce,Jayce,15,Resistance Jayce
+Jayce,Jayce,24,Arcane Inventor Jayce
+Jayce,Jayce,25,Zenith Games Jayce
+Jayce,Jayce,34,T1 Jayce
+Jayce,Jayce,35,Arcane Survivor Jayce
+Jayce,Jayce,36,Prestige T1 Jayce
+Jhin,Jhin,0,default
+Jhin,Jhin,1,High Noon Jhin
+Jhin,Jhin,2,Blood Moon Jhin
+Jhin,Jhin,3,SKT T1 Jhin
+Jhin,Jhin,4,PROJECT: Jhin
+Jhin,Jhin,5,Dark Cosmic Jhin
+Jhin,Jhin,14,Shan Hai Scrolls Jhin
+Jhin,Jhin,23,DWG Jhin
+Jhin,Jhin,25,Empyrean Jhin
+Jhin,Jhin,36,Soul Fighter Jhin
+Jhin,Jhin,37,Dark Cosmic Erasure Jhin
+Jhin,Jhin,47,Mythmaker Jhin
+Jhin,Jhin,55,Arcana Jhin
+Jinx,Jinx,0,default
+Jinx,Jinx,1,Crime City Jinx
+Jinx,Jinx,2,Firecracker Jinx
+Jinx,Jinx,3,Zombie Slayer Jinx
+Jinx,Jinx,4,Star Guardian Jinx
+Jinx,Jinx,12,Ambitious Elf Jinx
+Jinx,Jinx,13,Odyssey Jinx
+Jinx,Jinx,20,PROJECT: Jinx
+Jinx,Jinx,29,Heartseeker Jinx
+Jinx,Jinx,37,Arcane Enemy Jinx
+Jinx,Jinx,38,Battle Cat Jinx
+Jinx,Jinx,40,Prestige Battle Cat Jinx
+Jinx,Jinx,51,Cafe Cuties Jinx
+Jinx,Jinx,60,Arcane Fractured Jinx
+Jinx,Jinx,62,T1 Jinx
+Kaisa,Kai'Sa,0,default
+Kaisa,Kai'Sa,1,Bullet Angel Kai'Sa
+Kaisa,Kai'Sa,14,K/DA Kai'Sa
+Kaisa,Kai'Sa,15,Prestige K/DA Kai'Sa
+Kaisa,Kai'Sa,16,iG Kai'Sa
+Kaisa,Kai'Sa,17,Arcade Kai'Sa
+Kaisa,Kai'Sa,26,K/DA ALL OUT Kai'Sa
+Kaisa,Kai'Sa,27,Prestige K/DA ALL OUT Kai'Sa
+Kaisa,Kai'Sa,29,Lagoon Dragon Kai'Sa
+Kaisa,Kai'Sa,39,Prestige K/DA Kai'Sa (2022)
+Kaisa,Kai'Sa,40,Star Guardian Kai'Sa
+Kaisa,Kai'Sa,48,Inkshadow Kai'Sa
+Kaisa,Kai'Sa,59,Heavenscale Kai'Sa
+Kaisa,Kai'Sa,69,Dark Star Kai'Sa
+Kaisa,Kai'Sa,70,Risen Legend Kai'Sa
+Kaisa,Kai'Sa,71,Immortalized Legend Kai'Sa
+Kalista,Kalista,0,default
+Kalista,Kalista,1,Blood Moon Kalista
+Kalista,Kalista,2,Worlds 2015 Kalista
+Kalista,Kalista,3,SKT T1 Kalista
+Kalista,Kalista,5,Marauder Kalista
+Kalista,Kalista,14,Faerie Court Kalista
+Kalista,Kalista,24,Dawnbringer Kalista
+Karma,Karma,0,default
+Karma,Karma,1,Sun Goddess Karma
+Karma,Karma,2,Sakura Karma
+Karma,Karma,3,Traditional Karma
+Karma,Karma,4,Order of the Lotus Karma
+Karma,Karma,5,Warden Karma
+Karma,Karma,6,Winter Wonder Karma
+Karma,Karma,7,Conqueror Karma
+Karma,Karma,8,Dark Star Karma
+Karma,Karma,19,Dawnbringer Karma
+Karma,Karma,26,Odyssey Karma
+Karma,Karma,27,Ruined Karma
+Karma,Karma,44,Tranquility Dragon Karma
+Karma,Karma,54,Faerie Queen Karma
+Karma,Karma,61,Infernal Karma
+Karma,Karma,70,Spirit Blossom Karma
+Karthus,Karthus,0,default
+Karthus,Karthus,1,Phantom Karthus
+Karthus,Karthus,2,Statue of Karthus
+Karthus,Karthus,3,Grim Reaper Karthus
+Karthus,Karthus,4,Pentakill Karthus
+Karthus,Karthus,5,Fnatic Karthus
+Karthus,Karthus,9,Karthus Lightsbane
+Karthus,Karthus,10,Infernal Karthus
+Karthus,Karthus,17,Pentakill III: Lost Chapter Karthus
+Karthus,Karthus,26,Elderwood Karthus
+Karthus,Karthus,35,Arcana Karthus
+Kassadin,Kassadin,0,default
+Kassadin,Kassadin,1,Festival Kassadin
+Kassadin,Kassadin,2,Deep One Kassadin
+Kassadin,Kassadin,3,Pre-Void Kassadin
+Kassadin,Kassadin,4,Harbinger Kassadin
+Kassadin,Kassadin,5,Cosmic Reaver Kassadin
+Kassadin,Kassadin,6,Count Kassadin
+Kassadin,Kassadin,14,Hextech Kassadin
+Kassadin,Kassadin,15,Shockblade Kassadin
+Kassadin,Kassadin,24,Dragonmancer Kassadin
+Katarina,Katarina,0,default
+Katarina,Katarina,1,Mercenary Katarina
+Katarina,Katarina,2,Red Card Katarina
+Katarina,Katarina,3,Bilgewater Katarina
+Katarina,Katarina,4,Kitty Cat Katarina
+Katarina,Katarina,5,High Command Katarina
+Katarina,Katarina,6,Sandstorm Katarina
+Katarina,Katarina,7,Slay Belle Katarina
+Katarina,Katarina,8,Warring Kingdoms Katarina
+Katarina,Katarina,9,PROJECT: Katarina
+Katarina,Katarina,10,Death Sworn Katarina
+Katarina,Katarina,12,Battle Academia Katarina
+Katarina,Katarina,21,Blood Moon Katarina
+Katarina,Katarina,29,Battle Queen Katarina
+Katarina,Katarina,37,High Noon Katarina
+Katarina,Katarina,47,Faerie Court Katarina
+Katarina,Katarina,48,Prestige Faerie Court Katarina
+Katarina,Katarina,59,Chosen of the Wolf Katarina
+Katarina,Katarina,60,Prestige Masque of the Black Rose Katarina
+Kayle,Kayle,0,default
+Kayle,Kayle,1,Silver Kayle
+Kayle,Kayle,2,Viridian Kayle
+Kayle,Kayle,3,Transcended Kayle
+Kayle,Kayle,4,Battleborn Kayle
+Kayle,Kayle,5,Judgment Kayle
+Kayle,Kayle,6,Aether Wing Kayle
+Kayle,Kayle,7,Riot Kayle
+Kayle,Kayle,8,Iron Inquisitor Kayle
+Kayle,Kayle,9,Pentakill Kayle
+Kayle,Kayle,15,PsyOps Kayle
+Kayle,Kayle,24,Dragonslayer Kayle
+Kayle,Kayle,33,Pentakill III: Lost Chapter Kayle
+Kayle,Kayle,42,Sun-Eater Kayle
+Kayle,Kayle,57,Immortal Journey Kayle
+Kayle,Kayle,66,Empyrean Kayle
+Kayle,Kayle,67,Prestige Empyrean Kayle
+Kayle,Kayle,78,Spirit Blossom Kayle
+Kayn,Kayn,0,default
+Kayn,Kayn,1,Soulhunter Kayn
+Kayn,Kayn,2,Odyssey Kayn
+Kayn,Kayn,8,Nightbringer Kayn
+Kayn,Kayn,9,Prestige Nightbringer Kayn
+Kayn,Kayn,15,Snow Moon Kayn
+Kayn,Kayn,20,HEARTSTEEL Kayn
+Kayn,Kayn,26,Battle Academia Kayn
+Kennen,Kennen,0,default
+Kennen,Kennen,1,Deadly Kennen
+Kennen,Kennen,2,Swamp Master Kennen
+Kennen,Kennen,3,Karate Kennen
+Kennen,Kennen,4,Kennen M.D.
+Kennen,Kennen,5,Arctic Ops Kennen
+Kennen,Kennen,6,Blood Moon Kennen
+Kennen,Kennen,7,Super Kennen
+Kennen,Kennen,8,Infernal Kennen
+Kennen,Kennen,23,DWG Kennen
+Kennen,Kennen,25,Astronaut Kennen
+Khazix,Kha'Zix,0,default
+Khazix,Kha'Zix,1,Mecha Kha'Zix
+Khazix,Kha'Zix,2,Guardian of the Sands Kha'Zix
+Khazix,Kha'Zix,3,Death Blossom Kha'Zix
+Khazix,Kha'Zix,4,Dark Star Kha'Zix
+Khazix,Kha'Zix,11,Worlds 2018 Kha'Zix
+Khazix,Kha'Zix,60,Odyssey Kha'Zix
+Khazix,Kha'Zix,69,Lunar Guardian Kha'Zix
+Khazix,Kha'Zix,79,Crystalis Indomitus Kha'Zix
+Kindred,Kindred,0,default
+Kindred,Kindred,1,Shadowfire Kindred
+Kindred,Kindred,2,Super Galaxy Kindred
+Kindred,Kindred,3,Spirit Blossom Kindred
+Kindred,Kindred,12,Porcelain Kindred
+Kindred,Kindred,22,Woof and Lamb Kindred
+Kindred,Kindred,23,DRX Kindred
+Kindred,Kindred,33,Prestige Porcelain Kindred
+Kindred,Kindred,34,Chosen of the Wolf Kindred
+Kled,Kled,0,default
+Kled,Kled,1,Sir Kled
+Kled,Kled,2,Count Kledula
+Kled,Kled,9,Marauder Kled
+Kled,Kled,18,Kibble-Head Kled
+KogMaw,Kog'Maw,0,default
+KogMaw,Kog'Maw,1,Caterpillar Kog'Maw
+KogMaw,Kog'Maw,2,Sonoran Kog'Maw
+KogMaw,Kog'Maw,3,Monarch Kog'Maw
+KogMaw,Kog'Maw,4,Reindeer Kog'Maw
+KogMaw,Kog'Maw,5,Lion Dance Kog'Maw
+KogMaw,Kog'Maw,6,Deep Sea Kog'Maw
+KogMaw,Kog'Maw,7,Jurassic Kog'Maw
+KogMaw,Kog'Maw,8,Battlecast Kog'Maw
+KogMaw,Kog'Maw,9,Pug'Maw
+KogMaw,Kog'Maw,10,Hextech Kog'Maw
+KogMaw,Kog'Maw,19,Arcanist Kog'Maw
+KogMaw,Kog'Maw,28,Bee'Maw
+KogMaw,Kog'Maw,37,Zap'Maw
+KogMaw,Kog'Maw,46,Shan Hai Scrolls Kog'Maw
+KogMaw,Kog'Maw,55,Victorious Kog'Maw
+KSante,K'Sante,0,default
+KSante,K'Sante,1,Empyrean K'Sante
+KSante,K'Sante,2,Prestige Empyrean K'Sante
+KSante,K'Sante,8,HEARTSTEEL K'Sante
+Leblanc,LeBlanc,0,default
+Leblanc,LeBlanc,1,Wicked LeBlanc
+Leblanc,LeBlanc,2,Prestigious LeBlanc
+Leblanc,LeBlanc,3,Mistletoe LeBlanc
+Leblanc,LeBlanc,4,Ravenborn LeBlanc
+Leblanc,LeBlanc,5,Elderwood LeBlanc
+Leblanc,LeBlanc,12,Program LeBlanc
+Leblanc,LeBlanc,19,iG LeBlanc
+Leblanc,LeBlanc,20,Coven LeBlanc
+Leblanc,LeBlanc,29,Worlds 2020 LeBlanc
+Leblanc,LeBlanc,33,Prestige Coven LeBlanc
+Leblanc,LeBlanc,35,Debonair LeBlanc
+Leblanc,LeBlanc,45,Bewitching LeBlanc
+Leblanc,LeBlanc,55,Risen Legend LeBlanc
+LeeSin,Lee Sin,0,default
+LeeSin,Lee Sin,1,Traditional Lee Sin
+LeeSin,Lee Sin,2,Acolyte Lee Sin
+LeeSin,Lee Sin,3,Dragon Fist Lee Sin
+LeeSin,Lee Sin,4,Muay Thai Lee Sin
+LeeSin,Lee Sin,5,Pool Party Lee Sin
+LeeSin,Lee Sin,6,SKT T1 Lee Sin
+LeeSin,Lee Sin,10,Knockout Lee Sin
+LeeSin,Lee Sin,11,God Fist Lee Sin
+LeeSin,Lee Sin,12,Playmaker Lee Sin
+LeeSin,Lee Sin,27,Nightbringer Lee Sin
+LeeSin,Lee Sin,28,Prestige Nightbringer Lee Sin
+LeeSin,Lee Sin,29,FPX Lee Sin
+LeeSin,Lee Sin,31,Storm Dragon Lee Sin
+LeeSin,Lee Sin,39,Prestige Nightbringer Lee Sin (2022)
+LeeSin,Lee Sin,41,Zenith Games Lee Sin
+LeeSin,Lee Sin,51,Heavenscale Lee Sin
+LeeSin,Lee Sin,52,Divine Heavenscale Lee Sin
+LeeSin,Lee Sin,68,T1 Lee Sin
+LeeSin,Lee Sin,72,Inkshadow Lee Sin
+Leona,Leona,0,default
+Leona,Leona,1,Valkyrie Leona
+Leona,Leona,2,Defender Leona
+Leona,Leona,3,Iron Solari Leona
+Leona,Leona,4,Pool Party Leona
+Leona,Leona,8,PROJECT: Leona
+Leona,Leona,9,Barbecue Leona
+Leona,Leona,10,Solar Eclipse Leona
+Leona,Leona,11,Lunar Eclipse Leona
+Leona,Leona,12,Mecha Kingdoms Leona
+Leona,Leona,21,Battle Academia Leona
+Leona,Leona,22,DWG Leona
+Leona,Leona,23,Prestige Battle Academia Leona
+Leona,Leona,33,Debonair Leona
+Leona,Leona,34,High Noon Leona
+Leona,Leona,50,Crystalis Motus Leona
+Leona,Leona,52,Battle Lion Leona
+Leona,Leona,53,Prestige Battle Lion Leona
+Lillia,Lillia,0,default
+Lillia,Lillia,1,Spirit Blossom Lillia
+Lillia,Lillia,10,Nightbringer Lillia
+Lillia,Lillia,19,Shan Hai Scrolls Lillia
+Lillia,Lillia,28,Faerie Court Lillia
+Lillia,Lillia,37,Bowling League Lillia
+Lissandra,Lissandra,0,default
+Lissandra,Lissandra,1,Bloodstone Lissandra
+Lissandra,Lissandra,2,Blade Queen Lissandra
+Lissandra,Lissandra,3,Program Lissandra
+Lissandra,Lissandra,4,Coven Lissandra
+Lissandra,Lissandra,12,Dark Cosmic Lissandra
+Lissandra,Lissandra,23,Porcelain Lissandra
+Lissandra,Lissandra,33,Prestige Porcelain Lissandra
+Lissandra,Lissandra,34,Space Groove Lissandra
+Lissandra,Lissandra,43,Flora Fatalis Lissandra
+Lucian,Lucian,0,default
+Lucian,Lucian,1,Hired Gun Lucian
+Lucian,Lucian,2,Striker Lucian
+Lucian,Lucian,6,PROJECT: Lucian
+Lucian,Lucian,7,Heartseeker Lucian
+Lucian,Lucian,8,High Noon Lucian
+Lucian,Lucian,9,Demacia Vice Lucian
+Lucian,Lucian,18,Pulsefire Lucian
+Lucian,Lucian,19,Prestige Pulsefire Lucian
+Lucian,Lucian,25,Victorious Lucian
+Lucian,Lucian,31,Arcana Lucian
+Lucian,Lucian,40,Strike Paladin Lucian
+Lucian,Lucian,52,Winterblessed Lucian
+Lucian,Lucian,62,Masked Justice Lucian
+Lucian,Lucian,72,Sunken Shadows Lucian
+Lulu,Lulu,0,default
+Lulu,Lulu,1,Bittersweet Lulu
+Lulu,Lulu,2,Wicked Lulu
+Lulu,Lulu,3,Dragon Trainer Lulu
+Lulu,Lulu,4,Winter Wonder Lulu
+Lulu,Lulu,5,Pool Party Lulu
+Lulu,Lulu,6,Star Guardian Lulu
+Lulu,Lulu,14,Cosmic Enchantress Lulu
+Lulu,Lulu,15,Pajama Guardian Lulu
+Lulu,Lulu,26,Space Groove Lulu
+Lulu,Lulu,27,Prestige Space Groove Lulu
+Lulu,Lulu,37,Monster Tamer Lulu
+Lulu,Lulu,46,Cafe Cuties Lulu
+Lulu,Lulu,55,Arcana Lulu
+Lux,Lux,0,default
+Lux,Lux,1,Sorceress Lux
+Lux,Lux,2,Spellthief Lux
+Lux,Lux,3,Commando Lux
+Lux,Lux,4,Imperial Lux
+Lux,Lux,5,Steel Legion Lux
+Lux,Lux,6,Star Guardian Lux
+Lux,Lux,7,Elementalist Lux
+Lux,Lux,8,Lunar Empress Lux
+Lux,Lux,14,Pajama Guardian Lux
+Lux,Lux,15,Battle Academia Lux
+Lux,Lux,16,Prestige Battle Academia Lux
+Lux,Lux,17,Dark Cosmic Lux
+Lux,Lux,18,Cosmic Lux
+Lux,Lux,19,Space Groove Lux
+Lux,Lux,29,Porcelain Lux
+Lux,Lux,38,Soul Fighter Lux
+Lux,Lux,39,Prestige Battle Academia Lux (2022)
+Lux,Lux,40,Prestige Porcelain Lux
+Lux,Lux,42,Empyrean Lux
+Lux,Lux,61,Faerie Court Lux
+Lux,Lux,70,Prestige Spirit Blossom Lux
+Lux,Lux,72,Panda Pal Lux
+Malphite,Malphite,0,default
+Malphite,Malphite,1,Shamrock Malphite
+Malphite,Malphite,2,Coral Reef Malphite
+Malphite,Malphite,3,Marble Malphite
+Malphite,Malphite,4,Obsidian Malphite
+Malphite,Malphite,5,Glacial Malphite
+Malphite,Malphite,6,Mecha Malphite
+Malphite,Malphite,7,Ironside Malphite
+Malphite,Malphite,16,Odyssey Malphite
+Malphite,Malphite,23,Dark Star Malphite
+Malphite,Malphite,24,Prestige Dark Star Malphite
+Malphite,Malphite,25,FPX Malphite
+Malphite,Malphite,27,Old God Malphite
+Malphite,Malphite,37,Lunar Guardian Malphite
+Malphite,Malphite,48,Pool Party Malphite
+Malzahar,Malzahar,0,default
+Malzahar,Malzahar,1,Vizier Malzahar
+Malzahar,Malzahar,2,Shadow Prince Malzahar
+Malzahar,Malzahar,3,Djinn Malzahar
+Malzahar,Malzahar,4,Overlord Malzahar
+Malzahar,Malzahar,5,Snow Day Malzahar
+Malzahar,Malzahar,6,Battle Boss Malzahar
+Malzahar,Malzahar,7,Hextech Malzahar
+Malzahar,Malzahar,9,Worldbreaker Malzahar
+Malzahar,Malzahar,18,Beezahar
+Malzahar,Malzahar,28,Debonair Malzahar
+Malzahar,Malzahar,38,Three Honors Malzahar
+Malzahar,Malzahar,39,Empyrean Malzahar
+Malzahar,Malzahar,49,Fatebreaker Malzahar
+Maokai,Maokai,0,default
+Maokai,Maokai,1,Charred Maokai
+Maokai,Maokai,2,Totemic Maokai
+Maokai,Maokai,3,Festive Maokai
+Maokai,Maokai,4,Haunted Maokai
+Maokai,Maokai,5,Goalkeeper Maokai
+Maokai,Maokai,6,Meowkai
+Maokai,Maokai,7,Victorious Maokai
+Maokai,Maokai,16,Worldbreaker Maokai
+Maokai,Maokai,24,Astronaut Maokai
+Maokai,Maokai,33,DRX Maokai
+MasterYi,Master Yi,0,default
+MasterYi,Master Yi,1,Assassin Master Yi
+MasterYi,Master Yi,2,Chosen Master Yi
+MasterYi,Master Yi,3,Ionia Master Yi
+MasterYi,Master Yi,4,Samurai Yi
+MasterYi,Master Yi,5,Headhunter Master Yi
+MasterYi,Master Yi,9,PROJECT: Yi
+MasterYi,Master Yi,10,Cosmic Blade Master Yi
+MasterYi,Master Yi,11,Eternal Sword Yi
+MasterYi,Master Yi,17,Snow Man Yi
+MasterYi,Master Yi,24,Blood Moon Master Yi
+MasterYi,Master Yi,33,PsyOps Master Yi
+MasterYi,Master Yi,42,Debonair Master Yi
+MasterYi,Master Yi,52,Spirit Blossom Master Yi
+MasterYi,Master Yi,53,Prestige Spirit Blossom Master Yi
+MasterYi,Master Yi,89,Inkshadow Master Yi
+MasterYi,Master Yi,96,Heavenscale Master Yi
+MasterYi,Master Yi,106,Victorious Master Yi
+Mel,Mel,0,default
+Mel,Mel,1,Arcane Councilor Mel
+Mel,Mel,10,Prestige Winterblessed Mel
+Milio,Milio,0,default
+Milio,Milio,1,Faerie Court Milio
+Milio,Milio,11,Rain Shepherd Milio
+Milio,Milio,20,Winter Wonder Milio
+MissFortune,Miss Fortune,0,default
+MissFortune,Miss Fortune,1,Cowgirl Miss Fortune
+MissFortune,Miss Fortune,2,Waterloo Miss Fortune
+MissFortune,Miss Fortune,3,Secret Agent Miss Fortune
+MissFortune,Miss Fortune,4,Candy Cane Miss Fortune
+MissFortune,Miss Fortune,5,Road Warrior Miss Fortune
+MissFortune,Miss Fortune,6,Crime City Miss Fortune
+MissFortune,Miss Fortune,7,Arcade Miss Fortune
+MissFortune,Miss Fortune,8,Captain Fortune
+MissFortune,Miss Fortune,9,Pool Party Miss Fortune
+MissFortune,Miss Fortune,15,Star Guardian Miss Fortune
+MissFortune,Miss Fortune,16,Gun Goddess Miss Fortune
+MissFortune,Miss Fortune,17,Pajama Guardian Miss Fortune
+MissFortune,Miss Fortune,18,Bewitching Miss Fortune
+MissFortune,Miss Fortune,20,Prestige Bewitching Miss Fortune
+MissFortune,Miss Fortune,21,Ruined Miss Fortune
+MissFortune,Miss Fortune,31,Battle Bunny Miss Fortune
+MissFortune,Miss Fortune,32,Admiral Battle Bunny Miss Fortune
+MissFortune,Miss Fortune,33,Prestige Bewitching Miss Fortune (2022)
+MissFortune,Miss Fortune,40,Broken Covenant Miss Fortune
+MissFortune,Miss Fortune,41,Prestige Broken Covenant Miss Fortune
+MissFortune,Miss Fortune,50,Porcelain Miss Fortune
+MissFortune,Miss Fortune,60,Battle Queen Miss Fortune
+MonkeyKing,Wukong,0,default
+MonkeyKing,Wukong,1,Volcanic Wukong
+MonkeyKing,Wukong,2,General Wukong
+MonkeyKing,Wukong,3,Jade Dragon Wukong
+MonkeyKing,Wukong,4,Underworld Wukong
+MonkeyKing,Wukong,5,Radiant Wukong
+MonkeyKing,Wukong,6,Lancer Stratus Wukong
+MonkeyKing,Wukong,7,Battle Academia Wukong
+MonkeyKing,Wukong,16,Elderwood Wukong
+MonkeyKing,Wukong,26,Mecha Kingdoms Wukong
+Mordekaiser,Mordekaiser,0,default
+Mordekaiser,Mordekaiser,1,Dragon Knight Mordekaiser
+Mordekaiser,Mordekaiser,2,Infernal Mordekaiser
+Mordekaiser,Mordekaiser,3,Pentakill Mordekaiser
+Mordekaiser,Mordekaiser,4,Lord Mordekaiser
+Mordekaiser,Mordekaiser,5,King of Clubs Mordekaiser
+Mordekaiser,Mordekaiser,6,Dark Star Mordekaiser
+Mordekaiser,Mordekaiser,13,PROJECT: Mordekaiser
+Mordekaiser,Mordekaiser,23,Pentakill III: Lost Chapter Mordekaiser
+Mordekaiser,Mordekaiser,32,High Noon Mordekaiser
+Mordekaiser,Mordekaiser,42,Ashen Graveknight Mordekaiser
+Mordekaiser,Mordekaiser,44,Old God Mordekaiser
+Mordekaiser,Mordekaiser,54,Sahn-Uzal Mordekaiser
+Morgana,Morgana,0,default
+Morgana,Morgana,1,Exiled Morgana
+Morgana,Morgana,2,Sinful Succulence Morgana
+Morgana,Morgana,3,Blade Mistress Morgana
+Morgana,Morgana,4,Blackthorn Morgana
+Morgana,Morgana,5,Ghost Bride Morgana
+Morgana,Morgana,6,Victorious Morgana
+Morgana,Morgana,10,Lunar Wraith Morgana
+Morgana,Morgana,11,Bewitching Morgana
+Morgana,Morgana,17,Majestic Empress Morgana
+Morgana,Morgana,26,Coven Morgana
+Morgana,Morgana,39,Dawnbringer Morgana
+Morgana,Morgana,41,Prestige Bewitching Morgana
+Morgana,Morgana,50,Star Nemesis Morgana
+Morgana,Morgana,60,Snow Moon Morgana
+Morgana,Morgana,70,Porcelain Morgana
+Morgana,Morgana,80,Spirit Blossom Morgana
+Morgana,Morgana,81,Prestige Veiled Lady Morgana
+Naafiri,Naafiri,0,default
+Naafiri,Naafiri,1,Soul Fighter Naafiri
+Naafiri,Naafiri,11,PROJECT: Naafiri
+Naafiri,Naafiri,20,Glizzy Naafiri
+Nami,Nami,0,default
+Nami,Nami,1,Koi Nami
+Nami,Nami,2,River Spirit Nami
+Nami,Nami,3,Urf the Nami-tee
+Nami,Nami,7,Deep Sea Nami
+Nami,Nami,8,SKT T1 Nami
+Nami,Nami,9,Program Nami
+Nami,Nami,15,Splendid Staff Nami
+Nami,Nami,24,Cosmic Destiny Nami
+Nami,Nami,32,Bewitching Nami
+Nami,Nami,41,Space Groove Nami
+Nami,Nami,42,Prestige Space Groove Nami
+Nami,Nami,51,Coven Nami
+Nami,Nami,58,Mythmaker Nami
+Nami,Nami,68,Sunken Shadows Nami
+Nasus,Nasus,0,default
+Nasus,Nasus,1,Galactic Nasus
+Nasus,Nasus,2,Pharaoh Nasus
+Nasus,Nasus,3,Dreadknight Nasus
+Nasus,Nasus,4,Riot K-9 Nasus
+Nasus,Nasus,5,Infernal Nasus
+Nasus,Nasus,6,Archduke Nasus
+Nasus,Nasus,10,Worldbreaker Nasus
+Nasus,Nasus,11,Lunar Guardian Nasus
+Nasus,Nasus,16,Battlecast Nasus
+Nasus,Nasus,25,Space Groove Nasus
+Nasus,Nasus,35,Armored Titan Nasus
+Nasus,Nasus,45,Nightbringer Nasus
+Nasus,Nasus,54,Fatemaker Nasus
+Nautilus,Nautilus,0,default
+Nautilus,Nautilus,1,Abyssal Nautilus
+Nautilus,Nautilus,2,Subterranean Nautilus
+Nautilus,Nautilus,3,AstroNautilus
+Nautilus,Nautilus,4,Warden Nautilus
+Nautilus,Nautilus,5,Worldbreaker Nautilus
+Nautilus,Nautilus,6,Conqueror Nautilus
+Nautilus,Nautilus,9,Shan Hai Scrolls Nautilus
+Nautilus,Nautilus,18,Fright Night Nautilus
+Nautilus,Nautilus,27,Cosmic Paladin Nautilus
+Nautilus,Nautilus,36,Crystalis Indomitus Nautilus
+Nautilus,Nautilus,39,Petricite Nautilus
+Neeko,Neeko,0,default
+Neeko,Neeko,1,Winter Wonder Neeko
+Neeko,Neeko,10,Star Guardian Neeko
+Neeko,Neeko,11,Prestige Star Guardian Neeko
+Neeko,Neeko,12,Shan Hai Scrolls Neeko
+Neeko,Neeko,21,Prestige Star Guardian Neeko (2022)
+Neeko,Neeko,22,Bewitching Neeko
+Neeko,Neeko,31,Street Demons Neeko
+Neeko,Neeko,40,Cosplayer Neeko
+Neeko,Neeko,49,Beeko
+Nidalee,Nidalee,0,default
+Nidalee,Nidalee,1,Snow Bunny Nidalee
+Nidalee,Nidalee,2,Leopard Nidalee
+Nidalee,Nidalee,3,French Maid Nidalee
+Nidalee,Nidalee,4,Pharaoh Nidalee
+Nidalee,Nidalee,5,Bewitching Nidalee
+Nidalee,Nidalee,6,Headhunter Nidalee
+Nidalee,Nidalee,7,Warring Kingdoms Nidalee
+Nidalee,Nidalee,8,Challenger Nidalee
+Nidalee,Nidalee,9,Super Galaxy Nidalee
+Nidalee,Nidalee,11,Dawnbringer Nidalee
+Nidalee,Nidalee,18,Cosmic Huntress Nidalee
+Nidalee,Nidalee,27,DWG Nidalee
+Nidalee,Nidalee,29,Ocean Song Nidalee
+Nidalee,Nidalee,39,Kittalee
+Nidalee,Nidalee,48,La Ilusión Nidalee
+Nidalee,Nidalee,58,Spirit Blossom Nidalee
+Nilah,Nilah,0,default
+Nilah,Nilah,1,Star Guardian Nilah
+Nilah,Nilah,11,Coven Nilah
+Nilah,Nilah,21,Inkshadow Nilah
+Nocturne,Nocturne,0,default
+Nocturne,Nocturne,1,Frozen Terror Nocturne
+Nocturne,Nocturne,2,Void Nocturne
+Nocturne,Nocturne,3,Ravager Nocturne
+Nocturne,Nocturne,4,Haunting Nocturne
+Nocturne,Nocturne,5,Eternum Nocturne
+Nocturne,Nocturne,6,Cursed Revenant Nocturne
+Nocturne,Nocturne,7,Old God Nocturne
+Nocturne,Nocturne,16,Hextech Nocturne
+Nocturne,Nocturne,17,Broken Covenant Nocturne
+Nocturne,Nocturne,26,Empyrean Nocturne
+Nunu,Nunu & Willump,0,default
+Nunu,Nunu & Willump,1,Sasquatch Nunu & Willump
+Nunu,Nunu & Willump,2,Workshop Nunu & Willump
+Nunu,Nunu & Willump,3,Grungy Nunu & Willump
+Nunu,Nunu & Willump,4,Nunu & Willump Bot
+Nunu,Nunu & Willump,5,Demolisher Nunu & Willump
+Nunu,Nunu & Willump,6,TPA Nunu & Willump
+Nunu,Nunu & Willump,7,Zombie Nunu & Willump
+Nunu,Nunu & Willump,8,Papercraft Nunu & Willump
+Nunu,Nunu & Willump,16,Space Groove Nunu & Willump
+Nunu,Nunu & Willump,26,Nunu & Beelump
+Nunu,Nunu & Willump,35,Cosmic Paladins Nunu & Willump
+Nunu,Nunu & Willump,44,Fright Night Nunu & Willump
+Olaf,Olaf,0,default
+Olaf,Olaf,1,Forsaken Olaf
+Olaf,Olaf,2,Glacial Olaf
+Olaf,Olaf,3,Brolaf
+Olaf,Olaf,4,Pentakill Olaf
+Olaf,Olaf,5,Marauder Olaf
+Olaf,Olaf,6,Butcher Olaf
+Olaf,Olaf,15,SKT T1 Olaf
+Olaf,Olaf,16,Dragonslayer Olaf
+Olaf,Olaf,25,Sentinel Olaf
+Olaf,Olaf,35,Pentakill III: Lost Chapter Olaf
+Olaf,Olaf,44,Infernal Olaf
+Orianna,Orianna,0,default
+Orianna,Orianna,1,Gothic Orianna
+Orianna,Orianna,2,Sewn Chaos Orianna
+Orianna,Orianna,3,Bladecraft Orianna
+Orianna,Orianna,4,TPA Orianna
+Orianna,Orianna,5,Winter Wonder Orianna
+Orianna,Orianna,6,Heartseeker Orianna
+Orianna,Orianna,7,Dark Star Orianna
+Orianna,Orianna,8,Victorious Orianna
+Orianna,Orianna,11,Pool Party Orianna
+Orianna,Orianna,20,Orbeeanna
+Orianna,Orianna,29,Star Guardian Orianna
+Orianna,Orianna,38,T1 Orianna
+Ornn,Ornn,0,default
+Ornn,Ornn,1,Thunder Lord Ornn
+Ornn,Ornn,2,Elderwood Ornn
+Ornn,Ornn,11,Space Groove Ornn
+Ornn,Ornn,20,Choo-Choo Ornn
+Ornn,Ornn,29,Aegis Frame Ornn
+Pantheon,Pantheon,0,default
+Pantheon,Pantheon,1,Myrmidon Pantheon
+Pantheon,Pantheon,2,Ruthless Pantheon
+Pantheon,Pantheon,3,Perseus Pantheon
+Pantheon,Pantheon,4,Full Metal Pantheon
+Pantheon,Pantheon,5,Glaive Warrior Pantheon
+Pantheon,Pantheon,6,Dragonslayer Pantheon
+Pantheon,Pantheon,7,Zombie Slayer Pantheon
+Pantheon,Pantheon,8,Baker Pantheon
+Pantheon,Pantheon,16,Pulsefire Pantheon
+Pantheon,Pantheon,25,Ruined Pantheon
+Pantheon,Pantheon,26,Prestige Ascended Pantheon
+Pantheon,Pantheon,36,Ashen Conqueror Pantheon
+Pantheon,Pantheon,38,Chosen of the Wolf Pantheon
+Poppy,Poppy,0,default
+Poppy,Poppy,1,Noxus Poppy
+Poppy,Poppy,2,Lollipoppy
+Poppy,Poppy,3,Blacksmith Poppy
+Poppy,Poppy,4,Ragdoll Poppy
+Poppy,Poppy,5,Battle Regalia Poppy
+Poppy,Poppy,6,Scarlet Hammer Poppy
+Poppy,Poppy,7,Star Guardian Poppy
+Poppy,Poppy,14,Snow Fawn Poppy
+Poppy,Poppy,15,Hextech Poppy
+Poppy,Poppy,16,Astronaut Poppy
+Poppy,Poppy,24,Bewitching Poppy
+Poppy,Poppy,33,Cafe Cuties Poppy
+Pyke,Pyke,0,default
+Pyke,Pyke,1,Sand Wraith Pyke
+Pyke,Pyke,9,Blood Moon Pyke
+Pyke,Pyke,16,PROJECT: Pyke
+Pyke,Pyke,25,PsyOps Pyke
+Pyke,Pyke,34,Sentinel Pyke
+Pyke,Pyke,44,Ashen Knight Pyke
+Pyke,Pyke,45,Empyrean Pyke
+Pyke,Pyke,53,Soul Fighter Pyke
+Pyke,Pyke,54,Prestige Soul Fighter Pyke
+Pyke,Pyke,64,Fright Night Pyke
+Pyke,Pyke,74,Inkshadow Pyke
+Pyke,Pyke,75,T1 Pyke
+Qiyana,Qiyana,0,default
+Qiyana,Qiyana,1,Battle Boss Qiyana
+Qiyana,Qiyana,2,True Damage Qiyana
+Qiyana,Qiyana,10,Prestige True Damage Qiyana
+Qiyana,Qiyana,11,Battle Queen Qiyana
+Qiyana,Qiyana,20,Shockblade Qiyana
+Qiyana,Qiyana,21,Prestige True Damage Qiyana (2022)
+Qiyana,Qiyana,30,Lunar Empress Qiyana
+Qiyana,Qiyana,40,La Ilusión Qiyana
+Qiyana,Qiyana,50,Prestige Battle Academia Qiyana
+Quinn,Quinn,0,default
+Quinn,Quinn,1,Phoenix Quinn
+Quinn,Quinn,2,Woad Scout Quinn
+Quinn,Quinn,3,Corsair Quinn
+Quinn,Quinn,4,Heartseeker Quinn
+Quinn,Quinn,5,Warden Quinn
+Quinn,Quinn,14,Star Guardian Quinn
+Rakan,Rakan,0,default
+Rakan,Rakan,1,Cosmic Dawn Rakan
+Rakan,Rakan,2,Sweetheart Rakan
+Rakan,Rakan,3,SSG Rakan
+Rakan,Rakan,4,iG Rakan
+Rakan,Rakan,5,Star Guardian Rakan
+Rakan,Rakan,9,Elderwood Rakan
+Rakan,Rakan,18,Arcana Rakan
+Rakan,Rakan,27,Broken Covenant Rakan
+Rakan,Rakan,36,Redeemed Star Guardian Rakan
+Rakan,Rakan,37,Dragonmancer Rakan
+Rakan,Rakan,38,Prestige Dragonmancer Rakan
+Rakan,Rakan,47,Battle Academia Rakan
+Rammus,Rammus,0,default
+Rammus,Rammus,1,King Rammus
+Rammus,Rammus,2,Chrome Rammus
+Rammus,Rammus,3,Molten Rammus
+Rammus,Rammus,4,Freljord Rammus
+Rammus,Rammus,5,Ninja Rammus
+Rammus,Rammus,6,Full Metal Rammus
+Rammus,Rammus,7,Guardian of the Sands Rammus
+Rammus,Rammus,8,Sweeper Rammus
+Rammus,Rammus,16,Hextech Rammus
+Rammus,Rammus,17,Astronaut Rammus
+Rammus,Rammus,26,Durian Defender Rammus
+RekSai,Rek'Sai,0,default
+RekSai,Rek'Sai,1,Eternum Rek'Sai
+RekSai,Rek'Sai,2,Pool Party Rek'Sai
+RekSai,Rek'Sai,9,Blackfrost Rek'Sai
+RekSai,Rek'Sai,17,Elderwood Rek'Sai
+RekSai,Rek'Sai,26,Primordian Rek'Sai
+Rell,Rell,0,default
+Rell,Rell,1,Battle Queen Rell
+Rell,Rell,10,Star Guardian Rell
+Rell,Rell,20,High Noon Rell
+Rell,Rell,30,Grand Reckoning Rell
+Renata,Renata Glasc,0,default
+Renata,Renata Glasc,1,Admiral Glasc
+Renata,Renata Glasc,10,Fright Night Renata Glasc
+Renata,Renata Glasc,20,La Ilusión Renata Glasc
+Renata,Renata Glasc,21,Prestige La Ilusión Renata Glasc
+Renata,Renata Glasc,31,Masque of the Black Rose Renata Glasc
+Renekton,Renekton,0,default
+Renekton,Renekton,1,Galactic Renekton
+Renekton,Renekton,2,Outback Renekton
+Renekton,Renekton,3,Bloodfury Renekton
+Renekton,Renekton,4,Rune Wars Renekton
+Renekton,Renekton,5,Scorched Earth Renekton
+Renekton,Renekton,6,Pool Party Renekton
+Renekton,Renekton,7,Prehistoric Renekton
+Renekton,Renekton,8,SKT T1 Renekton
+Renekton,Renekton,9,Renektoy
+Renekton,Renekton,17,Hextech Renekton
+Renekton,Renekton,18,Blackfrost Renekton
+Renekton,Renekton,26,PROJECT: Renekton
+Renekton,Renekton,33,Dawnbringer Renekton
+Renekton,Renekton,42,Worlds 2023 Renekton
+Renekton,Renekton,48,Inkshadow Renekton
+Rengar,Rengar,0,default
+Rengar,Rengar,1,Headhunter Rengar
+Rengar,Rengar,2,Night Hunter Rengar
+Rengar,Rengar,3,SSW Rengar
+Rengar,Rengar,8,Mecha Rengar
+Rengar,Rengar,15,Pretty Kitty Rengar
+Rengar,Rengar,23,Guardian of the Sands Rengar
+Rengar,Rengar,30,Sentinel Rengar
+Rengar,Rengar,40,Street Demons Rengar
+Riven,Riven,0,default
+Riven,Riven,1,Redeemed Riven
+Riven,Riven,2,Crimson Elite Riven
+Riven,Riven,3,Battle Bunny Riven
+Riven,Riven,4,Worlds 2012 Riven
+Riven,Riven,5,Dragonblade Riven
+Riven,Riven,6,Arcade Riven
+Riven,Riven,7,Reignited Worlds 2012 Riven
+Riven,Riven,16,Dawnbringer Riven
+Riven,Riven,18,Pulsefire Riven
+Riven,Riven,20,Valiant Sword Riven
+Riven,Riven,22,Prestige Valiant Sword Riven
+Riven,Riven,23,Spirit Blossom Riven
+Riven,Riven,34,Sentinel Riven
+Riven,Riven,44,Battle Bunny Prime Riven
+Riven,Riven,45,Prestige Valiant Sword Riven (2022)
+Riven,Riven,55,Broken Covenant Riven
+Riven,Riven,63,Primal Ambush Riven
+Rumble,Rumble,0,default
+Rumble,Rumble,1,Rumble in the Jungle
+Rumble,Rumble,2,Bilgerat Rumble
+Rumble,Rumble,3,Super Galaxy Rumble
+Rumble,Rumble,4,Badlands Baron Rumble
+Rumble,Rumble,13,Space Groove Rumble
+Rumble,Rumble,23,Cafe Cuties Rumble
+Ryze,Ryze,0,default
+Ryze,Ryze,1,Young Ryze
+Ryze,Ryze,2,Tribal Ryze
+Ryze,Ryze,3,Uncle Ryze
+Ryze,Ryze,4,Triumphant Ryze
+Ryze,Ryze,5,Professor Ryze
+Ryze,Ryze,6,Zombie Ryze
+Ryze,Ryze,7,Dark Crystal Ryze
+Ryze,Ryze,8,Pirate Ryze
+Ryze,Ryze,9,Ryze Whitebeard
+Ryze,Ryze,10,SKT T1 Ryze
+Ryze,Ryze,11,Worlds 2019 Ryze
+Ryze,Ryze,13,Guardian of the Sands Ryze
+Ryze,Ryze,20,Arcana Ryze
+Ryze,Ryze,29,Blood Moon Ryze
+Samira,Samira,0,default
+Samira,Samira,1,PsyOps Samira
+Samira,Samira,10,Space Groove Samira
+Samira,Samira,20,High Noon Samira
+Samira,Samira,30,Soul Fighter Samira
+Samira,Samira,33,Masque of the Black Rose Samira
+Samira,Samira,35,Battle Professor Samira
+Sejuani,Sejuani,0,default
+Sejuani,Sejuani,1,Sabretusk Sejuani
+Sejuani,Sejuani,2,Darkrider Sejuani
+Sejuani,Sejuani,3,Traditional Sejuani
+Sejuani,Sejuani,4,Bear Cavalry Sejuani
+Sejuani,Sejuani,5,Poro Rider Sejuani
+Sejuani,Sejuani,6,Beast Hunter Sejuani
+Sejuani,Sejuani,7,Sejuani Dawnchaser
+Sejuani,Sejuani,8,Firecracker Sejuani
+Sejuani,Sejuani,15,Hextech Sejuani
+Sejuani,Sejuani,16,PROJECT: Sejuani
+Sejuani,Sejuani,26,Solar Eclipse Sejuani
+Sejuani,Sejuani,36,Victorious Sejuani
+Senna,Senna,0,default
+Senna,Senna,1,True Damage Senna
+Senna,Senna,9,Prestige True Damage Senna
+Senna,Senna,10,High Noon Senna
+Senna,Senna,16,PROJECT: Senna
+Senna,Senna,26,Lunar Eclipse Senna
+Senna,Senna,27,Prestige Lunar Eclipse Senna
+Senna,Senna,36,Bewitching Senna
+Senna,Senna,46,Star Guardian Senna
+Senna,Senna,56,Winterblessed Senna
+Senna,Senna,63,Masked Justice Senna
+Seraphine,Seraphine,0,default
+Seraphine,Seraphine,1,K/DA ALL OUT Seraphine Indie
+Seraphine,Seraphine,2,K/DA ALL OUT Seraphine Rising Star
+Seraphine,Seraphine,3,K/DA ALL OUT Seraphine Superstar
+Seraphine,Seraphine,4,Graceful Phoenix Seraphine
+Seraphine,Seraphine,14,Ocean Song Seraphine
+Seraphine,Seraphine,15,Prestige Ocean Song Seraphine
+Seraphine,Seraphine,24,Faerie Court Seraphine
+Seraphine,Seraphine,34,Star Guardian Seraphine
+Seraphine,Seraphine,43,Battle Dove Seraphine
+Seraphine,Seraphine,50,Dumpling Darlings Seraphine
+Sett,Sett,0,default
+Sett,Sett,1,Mecha Kingdoms Sett
+Sett,Sett,8,Obsidian Dragon Sett
+Sett,Sett,9,Prestige Obsidian Dragon Sett
+Sett,Sett,10,Pool Party Sett
+Sett,Sett,19,Firecracker Sett
+Sett,Sett,38,Spirit Blossom Sett
+Sett,Sett,45,Soul Fighter Sett
+Sett,Sett,56,HEARTSTEEL Sett
+Sett,Sett,66,Radiant Serpent Sett
+Sett,Sett,67,Spirit Blossom Springs Sett
+Shaco,Shaco,0,default
+Shaco,Shaco,1,Mad Hatter Shaco
+Shaco,Shaco,2,Royal Shaco
+Shaco,Shaco,3,Nutcracko
+Shaco,Shaco,4,Workshop Shaco
+Shaco,Shaco,5,Asylum Shaco
+Shaco,Shaco,6,Masked Shaco
+Shaco,Shaco,7,Wild Card Shaco
+Shaco,Shaco,8,Dark Star Shaco
+Shaco,Shaco,15,Arcanist Shaco
+Shaco,Shaco,23,Crime City Nightmare Shaco
+Shaco,Shaco,33,Winterblessed Shaco
+Shaco,Shaco,43,Soul Fighter Shaco
+Shaco,Shaco,44,Prestige Soul Fighter Shaco
+Shaco,Shaco,54,Fright Night Shaco
+Shaco,Shaco,64,Cat-in-the-Box Shaco
+Shen,Shen,0,default
+Shen,Shen,1,Frozen Shen
+Shen,Shen,2,Yellow Jacket Shen
+Shen,Shen,3,Surgeon Shen
+Shen,Shen,4,Blood Moon Shen
+Shen,Shen,5,Warlord Shen
+Shen,Shen,6,TPA Shen
+Shen,Shen,15,Pulsefire Shen
+Shen,Shen,16,Infernal Shen
+Shen,Shen,22,PsyOps Shen
+Shen,Shen,40,Shockblade Shen
+Shen,Shen,49,Ashen Guardian Shen
+Shen,Shen,51,Three Honors Shen
+Shyvana,Shyvana,0,default
+Shyvana,Shyvana,1,Ironscale Shyvana
+Shyvana,Shyvana,2,Boneclaw Shyvana
+Shyvana,Shyvana,3,Darkflame Shyvana
+Shyvana,Shyvana,4,Ice Drake Shyvana
+Shyvana,Shyvana,5,Worlds 2014 Shyvana
+Shyvana,Shyvana,6,Super Galaxy Shyvana
+Shyvana,Shyvana,8,Ruined Shyvana
+Shyvana,Shyvana,17,Immortal Journey Shyvana
+Singed,Singed,0,default
+Singed,Singed,1,Riot Squad Singed
+Singed,Singed,2,Hextech Singed
+Singed,Singed,3,Surfer Singed
+Singed,Singed,4,Mad Scientist Singed
+Singed,Singed,5,Augmented Singed
+Singed,Singed,6,Snow Day Singed
+Singed,Singed,7,SSW Singed
+Singed,Singed,8,Black Scourge Singed
+Singed,Singed,9,Beekeeper Singed
+Singed,Singed,10,Resistance Singed
+Singed,Singed,19,Astronaut Singed
+Singed,Singed,28,Arcane Shimmer Lab Singed
+Sion,Sion,0,default
+Sion,Sion,1,Hextech Sion
+Sion,Sion,2,Barbarian Sion
+Sion,Sion,3,Lumberjack Sion
+Sion,Sion,4,Warmonger Sion
+Sion,Sion,5,Mecha Zero Sion
+Sion,Sion,14,Worldbreaker Sion
+Sion,Sion,22,Blackfrost Sion
+Sion,Sion,30,High Noon Sion
+Sion,Sion,40,Cosmic Paladin Sion
+Sion,Sion,49,Grand Reckoning Sion
+Sivir,Sivir,0,default
+Sivir,Sivir,1,Warrior Princess Sivir
+Sivir,Sivir,2,Spectacular Sivir
+Sivir,Sivir,3,Huntress Sivir
+Sivir,Sivir,4,Bandit Sivir
+Sivir,Sivir,5,PAX Sivir
+Sivir,Sivir,6,Snowstorm Sivir
+Sivir,Sivir,7,Warden Sivir
+Sivir,Sivir,8,Victorious Sivir
+Sivir,Sivir,9,Neo PAX Sivir
+Sivir,Sivir,10,Pizza Delivery Sivir
+Sivir,Sivir,16,Blood Moon Sivir
+Sivir,Sivir,25,Odyssey Sivir
+Sivir,Sivir,34,Cafe Cuties Sivir
+Sivir,Sivir,43,Solar Eclipse Sivir
+Sivir,Sivir,50,Mythmaker Sivir
+Sivir,Sivir,51,Prestige Mythmaker Sivir
+Sivir,Sivir,61,Primal Ambush Sivir
+Sivir,Sivir,70,Ann-Sivir-sary
+Skarner,Skarner,0,default
+Skarner,Skarner,1,Sandscourge Skarner
+Skarner,Skarner,2,Earthrune Skarner
+Skarner,Skarner,3,Battlecast Alpha Skarner
+Skarner,Skarner,4,Guardian of the Sands Skarner
+Skarner,Skarner,5,Cosmic Sting Skarner
+Skarner,Skarner,14,Mecha Kingdoms Skarner
+Smolder,Smolder,0,default
+Smolder,Smolder,1,Heavenscale Smolder
+Smolder,Smolder,11,Reindeer Smolder
+Sona,Sona,0,default
+Sona,Sona,1,Muse Sona
+Sona,Sona,2,Pentakill Sona
+Sona,Sona,3,Silent Night Sona
+Sona,Sona,4,Guqin Sona
+Sona,Sona,5,Arcade Sona
+Sona,Sona,6,DJ Sona
+Sona,Sona,7,Sweetheart Sona
+Sona,Sona,9,Odyssey Sona
+Sona,Sona,17,PsyOps Sona
+Sona,Sona,26,Pentakill III: Lost Chapter Sona
+Sona,Sona,35,Star Guardian Sona
+Sona,Sona,45,Immortal Journey Sona
+Sona,Sona,46,Prestige Immortal Journey Sona
+Sona,Sona,56,Victorious Sona
+Sona,Sona,66,Spirit Blossom Springs Sona
+Soraka,Soraka,0,default
+Soraka,Soraka,1,Dryad Soraka
+Soraka,Soraka,2,Divine Soraka
+Soraka,Soraka,3,Celestine Soraka
+Soraka,Soraka,4,Reaper Soraka
+Soraka,Soraka,5,Order of the Banana Soraka
+Soraka,Soraka,6,Program Soraka
+Soraka,Soraka,7,Star Guardian Soraka
+Soraka,Soraka,8,Pajama Guardian Soraka
+Soraka,Soraka,9,Winter Wonder Soraka
+Soraka,Soraka,15,Dawnbringer Soraka
+Soraka,Soraka,16,Nightbringer Soraka
+Soraka,Soraka,17,Prestige Star Guardian Soraka
+Soraka,Soraka,18,Cafe Cuties Soraka
+Soraka,Soraka,27,Spirit Blossom Soraka
+Soraka,Soraka,37,Immortal Journey Soraka
+Soraka,Soraka,44,Faerie Court Soraka
+Soraka,Soraka,53,Flora Fatalis Soraka
+Swain,Swain,0,default
+Swain,Swain,1,Northern Front Swain
+Swain,Swain,2,Bilgewater Swain
+Swain,Swain,3,Tyrant Swain
+Swain,Swain,4,Dragon Master Swain
+Swain,Swain,11,Hextech Swain
+Swain,Swain,12,Crystal Rose Swain
+Swain,Swain,21,Winterblessed Swain
+Swain,Swain,32,Chosen of the Wolf Swain
+Swain,Swain,33,Prestige Chosen of the Wolf Swain
+Sylas,Sylas,0,default
+Sylas,Sylas,1,Lunar Wraith Sylas
+Sylas,Sylas,8,Freljord Sylas
+Sylas,Sylas,13,PROJECT: Sylas
+Sylas,Sylas,14,Prestige PROJECT: Sylas
+Sylas,Sylas,24,Battle Wolf Sylas
+Sylas,Sylas,34,Ashen Slayer Sylas
+Sylas,Sylas,36,Winterblessed Sylas
+Sylas,Sylas,46,Dark Star Sylas
+Sylas,Sylas,53,Prestige T1 Sylas
+Syndra,Syndra,0,default
+Syndra,Syndra,1,Justicar Syndra
+Syndra,Syndra,2,Atlantean Syndra
+Syndra,Syndra,3,Queen of Diamonds Syndra
+Syndra,Syndra,4,Snow Day Syndra
+Syndra,Syndra,5,SKT T1 Syndra
+Syndra,Syndra,6,Star Guardian Syndra
+Syndra,Syndra,7,Pool Party Syndra
+Syndra,Syndra,16,Withered Rose Syndra
+Syndra,Syndra,25,Bewitching Syndra
+Syndra,Syndra,34,Prestige Star Guardian Syndra
+Syndra,Syndra,44,Spirit Blossom Syndra
+Syndra,Syndra,54,Coven Syndra
+Syndra,Syndra,65,Dumpling Darlings Syndra
+TahmKench,Tahm Kench,0,default
+TahmKench,Tahm Kench,1,Master Chef Tahm Kench
+TahmKench,Tahm Kench,2,Urf Kench
+TahmKench,Tahm Kench,3,Coin Emperor Tahm Kench
+TahmKench,Tahm Kench,11,Arcana Tahm Kench
+TahmKench,Tahm Kench,20,High Noon Tahm Kench
+TahmKench,Tahm Kench,30,Shan Hai Scrolls Tahm Kench
+Taliyah,Taliyah,0,default
+Taliyah,Taliyah,1,Freljord Taliyah
+Taliyah,Taliyah,2,SSG Taliyah
+Taliyah,Taliyah,3,Pool Party Taliyah
+Taliyah,Taliyah,11,Star Guardian Taliyah
+Taliyah,Taliyah,21,Crystalis Motus Taliyah
+Taliyah,Taliyah,24,Durand's Legacy Taliyah
+Talon,Talon,0,default
+Talon,Talon,1,Renegade Talon
+Talon,Talon,2,Crimson Elite Talon
+Talon,Talon,3,Dragonblade Talon
+Talon,Talon,4,SSW Talon
+Talon,Talon,5,Blood Moon Talon
+Talon,Talon,12,Enduring Sword Talon
+Talon,Talon,20,Talon Blackwood
+Talon,Talon,29,Withered Rose Talon
+Talon,Talon,38,High Noon Talon
+Talon,Talon,39,Prestige High Noon Talon
+Talon,Talon,49,Primal Ambush Talon
+Talon,Talon,59,Grand Reckoning Talon
+Taric,Taric,0,default
+Taric,Taric,1,Emerald Taric
+Taric,Taric,2,Armor of the Fifth Age Taric
+Taric,Taric,3,Bloodstone Taric
+Taric,Taric,4,Pool Party Taric
+Taric,Taric,9,Taric Luminshield
+Taric,Taric,18,Space Groove Taric
+Taric,Taric,27,Fatebreaker Taric
+Teemo,Teemo,0,default
+Teemo,Teemo,1,Happy Elf Teemo
+Teemo,Teemo,2,Recon Teemo
+Teemo,Teemo,3,Badger Teemo
+Teemo,Teemo,4,Astronaut Teemo
+Teemo,Teemo,5,Cottontail Teemo
+Teemo,Teemo,6,Super Teemo
+Teemo,Teemo,7,Panda Teemo
+Teemo,Teemo,8,Omega Squad Teemo
+Teemo,Teemo,14,Little Devil Teemo
+Teemo,Teemo,18,Beemo
+Teemo,Teemo,25,Spirit Blossom Teemo
+Teemo,Teemo,27,Prestige Spirit Blossom Teemo
+Teemo,Teemo,37,Firecracker Teemo
+Teemo,Teemo,47,Space Groove Teemo
+Teemo,Teemo,54,Spirit Blossom Springs Teemo
+Thresh,Thresh,0,default
+Thresh,Thresh,1,Deep Terror Thresh
+Thresh,Thresh,2,Worlds 2013 Thresh
+Thresh,Thresh,3,Blood Moon Thresh
+Thresh,Thresh,4,SSW Thresh
+Thresh,Thresh,5,Dark Star Thresh
+Thresh,Thresh,6,High Noon Thresh
+Thresh,Thresh,13,Pulsefire Thresh
+Thresh,Thresh,14,Prestige Pulsefire Thresh
+Thresh,Thresh,15,FPX Thresh
+Thresh,Thresh,17,Spirit Blossom Thresh
+Thresh,Thresh,27,Unbound Thresh
+Thresh,Thresh,28,Steel Dragon Thresh
+Thresh,Thresh,38,Prestige Pulsefire Thresh (2022)
+Thresh,Thresh,39,Lunar Emperor Thresh
+Thresh,Thresh,49,Winterblessed Thresh
+Thresh,Thresh,59,Janitor Thresh
+Tristana,Tristana,0,default
+Tristana,Tristana,1,Riot Girl Tristana
+Tristana,Tristana,2,Earnest Elf Tristana
+Tristana,Tristana,3,Firefighter Tristana
+Tristana,Tristana,4,Guerilla Tristana
+Tristana,Tristana,5,Buccaneer Tristana
+Tristana,Tristana,6,Rocket Girl Tristana
+Tristana,Tristana,10,Dragon Trainer Tristana
+Tristana,Tristana,11,Bewitching Tristana
+Tristana,Tristana,12,Omega Squad Tristana
+Tristana,Tristana,24,Little Demon Tristana
+Tristana,Tristana,33,Pengu Cosplay Tristana
+Tristana,Tristana,40,Hextech Tristana
+Tristana,Tristana,41,Firecracker Tristana
+Tristana,Tristana,51,Spirit Blossom Tristana
+Tristana,Tristana,61,Faerie Court Tristana
+Tristana,Tristana,70,Rain Shepherd Tristana
+Trundle,Trundle,0,default
+Trundle,Trundle,1,Lil' Slugger Trundle
+Trundle,Trundle,2,Junkyard Trundle
+Trundle,Trundle,3,Traditional Trundle
+Trundle,Trundle,4,Constable Trundle
+Trundle,Trundle,5,Worldbreaker Trundle
+Trundle,Trundle,6,Dragonslayer Trundle
+Trundle,Trundle,12,Fright Night Trundle
+Trundle,Trundle,21,Esports Fan Trundle
+Tryndamere,Tryndamere,0,default
+Tryndamere,Tryndamere,1,Highland Tryndamere
+Tryndamere,Tryndamere,2,King Tryndamere
+Tryndamere,Tryndamere,3,Viking Tryndamere
+Tryndamere,Tryndamere,4,Demonblade Tryndamere
+Tryndamere,Tryndamere,5,Sultan Tryndamere
+Tryndamere,Tryndamere,6,Warring Kingdoms Tryndamere
+Tryndamere,Tryndamere,7,Nightmare Tryndamere
+Tryndamere,Tryndamere,8,Beast Hunter Tryndamere
+Tryndamere,Tryndamere,9,Chemtech Tryndamere
+Tryndamere,Tryndamere,10,Blood Moon Tryndamere
+Tryndamere,Tryndamere,18,Nightbringer Tryndamere
+Tryndamere,Tryndamere,27,Victorious Tryndamere
+Tryndamere,Tryndamere,37,Visions of the Fallen Tryndamere
+TwistedFate,Twisted Fate,0,default
+TwistedFate,Twisted Fate,1,PAX Twisted Fate
+TwistedFate,Twisted Fate,2,Jack of Hearts Twisted Fate
+TwistedFate,Twisted Fate,3,The Magnificent Twisted Fate
+TwistedFate,Twisted Fate,4,Tango Twisted Fate
+TwistedFate,Twisted Fate,5,High Noon Twisted Fate
+TwistedFate,Twisted Fate,6,Musketeer Twisted Fate
+TwistedFate,Twisted Fate,7,Underworld Twisted Fate
+TwistedFate,Twisted Fate,8,Red Card Twisted Fate
+TwistedFate,Twisted Fate,9,Cutpurse Twisted Fate
+TwistedFate,Twisted Fate,10,Blood Moon Twisted Fate
+TwistedFate,Twisted Fate,11,Pulsefire Twisted Fate
+TwistedFate,Twisted Fate,13,Odyssey Twisted Fate
+TwistedFate,Twisted Fate,23,DWG Twisted Fate
+TwistedFate,Twisted Fate,25,Crime City Nightmare Twisted Fate
+TwistedFate,Twisted Fate,36,Space Groove Twisted Fate
+TwistedFate,Twisted Fate,45,Victorious Twisted Fate
+Twitch,Twitch,0,default
+Twitch,Twitch,1,Kingpin Twitch
+Twitch,Twitch,2,Whistler Village Twitch
+Twitch,Twitch,3,Medieval Twitch
+Twitch,Twitch,4,Crime City Twitch
+Twitch,Twitch,5,Vandal Twitch
+Twitch,Twitch,6,Pickpocket Twitch
+Twitch,Twitch,7,SSW Twitch
+Twitch,Twitch,8,Omega Squad Twitch
+Twitch,Twitch,12,Ice King Twitch
+Twitch,Twitch,27,Twitch Shadowfoot
+Twitch,Twitch,36,Dragonslayer Twitch
+Twitch,Twitch,45,High Noon Twitch
+Twitch,Twitch,55,Cheddar Chief Twitch
+Twitch,Twitch,64,Pool Party Twitch
+Udyr,Udyr,0,default
+Udyr,Udyr,1,Black Belt Udyr
+Udyr,Udyr,2,Primal Udyr
+Udyr,Udyr,3,Spirit Guard Udyr
+Udyr,Udyr,4,Definitely Not Udyr
+Udyr,Udyr,5,Dragon Oracle Udyr
+Udyr,Udyr,6,Inkshadow Udyr
+Urgot,Urgot,0,default
+Urgot,Urgot,1,Giant Enemy Crabgot
+Urgot,Urgot,2,Butcher Urgot
+Urgot,Urgot,3,Battlecast Urgot
+Urgot,Urgot,9,High Noon Urgot
+Urgot,Urgot,15,Pajama Guardian Cosplay Urgot
+Urgot,Urgot,23,Fright Night Urgot
+Urgot,Urgot,32,Urgot the Clogfather
+Varus,Varus,0,default
+Varus,Varus,1,Blight Crystal Varus
+Varus,Varus,2,Arclight Varus
+Varus,Varus,3,Arctic Ops Varus
+Varus,Varus,4,Heartseeker Varus
+Varus,Varus,5,Varus Swiftbolt
+Varus,Varus,6,Dark Star Varus
+Varus,Varus,7,Conqueror Varus
+Varus,Varus,9,Infernal Varus
+Varus,Varus,16,PROJECT: Varus
+Varus,Varus,17,Cosmic Hunter Varus
+Varus,Varus,34,High Noon Varus
+Varus,Varus,44,Snow Moon Varus
+Varus,Varus,53,Empyrean Varus
+Varus,Varus,60,Spirit Blossom Varus
+Varus,Varus,69,T1 Varus
+Vayne,Vayne,0,default
+Vayne,Vayne,1,Vindicator Vayne
+Vayne,Vayne,2,Aristocrat Vayne
+Vayne,Vayne,3,Dragonslayer Vayne
+Vayne,Vayne,4,Heartseeker Vayne
+Vayne,Vayne,5,SKT T1 Vayne
+Vayne,Vayne,6,Arclight Vayne
+Vayne,Vayne,10,Soulstealer Vayne
+Vayne,Vayne,11,PROJECT: Vayne
+Vayne,Vayne,12,Firecracker Vayne
+Vayne,Vayne,13,Prestige Firecracker Vayne
+Vayne,Vayne,14,Spirit Blossom Vayne
+Vayne,Vayne,15,FPX Vayne
+Vayne,Vayne,25,Sentinel Vayne
+Vayne,Vayne,32,Battle Bat Vayne
+Vayne,Vayne,33,Prestige Firecracker Vayne (2022)
+Vayne,Vayne,44,Dawnbringer Vayne
+Vayne,Vayne,55,Dragonmancer Vayne
+Vayne,Vayne,64,Risen Legend Vayne
+Veigar,Veigar,0,default
+Veigar,Veigar,1,White Mage Veigar
+Veigar,Veigar,2,Curling Veigar
+Veigar,Veigar,3,Veigar Greybeard
+Veigar,Veigar,4,Leprechaun Veigar
+Veigar,Veigar,5,Baron Von Veigar
+Veigar,Veigar,6,Superb Villain Veigar
+Veigar,Veigar,7,Bad Santa Veigar
+Veigar,Veigar,8,Final Boss Veigar
+Veigar,Veigar,9,Omega Squad Veigar
+Veigar,Veigar,13,Elderwood Veigar
+Veigar,Veigar,23,Furyhorn Cosplay Veigar
+Veigar,Veigar,32,Astronaut Veigar
+Veigar,Veigar,41,Monster Tamer Veigar
+Veigar,Veigar,51,King Beegar
+Veigar,Veigar,60,Fright Night Veigar
+Velkoz,Vel'Koz,0,default
+Velkoz,Vel'Koz,1,Battlecast Vel'Koz
+Velkoz,Vel'Koz,2,Arclight Vel'Koz
+Velkoz,Vel'Koz,3,Definitely Not Vel'Koz
+Velkoz,Vel'Koz,4,Infernal Vel'Koz
+Velkoz,Vel'Koz,11,Blackfrost Vel'Koz
+Velkoz,Vel'Koz,20,Bee'Koz
+Vex,Vex,0,default
+Vex,Vex,1,Dawnbringer Vex
+Vex,Vex,10,Empyrean Vex
+Vex,Vex,20,Stargazer Vex
+Vi,Vi,0,default
+Vi,Vi,1,Neon Strike Vi
+Vi,Vi,2,Officer Vi
+Vi,Vi,3,Debonair Vi
+Vi,Vi,4,Demon Vi
+Vi,Vi,5,Warring Kingdoms Vi
+Vi,Vi,11,PROJECT: Vi
+Vi,Vi,12,Heartbreaker Vi
+Vi,Vi,20,PsyOps Vi
+Vi,Vi,29,Arcane Undercity Vi
+Vi,Vi,30,Heartache Vi
+Vi,Vi,39,Primal Ambush Vi
+Vi,Vi,48,Arcane Brawler Vi
+Vi,Vi,49,T1 Vi
+Viego,Viego,0,default
+Viego,Viego,1,Lunar Beast Viego
+Viego,Viego,10,Dissonance of Pentakill Viego
+Viego,Viego,19,EDG Viego
+Viego,Viego,21,King Viego
+Viego,Viego,30,Soul Fighter Viego
+Viego,Viego,37,Worlds 2024 Viego
+Viego,Viego,43,Revenant Reign Viego
+Viktor,Viktor,0,default
+Viktor,Viktor,1,Full Machine Viktor
+Viktor,Viktor,2,Prototype Viktor
+Viktor,Viktor,3,Creator Viktor
+Viktor,Viktor,4,Death Sworn Viktor
+Viktor,Viktor,5,PsyOps Viktor
+Viktor,Viktor,14,High Noon Viktor
+Viktor,Viktor,24,Arcane Savior Viktor
+Viktor,Viktor,25,Machine Herald Viktor
+Vladimir,Vladimir,0,default
+Vladimir,Vladimir,1,Count Vladimir
+Vladimir,Vladimir,2,Marquis Vladimir
+Vladimir,Vladimir,3,Nosferatu Vladimir
+Vladimir,Vladimir,4,Vandal Vladimir
+Vladimir,Vladimir,5,Blood Lord Vladimir
+Vladimir,Vladimir,6,Soulstealer Vladimir
+Vladimir,Vladimir,7,Academy Vladimir
+Vladimir,Vladimir,8,Dark Waters Vladimir
+Vladimir,Vladimir,14,Nightbringer Vladimir
+Vladimir,Vladimir,21,Cosmic Devourer Vladimir
+Vladimir,Vladimir,30,Cafe Cuties Vladimir
+Vladimir,Vladimir,39,Broken Covenant Vladimir
+Vladimir,Vladimir,48,Masque of the Black Rose Vladimir
+Volibear,Volibear,0,default
+Volibear,Volibear,1,Thunder Lord Volibear
+Volibear,Volibear,2,Northern Storm Volibear
+Volibear,Volibear,3,Runeguard Volibear
+Volibear,Volibear,4,Captain Volibear
+Volibear,Volibear,5,El Rayo Volibear
+Volibear,Volibear,6,The Thousand-Pierced Bear
+Volibear,Volibear,7,Duality Dragon Volibear
+Volibear,Volibear,9,Prestige Duality Dragon Volibear
+Volibear,Volibear,19,Inkshadow Volibear
+Volibear,Volibear,29,Spirit Blossom Springs Volibear
+Warwick,Warwick,0,default
+Warwick,Warwick,1,Grey Warwick
+Warwick,Warwick,2,Urf the Manatee
+Warwick,Warwick,3,Big Bad Warwick
+Warwick,Warwick,4,Tundra Hunter Warwick
+Warwick,Warwick,5,Feral Warwick
+Warwick,Warwick,6,Firefang Warwick
+Warwick,Warwick,7,Hyena Warwick
+Warwick,Warwick,8,Marauder Warwick
+Warwick,Warwick,9,Urfwick
+Warwick,Warwick,10,Lunar Guardian Warwick
+Warwick,Warwick,16,PROJECT: Warwick
+Warwick,Warwick,35,Old God Warwick
+Warwick,Warwick,45,Winterblessed Warwick
+Warwick,Warwick,46,Prestige Winterblessed Warwick
+Warwick,Warwick,56,Arcane Vander Warwick
+Xayah,Xayah,0,default
+Xayah,Xayah,1,Cosmic Dusk Xayah
+Xayah,Xayah,2,Sweetheart Xayah
+Xayah,Xayah,3,SSG Xayah
+Xayah,Xayah,4,Star Guardian Xayah
+Xayah,Xayah,8,Elderwood Xayah
+Xayah,Xayah,17,Brave Phoenix Xayah
+Xayah,Xayah,26,Prestige Brave Phoenix Xayah
+Xayah,Xayah,28,Arcana Xayah
+Xayah,Xayah,37,Broken Covenant Xayah
+Xayah,Xayah,38,Redeemed Star Guardian Xayah
+Xayah,Xayah,47,Battle Bat Xayah
+Xayah,Xayah,57,Battle Academia Xayah
+Xerath,Xerath,0,default
+Xerath,Xerath,1,Runeborn Xerath
+Xerath,Xerath,2,Battlecast Xerath
+Xerath,Xerath,3,Scorched Earth Xerath
+Xerath,Xerath,4,Guardian of the Sands Xerath
+Xerath,Xerath,5,Dark Star Xerath
+Xerath,Xerath,12,Arcana Xerath
+Xerath,Xerath,21,Astronaut Xerath
+Xerath,Xerath,30,Crystalis Indomitus Xerath
+XinZhao,Xin Zhao,0,default
+XinZhao,Xin Zhao,1,Commando Xin Zhao
+XinZhao,Xin Zhao,2,Imperial Xin Zhao
+XinZhao,Xin Zhao,3,Viscero Xin Zhao
+XinZhao,Xin Zhao,4,Winged Hussar Xin Zhao
+XinZhao,Xin Zhao,5,Warring Kingdoms Xin Zhao
+XinZhao,Xin Zhao,6,Secret Agent Xin Zhao
+XinZhao,Xin Zhao,13,Dragonslayer Xin Zhao
+XinZhao,Xin Zhao,20,Cosmic Defender Xin Zhao
+XinZhao,Xin Zhao,27,Marauder Xin Zhao
+XinZhao,Xin Zhao,36,Firecracker Xin Zhao
+XinZhao,Xin Zhao,47,Trials of Twilight Xin Zhao
+Yasuo,Yasuo,0,default
+Yasuo,Yasuo,1,High Noon Yasuo
+Yasuo,Yasuo,2,PROJECT: Yasuo
+Yasuo,Yasuo,3,Blood Moon Yasuo
+Yasuo,Yasuo,9,Nightbringer Yasuo
+Yasuo,Yasuo,10,Odyssey Yasuo
+Yasuo,Yasuo,17,Battle Boss Yasuo
+Yasuo,Yasuo,18,True Damage Yasuo
+Yasuo,Yasuo,35,Prestige True Damage Yasuo
+Yasuo,Yasuo,36,Spirit Blossom Yasuo
+Yasuo,Yasuo,45,Sea Dog Yasuo
+Yasuo,Yasuo,54,Truth Dragon Yasuo
+Yasuo,Yasuo,55,Dream Dragon Yasuo
+Yasuo,Yasuo,56,Inkshadow Yasuo
+Yasuo,Yasuo,57,Prestige Inkshadow Yasuo
+Yasuo,Yasuo,68,Foreseen Yasuo
+Yasuo,Yasuo,77,Battle Wolf Yasuo
+Yasuo,Yasuo,87,Genesis Nightbringer Yasuo
+Yone,Yone,0,default
+Yone,Yone,1,Spirit Blossom Yone
+Yone,Yone,10,Battle Academia Yone
+Yone,Yone,19,Dawnbringer Yone
+Yone,Yone,26,Ocean Song Yone
+Yone,Yone,35,Inkshadow Yone
+Yone,Yone,45,HEARTSTEEL Yone
+Yone,Yone,46,Prestige HEARTSTEEL Yone
+Yone,Yone,55,High Noon Yone
+Yone,Yone,58,Peacemaker High Noon Yone
+Yone,Yone,65,Masked Justice Yone
+Yone,Yone,74,T1 Yone
+Yorick,Yorick,0,default
+Yorick,Yorick,1,Undertaker Yorick
+Yorick,Yorick,2,Pentakill Yorick
+Yorick,Yorick,3,Arclight Yorick
+Yorick,Yorick,4,Meowrick
+Yorick,Yorick,12,Resistance Yorick
+Yorick,Yorick,21,Pentakill III: Lost Chapter Yorick
+Yorick,Yorick,30,Spirit Blossom Yorick
+Yorick,Yorick,40,Dark Star Yorick
+Yorick,Yorick,50,High Noon Yorick
+Yunara,Yunara,0,default
+Yunara,Yunara,1,Spirit Blossom Springs Yunara
+Yuumi,Yuumi,0,default
+Yuumi,Yuumi,1,Battle Principal Yuumi
+Yuumi,Yuumi,11,Heartseeker Yuumi
+Yuumi,Yuumi,19,Yuubee
+Yuumi,Yuumi,28,Bewitching Yuumi
+Yuumi,Yuumi,37,EDG Yuumi
+Yuumi,Yuumi,39,Shiba Yuumi
+Yuumi,Yuumi,49,Cyber Cat Yuumi
+Yuumi,Yuumi,50,Prestige Cyber Cat Yuumi
+Yuumi,Yuumi,61,Nightbringer Yuumi
+Zaahen,Zaahen,0,default
+Zaahen,Zaahen,1,Immortal Journey Zaahen
+Zac,Zac,0,default
+Zac,Zac,1,Special Weapon Zac
+Zac,Zac,2,Pool Party Zac
+Zac,Zac,6,SKT T1 Zac
+Zac,Zac,7,Battlecast Zac
+Zac,Zac,14,Empyrean Zac
+Zac,Zac,24,Zesty Dip Zac
+Zed,Zed,0,default
+Zed,Zed,1,Shockblade Zed
+Zed,Zed,2,SKT T1 Zed
+Zed,Zed,3,PROJECT: Zed
+Zed,Zed,10,Worlds 2016 Zed
+Zed,Zed,11,Death Sworn Zed
+Zed,Zed,13,Galaxy Slayer Zed
+Zed,Zed,15,PsyOps Zed
+Zed,Zed,30,Prestige PROJECT: Zed
+Zed,Zed,31,Debonair Zed
+Zed,Zed,38,Empyrean Zed
+Zed,Zed,49,Immortal Journey Zed
+Zed,Zed,58,Blood Moon Zed
+Zed,Zed,68,Quantum Galaxy Slayer Zed
+Zed,Zed,69,Prestige Spirit Blossom Zed
+Zeri,Zeri,0,default
+Zeri,Zeri,1,Withered Rose Zeri
+Zeri,Zeri,10,Ocean Song Zeri
+Zeri,Zeri,19,Immortal Journey Zeri
+Zeri,Zeri,28,Fright Night Zeri
+Zeri,Zeri,29,Prestige Fright Night Zeri
+Zeri,Zeri,40,Winter Wonder Zeri
+Ziggs,Ziggs,0,default
+Ziggs,Ziggs,1,Mad Scientist Ziggs
+Ziggs,Ziggs,2,Major Ziggs
+Ziggs,Ziggs,3,Pool Party Ziggs
+Ziggs,Ziggs,4,Snow Day Ziggs
+Ziggs,Ziggs,5,Master Arcanist Ziggs
+Ziggs,Ziggs,6,Battle Boss Ziggs
+Ziggs,Ziggs,7,Odyssey Ziggs
+Ziggs,Ziggs,14,Sugar Rush Ziggs
+Ziggs,Ziggs,23,Hextech Ziggs
+Ziggs,Ziggs,24,BZZZiggs
+Ziggs,Ziggs,33,La Ilusión Ziggs
+Zilean,Zilean,0,default
+Zilean,Zilean,1,Old Saint Zilean
+Zilean,Zilean,2,Groovy Zilean
+Zilean,Zilean,3,Shurima Desert Zilean
+Zilean,Zilean,4,Time Machine Zilean
+Zilean,Zilean,5,Blood Moon Zilean
+Zilean,Zilean,6,Sugar Rush Zilean
+Zilean,Zilean,14,Winterblessed Zilean
+Zilean,Zilean,24,Arcana Zilean
+Zoe,Zoe,0,default
+Zoe,Zoe,1,Cyber Pop Zoe
+Zoe,Zoe,2,Pool Party Zoe
+Zoe,Zoe,9,Star Guardian Zoe
+Zoe,Zoe,18,Arcanist Zoe
+Zoe,Zoe,19,Prestige Arcanist Zoe
+Zoe,Zoe,20,EDG Zoe
+Zoe,Zoe,22,Winterblessed Zoe
+Zoe,Zoe,33,Dark Star Zoe
+Zoe,Zoe,43,Prestige Eternal Aspect Zoe
+Zyra,Zyra,0,default
+Zyra,Zyra,1,Wildfire Zyra
+Zyra,Zyra,2,Haunted Zyra
+Zyra,Zyra,3,SKT T1 Zyra
+Zyra,Zyra,4,Dragon Sorceress Zyra
+Zyra,Zyra,5,Coven Zyra
+Zyra,Zyra,6,Prestige Coven Zyra
+Zyra,Zyra,7,Crystal Rose Zyra
+Zyra,Zyra,16,Crime City Nightmare Zyra
+Zyra,Zyra,36,Mythmaker Zyra
+Zyra,Zyra,46,Street Demons Zyra
+Zyra,Zyra,55,Blood Moon Zyra
+Zyra,Zyra,64,Spirit Blossom Zyra
