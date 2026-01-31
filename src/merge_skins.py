@@ -26,6 +26,31 @@ except FileNotFoundError:
     print(f"   BŁĄD: Nie znaleziono {ddragon_path}")
     exit(1)
 
+# FILTRUJ skiny które nie mają normalnych cen RP
+print("\n1a. Filtrowanie skinów bez normalnych cen...")
+
+# Słowa kluczowe skinów do usunięcia
+exclude_keywords = [
+    'prestige',           # Prestige skiny (tokeny)
+    'victorious',         # Nagrody za ranking
+    'championship',       # Nagrody championship (niektóre)
+    'immortalized legend',# Event exclusive
+    'risen legend',       # Event exclusive
+    'after hours',        # Warianty eventowe
+    'springs',            # Warianty eventowe (np. Spirit Blossom Springs)
+    'fright night',       # Event exclusive
+    'drx', 't1', 'edg', 'damwon', 'fpx', 'ig', 'skt',  # Esports (niektóre Legacy, ale skomplikowane)
+]
+
+# Usuń skiny z exclude keywords
+original_count = len(df_ddragon)
+mask_exclude = df_ddragon['skin_name'].str.lower().str.contains('|'.join(exclude_keywords), regex=True, na=False)
+df_ddragon = df_ddragon[~mask_exclude].copy()
+excluded_count = original_count - len(df_ddragon)
+
+print(f"   Usunięto {excluded_count} skinów bez normalnych cen RP")
+print(f"   Pozostało {len(df_ddragon)} skinów")
+
 print("\n2. Wczytywanie Wiki prices...")
 try:
     df_wiki = pd.read_csv(wiki_path)
@@ -80,26 +105,56 @@ if unmatched > 0:
     unmatched_sample = df_merged[df_merged['price_rp'].isna()][['champion', 'skin_name', 'skin_name_norm']].head(10)
     for _, row in unmatched_sample.iterrows():
         print(f"     - {row['champion']}: {row['skin_name']} (norm: {row['skin_name_norm']})")
+    
+    # Debug - sprawdź czy te skiny są w Wiki
+    print("\n   Sprawdzam czy są w Wiki...")
+    for _, row in unmatched_sample.head(3).iterrows():
+        norm = row['skin_name_norm']
+        in_wiki = df_wiki[df_wiki['skin_name_norm'] == norm]
+        if len(in_wiki) > 0:
+            print(f"     ✓ '{norm}' JEST w Wiki jako: {in_wiki.iloc[0]['skin_name']}")
+        else:
+            # Szukaj podobnych
+            similar = df_wiki[df_wiki['skin_name_norm'].str.contains(row['champion'].lower())]
+            if len(similar) > 0:
+                print(f"     ✗ '{norm}' NIE MA w Wiki")
+                print(f"       Podobne skiny tego championa w Wiki:")
+                for _, s in similar.head(3).iterrows():
+                    print(f"         - {s['skin_name']} (norm: {s['skin_name_norm']})")
 
 # Uzupełnij brakujące dane
-print("\n6. Uzupełnianie brakujących danych...")
+print("\n6. Obsługa niedopasowanych skinów...")
 
 # Default skiny (skin_num = 0 lub skin_name = 'default')
 mask_default = (df_merged['skin_num'] == 0) | (df_merged['skin_name'] == 'default')
 df_merged.loc[mask_default & df_merged['rarity'].isna(), 'rarity'] = 'Default'
 df_merged.loc[mask_default & df_merged['price_rp'].isna(), 'price_rp'] = 0
 
-# Pozostałe niedopasowane - Epic 1350 RP (najbezpieczniejsze założenie)
+# ZMIANA: Usuń skiny bez ceny zamiast uzupełniać jako Epic
 mask_unmatched = df_merged['price_rp'].isna() & ~mask_default
-df_merged.loc[mask_unmatched, 'rarity'] = 'Epic'
-df_merged.loc[mask_unmatched, 'price_rp'] = 1350
 
-print(f"   Uzupełniono {mask_unmatched.sum()} skinów jako Epic (1350 RP)")
+if mask_unmatched.sum() > 0:
+    print(f"   Usuwam {mask_unmatched.sum()} skinów bez dopasowanej ceny...")
+    print("   (To skiny event-exclusive, Prestige, lub nowe nie-w-Wiki)")
+    
+    # Pokaż przykłady (używaj 'champion' zamiast 'champion_name')
+    unmatched_examples = df_merged[mask_unmatched][['champion', 'skin_name']].head(5)
+    for _, row in unmatched_examples.iterrows():
+        print(f"     - {row['champion']}: {row['skin_name']}")
+    
+    # Usuń niedopasowane
+    df_merged = df_merged[~mask_unmatched].copy()
+    
+    print(f"   Pozostało {len(df_merged)} skinów z dopasowanymi cenami")
 
 # Konwersja price_rp na int
 df_merged['price_rp'] = df_merged['price_rp'].fillna(0).astype(int)
 
-# Dodaj skin_id (od 1)
+# Usuń starą kolumnę skin_id jeśli istnieje
+if 'skin_id' in df_merged.columns:
+    df_merged = df_merged.drop(columns=['skin_id'])
+
+# Dodaj nową skin_id (od 1)
 df_merged.insert(0, 'skin_id', range(1, len(df_merged) + 1))
 
 # Dodaj datę wydania (losowa z ostatnich 6 lat)
@@ -110,15 +165,21 @@ df_merged['release_date'] = df_merged.apply(
 
 # Zmień nazwy kolumn
 df_merged = df_merged.rename(columns={
-    'champion': 'champion_name',
-    'skin_id': 'skin_id_ddragon'
+    'champion': 'champion_name'
 })
 
-# Wybierz finalne kolumny
-df_final = df_merged[[
+# Wybierz finalne kolumny (sprawdź które istnieją)
+final_columns = []
+desired_columns = [
     'skin_id', 'champion_name', 'skin_name', 'rarity', 'price_rp',
-    'release_date', 'champion_id', 'skin_id_ddragon', 'skin_num', 'skin_name_norm'
-]]
+    'release_date', 'champion_id', 'skin_num', 'skin_name_norm'
+]
+
+for col in desired_columns:
+    if col in df_merged.columns:
+        final_columns.append(col)
+
+df_final = df_merged[final_columns]
 
 # Statystyki
 print("\n" + "="*60)

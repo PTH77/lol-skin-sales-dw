@@ -2,17 +2,50 @@ skin_name,price_rp,rarity,champion,skin_name_norm
 Aatrox,880,Legacy,Aatrox,aatrox
 Justicar Aatrox,975,Legacy,Aatrox,justicaraatrox
 Mecha Aatrox,1350,Epic,Aatrox,mechaaatrox
+Sea Hunter Aatrox,750,Legacy,Aatrox,seahunteraatrox
+Blood Moon Aatrox,1350,Epic,Aatrox,bloodmoonaatrox
+Odyssey Aatrox,1350,Epic,Aatrox,odysseyaatrox
+Lunar Eclipse Aatrox,1350,Epic,Aatrox,lunareclipseaatrox
+DRX Aatrox,1350,Epic,Aatrox,drxaatrox
+Primordian Aatrox,1820,Legendary,Aatrox,primordianaatrox
 Ahri,880,Legacy,Ahri,ahri
 Dynasty Ahri,975,Legacy,Ahri,dynastyahri
+Midnight Ahri,750,Legacy,Ahri,midnightahri
+Foxfire Ahri,975,Legacy,Ahri,foxfireahri
+Popstar Ahri,975,Legacy,Ahri,popstarahri
+Challenger Ahri,975,Legacy,Ahri,challengerahri
+Academy Ahri,750,Legacy,Ahri,academyahri
+Arcade Ahri,1350,Epic,Ahri,arcadeahri
+Star Guardian Ahri,1820,Legendary,Ahri,starguardianahri
+KDA Ahri,1350,Epic,Ahri,kdaahri
+Elderwood Ahri,1350,Epic,Ahri,elderwoodahri
+Spirit Blossom Ahri,1820,Legendary,Ahri,spiritblossomahri
+KDA ALL OUT Ahri,1350,Epic,Ahri,kdaalloutahri
+Coven Ahri,1350,Epic,Ahri,covenahri
+Arcana Ahri,1350,Epic,Ahri,arcanaahri
+Snow Moon Ahri,1350,Epic,Ahri,snowmoonahri
 Akali,790,Legacy,Akali,akali
 Stinger Akali,520,Legacy,Akali,stingerakali
 Infernal Akali,520,Legacy,Akali,infernalakali
-Crimson Akali,520,Legacy,Akali,crimsonakali
 All-star Akali,975,Legacy,Akali,allstarakali
 Nurse Akali,975,Legacy,Akali,nurseakali
+Blood Moon Akali,975,Legacy,Akali,bloodmoonakali
+Silverfang Akali,975,Legacy,Akali,silverfangakali
+Headhunter Akali,1350,Epic,Akali,headhunterakali
+Sashimi Akali,750,Legacy,Akali,sashimiakali
+KDA Akali,1350,Epic,Akali,kdaakali
+PROJECT Akali,1350,Epic,Akali,projectakali
+True Damage Akali,1350,Epic,Akali,truedamageakali
+KDA ALL OUT Akali,1350,Epic,Akali,kdaalloutakali
+Crime City Nightmare Akali,1350,Epic,Akali,crimecitynightmareakali
+Star Guardian Akali,1820,Legendary,Akali,starguardianakali
+DRX Akali,1350,Epic,Akali,drxakali
+Coven Akali,1350,Epic,Akali,covenakali
+Empyrean Akali,1350,Epic,Akali,empyreanakali
 Akshan,975,Legacy,Akshan,akshan
 Cyber Pop Akshan,1350,Epic,Akshan,cyberpopakshan
-Alistar,585,Legacy,Alistar,alistar
+Crystal Rose Akshan,1350,Epic,Akshan,crystalroseakshan
+Alistar,585,Epic,Alistar,alistar
 Golden Alistar,390,Legacy,Alistar,goldenalistar
 Longhorn Alistar,520,Legacy,Alistar,longhornalistar
 Matador Alistar,975,Legacy,Alistar,matadoralistar
@@ -21,7 +54,10 @@ Sweeper Alistar,750,Legacy,Alistar,sweeperalistar
 Marauder Alistar,750,Legacy,Alistar,marauderalistar
 SKT T1 Alistar,975,Legacy,Alistar,sktt1alistar
 Moo Cow Alistar,975,Legacy,Alistar,moocowalistar
-Amumu,260,Legacy,Amumu,amumu
+Conqueror Alistar,975,Legacy,Alistar,conqueroralistar
+Blackfrost Alistar,1350,Epic,Alistar,blackfrostalistar
+Lunar Beast Alistar,1350,Epic,Alistar,lunarbeastalistar
+Amumu,260,Epic,Amumu,amumu
 Pharaoh Amumu,520,Legacy,Amumu,pharaohamumu
 Vancouver Amumu,520,Legacy,Amumu,vancouveramumu
 Emumu Amumu,520,Legacy,Amumu,emumuamumu
@@ -30,6 +66,10 @@ Almost-Prom King Amumu,520,Legacy,Amumu,almostpromkingamumu
 Little Knight Amumu,750,Legacy,Amumu,littleknightamumu
 Sad Robot Amumu,1350,Epic,Amumu,sadrobotamumu
 Surprise Party Amumu,1350,Epic,Amumu,surprisepartyamumu
+Infernal Amumu,1350,Epic,Amumu,infernalamumu
+Pumpkin Prince Amumu,1350,Epic,Amumu,pumpkinprinceamumu
+Porcelain Amumu,1350,Epic,Amumu,porcelainamumu
+Heartache Amumu,1350,Epic,Amumu,heartacheamumu
 Anivia,790,Legacy,Anivia,anivia
 Team Spirit Anivia,520,Legacy,Anivia,teamspiritanivia
 Bird of Prey Anivia,520,Legacy,Anivia,birdofpreyanivia
@@ -39,7 +79,10 @@ Blackfrost Anivia,1820,Legendary,Anivia,blackfrostanivia
 Prehistoric Anivia,750,Legacy,Anivia,prehistoricanivia
 Festival Queen Anivia,975,Legacy,Anivia,festivalqueenanivia
 Papercraft Anivia,1350,Epic,Anivia,papercraftanivia
-Annie,260,Legacy,Annie,annie
+Cosmic Flight Anivia,1350,Epic,Anivia,cosmicflightanivia
+Divine Phoenix Anivia,1350,Epic,Anivia,divinephoenixanivia
+Bewitching Batnivia Anivia,1350,Epic,Anivia,bewitchingbatniviaanivia
+Annie,260,Epic,Annie,annie
 Red Riding Annie,520,Legacy,Annie,redridingannie
 Annie in Wonderland Annie,1820,Legendary,Annie,annieinwonderlandannie
 Prom Queen Annie,520,Legacy,Annie,promqueenannie
@@ -49,8 +92,15 @@ FrankenTibbers Annie,975,Legacy,Annie,frankentibbersannie
 Panda Annie,975,Legacy,Annie,pandaannie
 Sweetheart Annie,750,Legacy,Annie,sweetheartannie
 Super Galaxy Annie,1350,Epic,Annie,supergalaxyannie
+Cafe Cuties Annie,1350,Epic,Annie,cafecutiesannie
+Fright Night Annie,1350,Epic,Annie,frightnightannie
+Winterblessed Annie,1350,Epic,Annie,winterblessedannie
+Battle Princess Annie,1350,Epic,Annie,battleprincessannie
 Aphelios,975,Legacy,Aphelios,aphelios
-Ashe,260,Legacy,Ashe,ashe
+EDG Aphelios,1350,Epic,Aphelios,edgaphelios
+Spirit Blossom Aphelios,1350,Epic,Aphelios,spiritblossomaphelios
+HEARTSTEEL Aphelios,1350,Epic,Aphelios,heartsteelaphelios
+Ashe,260,Epic,Ashe,ashe
 Freljord Ashe,520,Legacy,Ashe,freljordashe
 Sherwood Forest Ashe,520,Legacy,Ashe,sherwoodforestashe
 Woad Ashe,520,Legacy,Ashe,woadashe
@@ -59,9 +109,21 @@ Amethyst Ashe,975,Legacy,Ashe,amethystashe
 Heartseeker Ashe,975,Legacy,Ashe,heartseekerashe
 Marauder Ashe,750,Legacy,Ashe,marauderashe
 PROJECT Ashe,1820,Legendary,Ashe,projectashe
+Worlds 2017 Ashe,1350,Epic,Ashe,worlds2017ashe
+Cosmic Queen Ashe,1350,Epic,Ashe,cosmicqueenashe
+High Noon Ashe,1820,Legendary,Ashe,highnoonashe
+Fae Dragon Ashe,1350,Epic,Ashe,faedragonashe
+Coven Ashe,1350,Epic,Ashe,covenashe
+Ocean Song Ashe,1350,Epic,Ashe,oceansongashe
+Lunar Empress Ashe,1350,Epic,Ashe,lunarempressashe
+DRX Ashe,1350,Epic,Ashe,drxashe
+Infernal Ashe,1350,Epic,Ashe,infernalashe
 Aurelion Sol,880,Legacy,Aurelion Sol,aurelionsol
 Ashen Lord Aurelion Sol,1350,Epic,Aurelion Sol,ashenlordaurelionsol
 Mecha Aurelion Sol,1350,Epic,Aurelion Sol,mechaaurelionsol
+Storm Dragon Aurelion Sol,1350,Epic,Aurelion Sol,stormdragonaurelionsol
+Inkshadow Aurelion Sol,1350,Epic,Aurelion Sol,inkshadowaurelionsol
+Porcelain Protector Aurelion Sol,1820,Legendary,Aurelion Sol,porcelainprotectoraurelionsol
 Aurora,975,Legacy,Aurora,aurora
 Battle Bunny Aurora,1350,Epic,Aurora,battlebunnyaurora
 Azir,880,Legacy,Azir,azir
@@ -70,10 +132,35 @@ Gravelord Azir,1350,Epic,Azir,gravelordazir
 SKT T1 Azir,975,Legacy,Azir,sktt1azir
 Warring Kingdoms Azir,1350,Epic,Azir,warringkingdomsazir
 Elderwood Azir,1350,Epic,Azir,elderwoodazir
+Worlds 2022 Azir,1350,Epic,Azir,worlds2022azir
+Attorney Azir,1350,Epic,Azir,attorneyazir
 Bard,880,Legacy,Bard,bard
+Elderwood Bard,975,Legacy,Bard,elderwoodbard
+Snow Day Bard,1350,Epic,Bard,snowdaybard
+Bard Bard Bard,750,Legacy,Bard,bardbardbard
+Astronaut Bard,1350,Epic,Bard,astronautbard
+Cafe Cuties Bard,1350,Epic,Bard,cafecutiesbard
+Shan Hai Scrolls Bard,1350,Epic,Bard,shanhaiscrollsbard
+T1 Bard,1350,Epic,Bard,t1bard
 Bel'Veth,975,Legacy,Bel'Veth,belveth
 Battle Boss Bel'Veth,1350,Epic,Bel'Veth,battlebossbelveth
+Cosmic Matriarch Bel'Veth,1350,Epic,Bel'Veth,cosmicmatriarchbelveth
+Primordian Bel'Veth,1350,Epic,Bel'Veth,primordianbelveth
 Blitzcrank,790,Legacy,Blitzcrank,blitzcrank
+Rusty Blitzcrank,520,Legacy,Blitzcrank,rustyblitzcrank
+Goalkeeper Blitzcrank,520,Legacy,Blitzcrank,goalkeeperblitzcrank
+Boom Boom Blitzcrank,520,Legacy,Blitzcrank,boomboomblitzcrank
+Piltover Customs Blitzcrank,1350,Epic,Blitzcrank,piltovercustomsblitzcrank
+Definitely Not Blitzcrank,975,Legacy,Blitzcrank,definitelynotblitzcrank
+iBlitzcrank Blitzcrank,1350,Epic,Blitzcrank,iblitzcrankblitzcrank
+Riot Blitzcrank,975,Legacy,Blitzcrank,riotblitzcrank
+Battle Boss Blitzcrank,1350,Epic,Blitzcrank,battlebossblitzcrank
+Lancer Paragon Blitzcrank,1350,Epic,Blitzcrank,lancerparagonblitzcrank
+Lancer Rogue Blitzcrank,1350,Epic,Blitzcrank,lancerrogueblitzcrank
+Witch's Brew Blitzcrank,1350,Epic,Blitzcrank,witchsbrewblitzcrank
+Space Groove Blitzcrank,1820,Legendary,Blitzcrank,spacegrooveblitzcrank
+Zenith Games Blitzcrank,1350,Epic,Blitzcrank,zenithgamesblitzcrank
+Beezcrank Blitzcrank,1350,Epic,Blitzcrank,beezcrankblitzcrank
 Brand,880,Legacy,Brand,brand
 Apocalyptic Brand,750,Legacy,Brand,apocalypticbrand
 Vandal Brand,520,Legacy,Brand,vandalbrand
@@ -83,48 +170,139 @@ Spirit Fire Brand,1350,Epic,Brand,spiritfirebrand
 Battle Boss Brand,1350,Epic,Brand,battlebossbrand
 Arclight Brand,1350,Epic,Brand,arclightbrand
 Eternal Dragon Brand,1350,Epic,Brand,eternaldragonbrand
+Debonair Brand,1350,Epic,Brand,debonairbrand
+Street Demons Brand,1350,Epic,Brand,streetdemonsbrand
+Empyrean Brand,1350,Epic,Brand,empyreanbrand
 Braum,880,Legacy,Braum,braum
 Dragonslayer Braum,975,Legacy,Braum,dragonslayerbraum
+El Tigre Braum,1350,Epic,Braum,eltigrebraum
+Braum Lionheart Braum,750,Legacy,Braum,braumlionheartbraum
+Santa Braum,1350,Epic,Braum,santabraum
+Crime City Braum,1350,Epic,Braum,crimecitybraum
+Sugar Rush Braum,1350,Epic,Braum,sugarrushbraum
+Pool Party Braum,1350,Epic,Braum,poolpartybraum
 Briar,975,Legacy,Briar,briar
 Street Demons Briar,1350,Epic,Briar,streetdemonsbriar
+Primordian Briar,1350,Epic,Briar,primordianbriar
 Caitlyn,880,Legacy,Caitlyn,caitlyn
+Resistance Caitlyn,520,Legacy,Caitlyn,resistancecaitlyn
+Sheriff Caitlyn,520,Legacy,Caitlyn,sheriffcaitlyn
+Safari Caitlyn,975,Legacy,Caitlyn,safaricaitlyn
+Officer Caitlyn,975,Legacy,Caitlyn,officercaitlyn
+Arctic Warfare Caitlyn,750,Legacy,Caitlyn,arcticwarfarecaitlyn
+Headhunter Caitlyn,975,Legacy,Caitlyn,headhuntercaitlyn
+Lunar Wraith Caitlyn,1350,Epic,Caitlyn,lunarwraithcaitlyn
+Pulsefire Caitlyn,1820,Legendary,Caitlyn,pulsefirecaitlyn
+Pool Party Caitlyn,1350,Epic,Caitlyn,poolpartycaitlyn
+Arcade Caitlyn,1350,Epic,Caitlyn,arcadecaitlyn
+Battle Academia Caitlyn,1820,Legendary,Caitlyn,battleacademiacaitlyn
+Arcane Caitlyn,975,Legacy,Caitlyn,arcanecaitlyn
+Snow Moon Caitlyn,1350,Epic,Caitlyn,snowmooncaitlyn
+Heartthrob Caitlyn,1350,Epic,Caitlyn,heartthrobcaitlyn
+DRX Caitlyn,1350,Epic,Caitlyn,drxcaitlyn
 Camille,975,Legacy,Camille,camille
 Program Camille,1350,Epic,Camille,programcamille
 Coven Camille,1350,Epic,Camille,covencamille
+iG Camille,1350,Epic,Camille,igcamille
+Arcana Camille,1350,Epic,Camille,arcanacamille
+Strike Commander Camille,1350,Epic,Camille,strikecommandercamille
+Winterblessed Camille,1350,Epic,Camille,winterblessedcamille
 Cassiopeia,880,Legacy,Cassiopeia,cassiopeia
-Cho'Gath,585,Legacy,Cho'Gath,chogath
+Desperada Cassiopeia,520,Legacy,Cassiopeia,desperadacassiopeia
+Siren Cassiopeia,520,Legacy,Cassiopeia,sirencassiopeia
+Mythic Cassiopeia,975,Legacy,Cassiopeia,mythiccassiopeia
+Jade Fang Cassiopeia,975,Legacy,Cassiopeia,jadefangcassiopeia
+Eternum Cassiopeia,1350,Epic,Cassiopeia,eternumcassiopeia
+Spirit Blossom Cassiopeia,1350,Epic,Cassiopeia,spiritblossomcassiopeia
+Coven Cassiopeia,1350,Epic,Cassiopeia,covencassiopeia
+Bewitching Cassiopeia,1350,Epic,Cassiopeia,bewitchingcassiopeia
+Cho'Gath,585,Epic,Cho'Gath,chogath
 Nightmare Cho'Gath,520,Legacy,Cho'Gath,nightmarechogath
 Gentleman Cho'Gath,1820,Legendary,Cho'Gath,gentlemanchogath
 Loch Ness Cho'Gath,520,Legacy,Cho'Gath,lochnesschogath
 Jurassic Cho'Gath,975,Legacy,Cho'Gath,jurassicchogath
 Battlecast Prime Cho'Gath,1820,Legendary,Cho'Gath,battlecastprimechogath
+Prehistoric Cho'Gath,750,Legacy,Cho'Gath,prehistoricchogath
+Shan Hai Scrolls Cho'Gath,1350,Epic,Cho'Gath,shanhaiscrollschogath
+Broken Covenant Cho'Gath,1350,Epic,Cho'Gath,brokencovenantchogath
+Toy Terror Cho'Gath,1350,Epic,Cho'Gath,toyterrorchogath
 Corki,790,Legacy,Corki,corki
 Ice Toboggan Corki,1820,Legendary,Corki,icetoboggancorki
 Red Baron Corki,1820,Legendary,Corki,redbaroncorki
 Hot Rod Corki,520,Legacy,Corki,hotrodcorki
 Urfrider Corki,975,Legacy,Corki,urfridercorki
 Dragonwing Corki,975,Legacy,Corki,dragonwingcorki
+Fnatic Corki,750,Legacy,Corki,fnaticcorki
+Arcade Corki,1350,Epic,Corki,arcadecorki
+Corgi Corki,1350,Epic,Corki,corgicorki
+Astronaut Corki,1350,Epic,Corki,astronautcorki
 Darius,880,Legacy,Darius,darius
+Lord Darius,975,Legacy,Darius,lorddarius
+Bioforge Darius,975,Legacy,Darius,bioforgedarius
+Woad King Darius,975,Legacy,Darius,woadkingdarius
+Dunkmaster Darius,1820,Legendary,Darius,dunkmasterdarius
+Academy Darius,750,Legacy,Darius,academydarius
+God-King Darius,1820,Legendary,Darius,godkingdarius
+High Noon Darius,1350,Epic,Darius,highnoondarius
+Crime City Nightmare Darius,1350,Epic,Darius,crimecitynightmaredarius
+Spirit Blossom Darius,1350,Epic,Darius,spiritblossomdarius
+Porcelain Darius,1350,Epic,Darius,porcelaindarius
 Diana,880,Legacy,Diana,diana
 Dark Valkyrie Diana,975,Legacy,Diana,darkvalkyriediana
 Lunar Goddess Diana,975,Legacy,Diana,lunargoddessdiana
-Dr. Mundo,260,Legacy,Dr. Mundo,drmundo
+Infernal Diana,1350,Epic,Diana,infernaldiana
+Blood Moon Diana,1350,Epic,Diana,bloodmoondiana
+Dark Waters Diana,1350,Epic,Diana,darkwatersdiana
+Dragonslayer Diana,1350,Epic,Diana,dragonslayerdiana
+Battle Queen Diana,1350,Epic,Diana,battlequeendiana
+Sentinel Diana,1350,Epic,Diana,sentineldiana
+Firecracker Diana,1350,Epic,Diana,firecrackerdiana
+Winterblessed Diana,1820,Legendary,Diana,winterblesseddiana
+Heavenscale Diana,1350,Epic,Diana,heavenscalediana
+Dr. Mundo,260,Epic,Dr. Mundo,drmundo
 Toxic Dr. Mundo,520,Legacy,Dr. Mundo,toxicdrmundo
 Mr. Mundoverse Dr. Mundo,520,Legacy,Dr. Mundo,mrmundoversedrmundo
 Corporate Mundo Dr. Mundo,1820,Legendary,Dr. Mundo,corporatemundodrmundo
+Mundo Mundo Dr. Mundo,975,Legacy,Dr. Mundo,mundomundodrmundo
+Executioner Mundo Dr. Mundo,520,Legacy,Dr. Mundo,executionermundodrmundo
+Rageborn Mundo Dr. Mundo,975,Legacy,Dr. Mundo,ragebornmundodrmundo
+TPA Mundo Dr. Mundo,750,Legacy,Dr. Mundo,tpamundodrmundo
+Pool Party Mundo Dr. Mundo,975,Legacy,Dr. Mundo,poolpartymundodrmundo
+El Macho Mundo Dr. Mundo,1350,Epic,Dr. Mundo,elmachomundodrmundo
+Frozen Prince Mundo Dr. Mundo,1350,Epic,Dr. Mundo,frozenprincemundodrmundo
+Street Demons Dr. Mundo,1350,Epic,Dr. Mundo,streetdemonsdrmundo
 Draven,880,Legacy,Draven,draven
 Soul Reaver Draven,1350,Epic,Draven,soulreaverdraven
 Gladiator Draven,975,Legacy,Draven,gladiatordraven
 Primetime Draven,975,Legacy,Draven,primetimedraven
+Pool Party Draven,975,Legacy,Draven,poolpartydraven
+Beast Hunter Draven,750,Legacy,Draven,beasthunterdraven
+Draven Draven Draven,500,Epic,Draven,dravendravendraven
+Santa Draven,1350,Epic,Draven,santadraven
+Mecha Kingdoms Draven,1350,Epic,Draven,mechakingdomsdraven
+Ruined Draven,1350,Epic,Draven,ruineddraven
+Debonair Draven,1350,Epic,Draven,debonairdraven
+Fright Night Draven,1350,Epic,Draven,frightnightdraven
+La Ilusión Draven,1350,Epic,Draven,lailusindraven
 Ekko,880,Legacy,Ekko,ekko
 Sandstorm Ekko,975,Legacy,Ekko,sandstormekko
+Academy Ekko,750,Legacy,Ekko,academyekko
+PROJECT Ekko,1350,Epic,Ekko,projectekko
+SKT T1 Ekko,1350,Epic,Ekko,sktt1ekko
+Trick or Treat Ekko,1350,Epic,Ekko,trickortreatekko
+True Damage Ekko,1820,Legendary,Ekko,truedamageekko
+Pulsefire Ekko,1350,Epic,Ekko,pulsefireekko
+Firelight Ekko,1350,Epic,Ekko,firelightekko
+Star Guardian Ekko,1350,Epic,Ekko,starguardianekko
 Elise,880,Legacy,Elise,elise
 Death Blossom Elise,975,Legacy,Elise,deathblossomelise
 Blood Moon Elise,975,Legacy,Elise,bloodmoonelise
 SKT T1 Elise,975,Legacy,Elise,sktt1elise
 Super Galaxy Elise,1350,Epic,Elise,supergalaxyelise
 Bewitching Elise,1350,Epic,Elise,bewitchingelise
-Evelynn,585,Legacy,Evelynn,evelynn
+Withered Rose Elise,1350,Epic,Elise,witheredroseelise
+Coven Elise,1350,Epic,Elise,covenelise
+Evelynn,585,Epic,Evelynn,evelynn
 Shadow Evelynn,520,Legacy,Evelynn,shadowevelynn
 Masquerade Evelynn,520,Legacy,Evelynn,masqueradeevelynn
 Tango Evelynn,520,Legacy,Evelynn,tangoevelynn
@@ -132,22 +310,68 @@ Safecracker Evelynn,750,Legacy,Evelynn,safecrackerevelynn
 Blood Moon Evelynn,975,Legacy,Evelynn,bloodmoonevelynn
 KDA Evelynn,1350,Epic,Evelynn,kdaevelynn
 Sugar Rush Evelynn,1350,Epic,Evelynn,sugarrushevelynn
+KDA ALL OUT Evelynn,1350,Epic,Evelynn,kdaalloutevelynn
+Coven Evelynn,1820,Legendary,Evelynn,covenevelynn
+Spirit Blossom Evelynn,1350,Epic,Evelynn,spiritblossomevelynn
+Soul Fighter Evelynn,1350,Epic,Evelynn,soulfighterevelynn
+High Noon Evelynn,1350,Epic,Evelynn,highnoonevelynn
 Ezreal,880,Legacy,Ezreal,ezreal
 Nottingham Ezreal,520,Legacy,Ezreal,nottinghamezreal
 Striker Ezreal,520,Legacy,Ezreal,strikerezreal
 Frosted Ezreal,520,Legacy,Ezreal,frostedezreal
 Explorer Ezreal,750,Legacy,Ezreal,explorerezreal
 Pulsefire Ezreal,3250,Ultimate,Ezreal,pulsefireezreal
-Fiddlesticks,585,Legacy,Fiddlesticks,fiddlesticks
+TPA Ezreal,750,Legacy,Ezreal,tpaezreal
+Debonair Ezreal,750,Legacy,Ezreal,debonairezreal
+Ace of Spades Ezreal,750,Legacy,Ezreal,aceofspadesezreal
+Arcade Ezreal,1350,Epic,Ezreal,arcadeezreal
+Star Guardian Ezreal,1350,Epic,Ezreal,starguardianezreal
+SSG Ezreal,1350,Epic,Ezreal,ssgezreal
+Pajama Guardian Ezreal,1350,Epic,Ezreal,pajamaguardianezreal
+Battle Academia Ezreal,1820,Legendary,Ezreal,battleacademiaezreal
+PsyOps Ezreal,1350,Epic,Ezreal,psyopsezreal
+Porcelain Protector Ezreal,1820,Legendary,Ezreal,porcelainprotectorezreal
+Faerie Court Ezreal,1350,Epic,Ezreal,faeriecourtezreal
+HEARTSTEEL Ezreal,1350,Epic,Ezreal,heartsteelezreal
+Heavenscale Ezreal,1350,Epic,Ezreal,heavenscaleezreal
+Fiddlesticks,585,Epic,Fiddlesticks,fiddlesticks
 Union Jack Fiddlesticks,520,Legacy,Fiddlesticks,unionjackfiddlesticks
 Spectral Fiddlesticks,520,Legacy,Fiddlesticks,spectralfiddlesticks
 Fiddle Me Timbers Fiddlesticks,750,Legacy,Fiddlesticks,fiddlemetimbersfiddlesticks
 Bandito Fiddlesticks,520,Legacy,Fiddlesticks,banditofiddlesticks
+Pumpkinhead Fiddlesticks,520,Legacy,Fiddlesticks,pumpkinheadfiddlesticks
+Surprise Party Fiddlesticks,975,Legacy,Fiddlesticks,surprisepartyfiddlesticks
+Dark Candy Fiddlesticks,975,Legacy,Fiddlesticks,darkcandyfiddlesticks
+Risen Fiddlesticks,1350,Epic,Fiddlesticks,risenfiddlesticks
+Praetorian Fiddlesticks,1350,Epic,Fiddlesticks,praetorianfiddlesticks
+Star Nemesis Fiddlesticks,1350,Epic,Fiddlesticks,starnemesisfiddlesticks
+Blood Moon Fiddlesticks,1350,Epic,Fiddlesticks,bloodmoonfiddlesticks
 Fiora,880,Legacy,Fiora,fiora
 Royal Guard Fiora,520,Legacy,Fiora,royalguardfiora
 Nightraven Fiora,750,Legacy,Fiora,nightravenfiora
 Headmistress Fiora,975,Legacy,Fiora,headmistressfiora
+PROJECT Fiora,1350,Epic,Fiora,projectfiora
+Pool Party Fiora,1350,Epic,Fiora,poolpartyfiora
+Soaring Sword Fiora,1350,Epic,Fiora,soaringswordfiora
+Heartpiercer Fiora,1350,Epic,Fiora,heartpiercerfiora
+iG Fiora,1350,Epic,Fiora,igfiora
+Pulsefire Fiora,1350,Epic,Fiora,pulsefirefiora
+Bewitching Fiora,1350,Epic,Fiora,bewitchingfiora
+Faerie Court Fiora,1350,Epic,Fiora,faeriecourtfiora
+Dragonmancer Fiora,1350,Epic,Fiora,dragonmancerfiora
+Battle Queen Fiora,1350,Epic,Fiora,battlequeenfiora
 Fizz,880,Legacy,Fizz,fizz
+Atlantean Fizz,520,Legacy,Fizz,atlanteanfizz
+Tundra Fizz,750,Legacy,Fizz,tundrafizz
+Fisherman Fizz,975,Legacy,Fizz,fishermanfizz
+Void Fizz,1350,Epic,Fizz,voidfizz
+Cottontail Fizz,975,Legacy,Fizz,cottontailfizz
+Super Galaxy Fizz,1350,Epic,Fizz,supergalaxyfizz
+Omega Squad Fizz,1350,Epic,Fizz,omegasquadfizz
+Fuzz Fizz,1350,Epic,Fizz,fuzzfizz
+Little Devil Fizz,1350,Epic,Fizz,littledevilfizz
+Astronaut Fizz,1350,Epic,Fizz,astronautfizz
+Rain Shepherd Fizz,1350,Epic,Fizz,rainshepherdfizz
 Galio,790,Legacy,Galio,galio
 Enchanted Galio,520,Legacy,Galio,enchantedgalio
 Hextech Galio,520,Legacy,Galio,hextechgalio
@@ -155,6 +379,9 @@ Commando Galio,520,Legacy,Galio,commandogalio
 Gatekeeper Galio,1820,Legendary,Galio,gatekeepergalio
 Debonair Galio,750,Legacy,Galio,debonairgalio
 Birdio Galio,975,Legacy,Galio,birdiogalio
+Infernal Galio,1350,Epic,Galio,infernalgalio
+Dragon Guardian Galio,1350,Epic,Galio,dragonguardiangalio
+Mythmaker Galio,1350,Epic,Galio,mythmakergalio
 Gangplank,790,Legacy,Gangplank,gangplank
 Spooky Gangplank,520,Legacy,Gangplank,spookygangplank
 Minuteman Gangplank,520,Legacy,Gangplank,minutemangangplank
@@ -164,9 +391,34 @@ Special Forces Gangplank,975,Legacy,Gangplank,specialforcesgangplank
 Sultan Gangplank,975,Legacy,Gangplank,sultangangplank
 Captain Gangplank,975,Legacy,Gangplank,captaingangplank
 Dreadnova Gangplank,1350,Epic,Gangplank,dreadnovagangplank
-Garen,260,Legacy,Garen,garen
+Pool Party Gangplank,1350,Epic,Gangplank,poolpartygangplank
+FPX Gangplank,1350,Epic,Gangplank,fpxgangplank
+Gangplank the Betrayer Gangplank,1350,Epic,Gangplank,gangplankthebetrayergangplank
+PROJECT Gangplank,1350,Epic,Gangplank,projectgangplank
+Garen,260,Epic,Garen,garen
+Sanguine Garen,520,Legacy,Garen,sanguinegaren
+Desert Trooper Garen,520,Legacy,Garen,deserttroopergaren
+Commando Garen,520,Legacy,Garen,commandogaren
+Dreadknight Garen,975,Legacy,Garen,dreadknightgaren
+Rugged Garen,750,Legacy,Garen,ruggedgaren
+Steel Legion Garen,1350,Epic,Garen,steellegiongaren
+Rogue Admiral Garen,750,Legacy,Garen,rogueadmiralgaren
+Warring Kingdoms Garen,1350,Epic,Garen,warringkingdomsgaren
+God-King Garen,1820,Legendary,Garen,godkinggaren
+Demacia Vice Garen,1350,Epic,Garen,demaciavicegaren
+Mecha Kingdoms Garen,1350,Epic,Garen,mechakingdomsgaren
+Battle Academia Garen,1350,Epic,Garen,battleacademiagaren
+Mythmaker Garen,1350,Epic,Garen,mythmakergaren
 Gnar,880,Legacy,Gnar,gnar
 Dino Gnar,975,Legacy,Gnar,dinognar
+Gentleman Gnar,975,Legacy,Gnar,gentlemangnar
+Snow Day Gnar,975,Legacy,Gnar,snowdaygnar
+El León Gnar,750,Legacy,Gnar,ellengnar
+Super Galaxy Gnar,1350,Epic,Gnar,supergalaxygnar
+SSG Gnar,1350,Epic,Gnar,ssggnar
+Astronaut Gnar,1350,Epic,Gnar,astronautgnar
+Elderwood Gnar,1350,Epic,Gnar,elderwoodgnar
+La Ilusión Gnar,1350,Epic,Gnar,lailusingnar
 Gragas,790,Legacy,Gragas,gragas
 Scuba Gragas,975,Legacy,Gragas,scubagragas
 Hillbilly Gragas,520,Legacy,Gragas,hillbillygragas
@@ -179,14 +431,26 @@ Fnatic Gragas,750,Legacy,Gragas,fnaticgragas
 Gragas Caskbreaker Gragas,750,Legacy,Gragas,gragascaskbreakergragas
 Arctic Ops Gragas,1350,Epic,Gragas,arcticopsgragas
 Warden Gragas,1350,Epic,Gragas,wardengragas
+Space Groove Gragas,1350,Epic,Gragas,spacegroovegragas
+High Noon Gragas,1350,Epic,Gragas,highnoongragas
 Graves,880,Legacy,Graves,graves
 Hired Gun Graves,520,Legacy,Graves,hiredgungraves
 Jailbreak Graves,975,Legacy,Graves,jailbreakgraves
 Crime City Graves,975,Legacy,Graves,crimecitygraves
 Riot Graves,975,Legacy,Graves,riotgraves
 Pool Party Graves,1350,Epic,Graves,poolpartygraves
+Cutthroat Graves,750,Legacy,Graves,cutthroatgraves
+Snow Day Graves,1350,Epic,Graves,snowdaygraves
+Praetorian Graves,1350,Epic,Graves,praetoriangraves
+Battle Professor Graves,1350,Epic,Graves,battleprofessorgraves
+Sentinel Graves,1820,Legendary,Graves,sentinelgraves
+EDG Graves,1350,Epic,Graves,edggraves
+Porcelain Graves,1350,Epic,Graves,porcelaingraves
 Gwen,975,Legacy,Gwen,gwen
 Space Groove Gwen,1350,Epic,Gwen,spacegroovegwen
+Cafe Cuties Gwen,1350,Epic,Gwen,cafecutiesgwen
+Soul Fighter Gwen,1350,Epic,Gwen,soulfightergwen
+Battle Queen Gwen,1350,Epic,Gwen,battlequeengwen
 Hecarim,880,Legacy,Hecarim,hecarim
 Blood Knight Hecarim,975,Legacy,Hecarim,bloodknighthecarim
 Reaper Hecarim,975,Legacy,Hecarim,reaperhecarim
@@ -195,6 +459,9 @@ Arcade Hecarim,1350,Epic,Hecarim,arcadehecarim
 Elderwood Hecarim,1350,Epic,Hecarim,elderwoodhecarim
 Worldbreaker Hecarim,750,Legacy,Hecarim,worldbreakerhecarim
 High Noon Hecarim,1350,Epic,Hecarim,highnoonhecarim
+Cosmic Charger Hecarim,1350,Epic,Hecarim,cosmicchargerhecarim
+Arcana Hecarim,1350,Epic,Hecarim,arcanahecarim
+Winterblessed Hecarim,1350,Epic,Hecarim,winterblessedhecarim
 Heimerdinger,790,Legacy,Heimerdinger,heimerdinger
 Blast Zone Heimerdinger,520,Legacy,Heimerdinger,blastzoneheimerdinger
 Alien Invader Heimerdinger,1820,Legendary,Heimerdinger,alieninvaderheimerdinger
@@ -203,20 +470,34 @@ Snowmerdinger Heimerdinger,975,Legacy,Heimerdinger,snowmerdingerheimerdinger
 Hazmat Heimerdinger,975,Legacy,Heimerdinger,hazmatheimerdinger
 Dragon Trainer Heimerdinger,1820,Legendary,Heimerdinger,dragontrainerheimerdinger
 Pool Party Heimerdinger,1350,Epic,Heimerdinger,poolpartyheimerdinger
+Heimerstinger Heimerdinger,1350,Epic,Heimerdinger,heimerstingerheimerdinger
 Hwei,975,Legacy,Hwei,hwei
 Winterblessed Hwei,1350,Epic,Hwei,winterblessedhwei
 Illaoi,880,Legacy,Illaoi,illaoi
 Void Bringer Illaoi,1350,Epic,Illaoi,voidbringerillaoi
 Resistance Illaoi,1350,Epic,Illaoi,resistanceillaoi
+Cosmic Invoker Illaoi,1350,Epic,Illaoi,cosmicinvokerillaoi
+Snow Moon Illaoi,1350,Epic,Illaoi,snowmoonillaoi
+Battle Bear Illaoi,1350,Epic,Illaoi,battlebearillaoi
 Irelia,880,Legacy,Irelia,irelia
 Aviator Irelia,520,Legacy,Irelia,aviatorirelia
 Nightblade Irelia,520,Legacy,Irelia,nightbladeirelia
 Infiltrator Irelia,975,Legacy,Irelia,infiltratorirelia
 Frostblade Irelia,975,Legacy,Irelia,frostbladeirelia
+Order of the Lotus Irelia,750,Legacy,Irelia,orderofthelotusirelia
+Divine Sword Irelia,1350,Epic,Irelia,divineswordirelia
+iG Irelia,1350,Epic,Irelia,igirelia
+PROJECT Irelia,1350,Epic,Irelia,projectirelia
+High Noon Irelia,1350,Epic,Irelia,highnoonirelia
+Sentinel Irelia,1350,Epic,Irelia,sentinelirelia
+Mythmaker Irelia,1820,Legendary,Irelia,mythmakerirelia
+Porcelain Irelia,1350,Epic,Irelia,porcelainirelia
 Ivern,975,Legacy,Ivern,ivern
 Candy King Ivern,1350,Epic,Ivern,candykingivern
 Dunkmaster Ivern,1350,Epic,Ivern,dunkmasterivern
-Janna,585,Legacy,Janna,janna
+Old God Ivern,1350,Epic,Ivern,oldgodivern
+Astronaut Ivern,1350,Epic,Ivern,astronautivern
+Janna,585,Epic,Janna,janna
 Tempest Janna,520,Legacy,Janna,tempestjanna
 Hextech Janna,975,Legacy,Janna,hextechjanna
 Frost Queen Janna,975,Legacy,Janna,frostqueenjanna
@@ -224,36 +505,89 @@ Forecast Janna,1820,Legendary,Janna,forecastjanna
 Fnatic Janna,750,Legacy,Janna,fnaticjanna
 Star Guardian Janna,1350,Epic,Janna,starguardianjanna
 Sacred Sword Janna,1350,Epic,Janna,sacredswordjanna
+Bewitching Janna,1350,Epic,Janna,bewitchingjanna
+Guardian of the Sands Janna,1350,Epic,Janna,guardianofthesandsjanna
+Battle Queen Janna,1350,Epic,Janna,battlequeenjanna
+Crystal Rose Janna,1350,Epic,Janna,crystalrosejanna
+Cyber Halo Janna,1350,Epic,Janna,cyberhalojanna
+Heavenscale Janna,1350,Epic,Janna,heavenscalejanna
 Jarvan IV,880,Legacy,Jarvan IV,jarvaniv
 Commando Jarvan IV,520,Legacy,Jarvan IV,commandojarvaniv
 Dragonslayer Jarvan IV,750,Legacy,Jarvan IV,dragonslayerjarvaniv
 Darkforge Jarvan IV,975,Legacy,Jarvan IV,darkforgejarvaniv
 Warring Kingdoms Jarvan IV,1350,Epic,Jarvan IV,warringkingdomsjarvaniv
-Jax,585,Legacy,Jax,jax
+Fnatic Jarvan IV,750,Legacy,Jarvan IV,fnaticjarvaniv
+Dark Star Jarvan IV,1350,Epic,Jarvan IV,darkstarjarvaniv
+SSG Jarvan IV,1350,Epic,Jarvan IV,ssgjarvaniv
+Pool Party Jarvan IV,1350,Epic,Jarvan IV,poolpartyjarvaniv
+Worlds 2021 Jarvan IV,1350,Epic,Jarvan IV,worlds2021jarvaniv
+Nightbringer Jarvan IV,1350,Epic,Jarvan IV,nightbringerjarvaniv
+Jax,585,Epic,Jax,jax
 The Mighty Jax,520,Legacy,Jax,themightyjax
 Vandal Jax,520,Legacy,Jax,vandaljax
 Angler Jax,975,Legacy,Jax,anglerjax
 Jaximus Jax,975,Legacy,Jax,jaximusjax
 Temple Jax,750,Legacy,Jax,templejax
 Nemesis Jax,975,Legacy,Jax,nemesisjax
+SKT T1 Jax,750,Legacy,Jax,sktt1jax
+Warden Jax,750,Legacy,Jax,wardenjax
+God Staff Jax,1350,Epic,Jax,godstaffjax
+Mecha Kingdoms Jax,1820,Legendary,Jax,mechakingdomsjax
+Conqueror Jax,1350,Epic,Jax,conquerorjax
+Empyrean Jax,1350,Epic,Jax,empyreanjax
+PROJECT Jax,1350,Epic,Jax,projectjax
 Jayce,880,Legacy,Jayce,jayce
 Full Metal Jayce,1350,Epic,Jayce,fullmetaljayce
 Debonair Jayce,975,Legacy,Jayce,debonairjayce
 Forsaken Jayce,1350,Epic,Jayce,forsakenjayce
 Jayce Brighthammer Jayce,750,Legacy,Jayce,jaycebrighthammerjayce
 Battle Academia Jayce,1350,Epic,Jayce,battleacademiajayce
+Resistance Jayce,1350,Epic,Jayce,resistancejayce
+Arcane Jayce,975,Legacy,Jayce,arcanejayce
+Zenith Games Jayce,1350,Epic,Jayce,zenithgamesjayce
+T1 Jayce,1350,Epic,Jayce,t1jayce
 Jhin,880,Legacy,Jhin,jhin
 High Noon Jhin,1350,Epic,Jhin,highnoonjhin
+Blood Moon Jhin,1350,Epic,Jhin,bloodmoonjhin
+SKT T1 Jhin,1350,Epic,Jhin,sktt1jhin
+PROJECT Jhin,1350,Epic,Jhin,projectjhin
+Dark Cosmic Jhin,1820,Legendary,Jhin,darkcosmicjhin
+Shan Hai Scrolls Jhin,1350,Epic,Jhin,shanhaiscrollsjhin
+DWG Jhin,1350,Epic,Jhin,dwgjhin
+Empyrean Jhin,1350,Epic,Jhin,empyreanjhin
+Soul Fighter Jhin,1350,Epic,Jhin,soulfighterjhin
 Jinx,880,Legacy,Jinx,jinx
 Crime City Jinx,975,Legacy,Jinx,crimecityjinx
 Firecracker Jinx,1350,Epic,Jinx,firecrackerjinx
+Zombie Slayer Jinx,1350,Epic,Jinx,zombieslayerjinx
+Star Guardian Jinx,1820,Legendary,Jinx,starguardianjinx
+Ambitious Elf Jinx,1350,Epic,Jinx,ambitiouselfjinx
+Odyssey Jinx,1350,Epic,Jinx,odysseyjinx
+PROJECT Jinx,1350,Epic,Jinx,projectjinx
+Heartseeker Jinx,1350,Epic,Jinx,heartseekerjinx
+Arcane Jinx,975,Legacy,Jinx,arcanejinx
+Battle Cat Jinx,1350,Epic,Jinx,battlecatjinx
+Cafe Cuties Jinx,1350,Epic,Jinx,cafecutiesjinx
+T1 Jinx,1350,Epic,Jinx,t1jinx
 K'Sante,975,Legacy,K'Sante,ksante
 Empyrean K'Sante,1350,Epic,K'Sante,empyreanksante
+HEARTSTEEL K'Sante,1350,Epic,K'Sante,heartsteelksante
 Kai'Sa,975,Legacy,Kai'Sa,kaisa
 Bullet Angel Kai'Sa,1350,Epic,Kai'Sa,bulletangelkaisa
+KDA Kai'Sa,1350,Epic,Kai'Sa,kdakaisa
+iG Kai'Sa,1350,Epic,Kai'Sa,igkaisa
+Arcade Kai'Sa,1350,Epic,Kai'Sa,arcadekaisa
+KDA ALL OUT Kai'Sa,1350,Epic,Kai'Sa,kdaalloutkaisa
+Lagoon Dragon Kai'Sa,1350,Epic,Kai'Sa,lagoondragonkaisa
+Star Guardian Kai'Sa,1820,Legendary,Kai'Sa,starguardiankaisa
+Inkshadow Kai'Sa,1350,Epic,Kai'Sa,inkshadowkaisa
+Heavenscale Kai'Sa,1350,Epic,Kai'Sa,heavenscalekaisa
 Kalista,880,Legacy,Kalista,kalista
 Blood Moon Kalista,975,Legacy,Kalista,bloodmoonkalista
 Worlds 2015 Kalista,975,Legacy,Kalista,worlds2015kalista
+SKT T1 Kalista,975,Legacy,Kalista,sktt1kalista
+Marauder Kalista,1350,Epic,Kalista,marauderkalista
+Faerie Court Kalista,1350,Epic,Kalista,faeriecourtkalista
 Karma,790,Legacy,Karma,karma
 Sakura Karma,520,Legacy,Karma,sakurakarma
 Sun Goddess Karma,750,Legacy,Karma,sungoddesskarma
@@ -262,10 +596,22 @@ Order of the Lotus Karma,975,Legacy,Karma,orderofthelotuskarma
 Warden Karma,750,Legacy,Karma,wardenkarma
 Winter Wonder Karma,1350,Epic,Karma,winterwonderkarma
 Conqueror Karma,975,Legacy,Karma,conquerorkarma
+Dark Star Karma,1350,Epic,Karma,darkstarkarma
+Odyssey Karma,1350,Epic,Karma,odysseykarma
+Ruined Karma,1350,Epic,Karma,ruinedkarma
+Tranquility Dragon Karma,1350,Epic,Karma,tranquilitydragonkarma
+Faerie Queen Karma,1820,Legendary,Karma,faeriequeenkarma
+Infernal Karma,1350,Epic,Karma,infernalkarma
 Karthus,790,Legacy,Karthus,karthus
-Phantom Karthus,460,Legacy,Karthus,phantomkarthus
+Phantom Karthus,460,Epic,Karthus,phantomkarthus
 Statue of Karthus Karthus,520,Legacy,Karthus,statueofkarthuskarthus
 Grim Reaper Karthus,975,Legacy,Karthus,grimreaperkarthus
+Pentakill Karthus,750,Legacy,Karthus,pentakillkarthus
+Fnatic Karthus,750,Legacy,Karthus,fnatickarthus
+Karthus Lightsbane Karthus,975,Legacy,Karthus,karthuslightsbanekarthus
+Infernal Karthus,1350,Epic,Karthus,infernalkarthus
+Pentakill Lost Chapter Karthus,1350,Epic,Karthus,pentakilllostchapterkarthus
+Elderwood Karthus,1350,Epic,Karthus,elderwoodkarthus
 Kassadin,790,Legacy,Kassadin,kassadin
 Festival Kassadin,520,Legacy,Kassadin,festivalkassadin
 Deep One Kassadin,520,Legacy,Kassadin,deeponekassadin
@@ -273,6 +619,8 @@ Pre-Void Kassadin,520,Legacy,Kassadin,prevoidkassadin
 Harbinger Kassadin,975,Legacy,Kassadin,harbingerkassadin
 Cosmic Reaver Kassadin,1350,Epic,Kassadin,cosmicreaverkassadin
 Count Kassadin,1350,Epic,Kassadin,countkassadin
+Shockblade Kassadin,1350,Epic,Kassadin,shockbladekassadin
+Dragonmancer Kassadin,1350,Epic,Kassadin,dragonmancerkassadin
 Katarina,790,Legacy,Katarina,katarina
 Mercenary Katarina,520,Legacy,Katarina,mercenarykatarina
 Red Card Katarina,975,Legacy,Katarina,redcardkatarina
@@ -282,25 +630,64 @@ High Command Katarina,750,Legacy,Katarina,highcommandkatarina
 Sandstorm Katarina,975,Legacy,Katarina,sandstormkatarina
 Slay Belle Katarina,975,Legacy,Katarina,slaybellekatarina
 Warring Kingdoms Katarina,975,Legacy,Katarina,warringkingdomskatarina
-Kayle,260,Legacy,Kayle,kayle
+PROJECT Katarina,1350,Epic,Katarina,projectkatarina
+Death Sworn Katarina,1350,Epic,Katarina,deathswornkatarina
+Battle Academia Katarina,1350,Epic,Katarina,battleacademiakatarina
+Blood Moon Katarina,1350,Epic,Katarina,bloodmoonkatarina
+Battle Queen Katarina,1820,Legendary,Katarina,battlequeenkatarina
+High Noon Katarina,1350,Epic,Katarina,highnoonkatarina
+Faerie Court Katarina,1350,Epic,Katarina,faeriecourtkatarina
+Kayle,260,Epic,Kayle,kayle
 Viridian Kayle,520,Legacy,Kayle,viridiankayle
+Transcended Kayle,975,Legacy,Kayle,transcendedkayle
+Battleborn Kayle,975,Legacy,Kayle,battlebornkayle
+Aether Wing Kayle,1820,Legendary,Kayle,aetherwingkayle
+Riot Kayle,975,Legacy,Kayle,riotkayle
+Iron Inquisitor Kayle,750,Legacy,Kayle,ironinquisitorkayle
+Pentakill Kayle,1350,Epic,Kayle,pentakillkayle
+PsyOps Kayle,1350,Epic,Kayle,psyopskayle
+Dragonslayer Kayle,1350,Epic,Kayle,dragonslayerkayle
+Pentakill Lost Chapter Kayle,1350,Epic,Kayle,pentakilllostchapterkayle
+Sun-Eater Kayle,1350,Epic,Kayle,suneaterkayle
+Immortal Journey Kayle,1350,Epic,Kayle,immortaljourneykayle
+Empyrean Kayle,1350,Epic,Kayle,empyreankayle
 Kayn,975,Legacy,Kayn,kayn
 Soulhunter Kayn,1350,Epic,Kayn,soulhunterkayn
 Odyssey Kayn,1820,Legendary,Kayn,odysseykayn
+Nightbringer Kayn,1350,Epic,Kayn,nightbringerkayn
+Snow Moon Kayn,1350,Epic,Kayn,snowmoonkayn
+HEARTSTEEL Kayn,1820,Legendary,Kayn,heartsteelkayn
 Kennen,880,Legacy,Kennen,kennen
 Deadly Kennen,520,Legacy,Kennen,deadlykennen
 Swamp Master Kennen,520,Legacy,Kennen,swampmasterkennen
 Karate Kennen,520,Legacy,Kennen,karatekennen
 Kennen M.D. Kennen,975,Legacy,Kennen,kennenmdkennen
+Arctic Ops Kennen,975,Legacy,Kennen,arcticopskennen
+Blood Moon Kennen,975,Legacy,Kennen,bloodmoonkennen
+Super Kennen,750,Legacy,Kennen,superkennen
+Infernal Kennen,1350,Epic,Kennen,infernalkennen
+DWG Kennen,1350,Epic,Kennen,dwgkennen
+Astronaut Kennen,1350,Epic,Kennen,astronautkennen
 Kha'Zix,880,Legacy,Kha'Zix,khazix
 Mecha Kha'Zix,1350,Epic,Kha'Zix,mechakhazix
+Guardian of the Sands Kha'Zix,975,Legacy,Kha'Zix,guardianofthesandskhazix
+Death Blossom Kha'Zix,975,Legacy,Kha'Zix,deathblossomkhazix
+Dark Star Kha'Zix,1350,Epic,Kha'Zix,darkstarkhazix
+Worlds 2018 Kha'Zix,1350,Epic,Kha'Zix,worlds2018khazix
+Odyssey Kha'Zix,1350,Epic,Kha'Zix,odysseykhazix
+Lunar Guardian Kha'Zix,1350,Epic,Kha'Zix,lunarguardiankhazix
 Kindred,880,Legacy,Kindred,kindred
 Shadowfire Kindred,1350,Epic,Kindred,shadowfirekindred
 Super Galaxy Kindred,1350,Epic,Kindred,supergalaxykindred
 Spirit Blossom Kindred,1350,Epic,Kindred,spiritblossomkindred
+Porcelain Kindred,1350,Epic,Kindred,porcelainkindred
+Woof and Lamb Kindred,1350,Epic,Kindred,woofandlambkindred
+DRX Kindred,1350,Epic,Kindred,drxkindred
 Kled,975,Legacy,Kled,kled
 Sir Kled,975,Legacy,Kled,sirkled
 Count Kledula Kled,1350,Epic,Kled,countkledulakled
+Marauder Kled,1350,Epic,Kled,marauderkled
+Kibble-Head Kled,1350,Epic,Kled,kibbleheadkled
 Kog'Maw,880,Legacy,Kog'Maw,kogmaw
 Caterpillar Kog'Maw,520,Legacy,Kog'Maw,caterpillarkogmaw
 Sonoran Kog'Maw,520,Legacy,Kog'Maw,sonorankogmaw
@@ -311,29 +698,89 @@ Deep Sea Kog'Maw,975,Legacy,Kog'Maw,deepseakogmaw
 Jurassic Kog'Maw,975,Legacy,Kog'Maw,jurassickogmaw
 Battlecast Kog'Maw,1350,Epic,Kog'Maw,battlecastkogmaw
 Pug'Maw Kog'Maw,975,Legacy,Kog'Maw,pugmawkogmaw
+Arcanist Kog'Maw,1350,Epic,Kog'Maw,arcanistkogmaw
+Bee'Maw Kog'Maw,1350,Epic,Kog'Maw,beemawkogmaw
+Zap'Maw Kog'Maw,1350,Epic,Kog'Maw,zapmawkogmaw
+Shan Hai Scrolls Kog'Maw,1350,Epic,Kog'Maw,shanhaiscrollskogmaw
 LeBlanc,790,Legacy,LeBlanc,leblanc
 Prestigious LeBlanc,520,Legacy,LeBlanc,prestigiousleblanc
+Wicked LeBlanc,750,Legacy,LeBlanc,wickedleblanc
+Mistletoe LeBlanc,975,Legacy,LeBlanc,mistletoeleblanc
+Ravenborn LeBlanc,975,Legacy,LeBlanc,ravenbornleblanc
+Elderwood LeBlanc,1350,Epic,LeBlanc,elderwoodleblanc
+Program LeBlanc,1350,Epic,LeBlanc,programleblanc
+iG LeBlanc,1350,Epic,LeBlanc,igleblanc
+Coven LeBlanc,1350,Epic,LeBlanc,covenleblanc
+Worlds 2020 LeBlanc,1350,Epic,LeBlanc,worlds2020leblanc
+Debonair LeBlanc,1350,Epic,LeBlanc,debonairleblanc
+Bewitching LeBlanc,1350,Epic,LeBlanc,bewitchingleblanc
 Lee Sin,880,Legacy,Lee Sin,leesin
 Acolyte Lee Sin,750,Legacy,Lee Sin,acolyteleesin
 Traditional Lee Sin,750,Legacy,Lee Sin,traditionalleesin
 Dragon Fist Lee Sin,1350,Epic,Lee Sin,dragonfistleesin
+Muay Thai Lee Sin,975,Legacy,Lee Sin,muaythaileesin
+Pool Party Lee Sin,975,Legacy,Lee Sin,poolpartyleesin
+SKT T1 Lee Sin,750,Legacy,Lee Sin,sktt1leesin
+Knockout Lee Sin,1350,Epic,Lee Sin,knockoutleesin
+God Fist Lee Sin,1820,Legendary,Lee Sin,godfistleesin
+Playmaker Lee Sin,975,Legacy,Lee Sin,playmakerleesin
+Nightbringer Lee Sin,1350,Epic,Lee Sin,nightbringerleesin
+FPX Lee Sin,1350,Epic,Lee Sin,fpxleesin
+Storm Dragon Lee Sin,1820,Legendary,Lee Sin,stormdragonleesin
+Zenith Games Lee Sin,1350,Epic,Lee Sin,zenithgamesleesin
+Heavenscale Lee Sin,1820,Legendary,Lee Sin,heavenscaleleesin
+T1 Lee Sin,1350,Epic,Lee Sin,t1leesin
 Leona,880,Legacy,Leona,leona
 Valkyrie Leona,520,Legacy,Leona,valkyrieleona
 Defender Leona,750,Legacy,Leona,defenderleona
 Iron Solari Leona,975,Legacy,Leona,ironsolarileona
 Pool Party Leona,975,Legacy,Leona,poolpartyleona
+PROJECT Leona,1350,Epic,Leona,projectleona
+Barbecue Leona,750,Legacy,Leona,barbecueleona
+Solar Eclipse Leona,1820,Legendary,Leona,solareclipseleona
+Lunar Eclipse Leona,1820,Legendary,Leona,lunareclipseleona
+Mecha Kingdoms Leona,1350,Epic,Leona,mechakingdomsleona
+Battle Academia Leona,1350,Epic,Leona,battleacademialeona
+DWG Leona,1350,Epic,Leona,dwgleona
+Debonair Leona,1350,Epic,Leona,debonairleona
+High Noon Leona,1820,Legendary,Leona,highnoonleona
+Battle Lion Leona,1350,Epic,Leona,battlelionleona
 Lillia,975,Legacy,Lillia,lillia
 Spirit Blossom Lillia,1350,Epic,Lillia,spiritblossomlillia
+Nightbringer Lillia,1350,Epic,Lillia,nightbringerlillia
+Shan Hai Scrolls Lillia,1350,Epic,Lillia,shanhaiscrollslillia
+Faerie Court Lillia,1350,Epic,Lillia,faeriecourtlillia
 Lissandra,880,Legacy,Lissandra,lissandra
 Bloodstone Lissandra,975,Legacy,Lissandra,bloodstonelissandra
 Blade Queen Lissandra,1350,Epic,Lissandra,bladequeenlissandra
 Program Lissandra,1350,Epic,Lissandra,programlissandra
 Coven Lissandra,1350,Epic,Lissandra,covenlissandra
+Dark Cosmic Lissandra,1350,Epic,Lissandra,darkcosmiclissandra
+Porcelain Lissandra,1350,Epic,Lissandra,porcelainlissandra
+Space Groove Lissandra,1350,Epic,Lissandra,spacegroovelissandra
 Lucian,975,Legacy,Lucian,lucian
+Hired Gun Lucian,975,Legacy,Lucian,hiredgunlucian
+Striker Lucian,750,Legacy,Lucian,strikerlucian
+PROJECT Lucian,1350,Epic,Lucian,projectlucian
+Heartseeker Lucian,1350,Epic,Lucian,heartseekerlucian
+High Noon Lucian,1820,Legendary,Lucian,highnoonlucian
+Demacia Vice Lucian,1350,Epic,Lucian,demaciavicelucian
+Pulsefire Lucian,1350,Epic,Lucian,pulsefirelucian
+Arcana Lucian,1350,Epic,Lucian,arcanalucian
+Strike Paladin Lucian,1350,Epic,Lucian,strikepaladinlucian
+Winterblessed Lucian,1350,Epic,Lucian,winterblessedlucian
 Lulu,880,Legacy,Lulu,lulu
 Bittersweet Lulu,975,Legacy,Lulu,bittersweetlulu
 Wicked Lulu,975,Legacy,Lulu,wickedlulu
 Dragon Trainer Lulu,1350,Epic,Lulu,dragontrainerlulu
+Winter Wonder Lulu,1350,Epic,Lulu,winterwonderlulu
+Pool Party Lulu,1350,Epic,Lulu,poolpartylulu
+Star Guardian Lulu,1350,Epic,Lulu,starguardianlulu
+Cosmic Enchantress Lulu,1350,Epic,Lulu,cosmicenchantresslulu
+Pajama Guardian Lulu,1350,Epic,Lulu,pajamaguardianlulu
+Space Groove Lulu,1350,Epic,Lulu,spacegroovelulu
+Monster Tamer Lulu,1350,Epic,Lulu,monstertamerlulu
+Cafe Cuties Lulu,1350,Epic,Lulu,cafecutieslulu
 Lux,790,Legacy,Lux,lux
 Sorceress Lux,520,Legacy,Lux,sorceresslux
 Spellthief Lux,750,Legacy,Lux,spellthieflux
@@ -342,19 +789,40 @@ Imperial Lux,975,Legacy,Lux,imperiallux
 Steel Legion Lux,975,Legacy,Lux,steellegionlux
 Star Guardian Lux,1350,Epic,Lux,starguardianlux
 Elementalist Lux,3250,Ultimate,Lux,elementalistlux
-Malphite,585,Legacy,Malphite,malphite
+Lunar Empress Lux,1350,Epic,Lux,lunarempresslux
+Pajama Guardian Lux,1350,Epic,Lux,pajamaguardianlux
+Battle Academia Lux,1350,Epic,Lux,battleacademialux
+Dark Cosmic Lux,1820,Legendary,Lux,darkcosmiclux
+Cosmic Lux,1820,Legendary,Lux,cosmiclux
+Space Groove Lux,1350,Epic,Lux,spacegroovelux
+Porcelain Lux,1350,Epic,Lux,porcelainlux
+Empyrean Lux,1350,Epic,Lux,empyreanlux
+Soul Fighter Lux,1350,Epic,Lux,soulfighterlux
+Faerie Court Lux,1350,Epic,Lux,faeriecourtlux
+Malphite,585,Epic,Malphite,malphite
 Shamrock Malphite,520,Legacy,Malphite,shamrockmalphite
 Coral Reef Malphite,750,Legacy,Malphite,coralreefmalphite
 Marble Malphite,520,Legacy,Malphite,marblemalphite
 Obsidian Malphite,975,Legacy,Malphite,obsidianmalphite
 Glacial Malphite,1350,Epic,Malphite,glacialmalphite
 Mecha Malphite,1350,Epic,Malphite,mechamalphite
+Ironside Malphite,975,Legacy,Malphite,ironsidemalphite
+Odyssey Malphite,1350,Epic,Malphite,odysseymalphite
+Dark Star Malphite,1350,Epic,Malphite,darkstarmalphite
+FPX Malphite,1350,Epic,Malphite,fpxmalphite
+Old God Malphite,1350,Epic,Malphite,oldgodmalphite
+Lunar Guardian Malphite,1350,Epic,Malphite,lunarguardianmalphite
 Malzahar,880,Legacy,Malzahar,malzahar
 Vizier Malzahar,520,Legacy,Malzahar,viziermalzahar
 Shadow Prince Malzahar,520,Legacy,Malzahar,shadowprincemalzahar
 Djinn Malzahar,520,Legacy,Malzahar,djinnmalzahar
 Overlord Malzahar,975,Legacy,Malzahar,overlordmalzahar
 Snow Day Malzahar,975,Legacy,Malzahar,snowdaymalzahar
+Battle Boss Malzahar,1350,Epic,Malzahar,battlebossmalzahar
+Worldbreaker Malzahar,1350,Epic,Malzahar,worldbreakermalzahar
+Beezahar Malzahar,1350,Epic,Malzahar,beezaharmalzahar
+Debonair Malzahar,1350,Epic,Malzahar,debonairmalzahar
+Empyrean Malzahar,1350,Epic,Malzahar,empyreanmalzahar
 Maokai,880,Legacy,Maokai,maokai
 Charred Maokai,975,Legacy,Maokai,charredmaokai
 Totemic Maokai,520,Legacy,Maokai,totemicmaokai
@@ -362,14 +830,28 @@ Festive Maokai,975,Legacy,Maokai,festivemaokai
 Haunted Maokai,975,Legacy,Maokai,hauntedmaokai
 Goalkeeper Maokai,750,Legacy,Maokai,goalkeepermaokai
 Meowkai Maokai,1350,Epic,Maokai,meowkaimaokai
-Master Yi,260,Legacy,Master Yi,masteryi
+Worldbreaker Maokai,1350,Epic,Maokai,worldbreakermaokai
+Astronaut Maokai,1350,Epic,Maokai,astronautmaokai
+DRX Maokai,1350,Epic,Maokai,drxmaokai
+Master Yi,260,Epic,Master Yi,masteryi
 Assassin Master Yi,390,Legacy,Master Yi,assassinmasteryi
 Chosen Master Yi,520,Legacy,Master Yi,chosenmasteryi
 Ionia Master Yi,975,Legacy,Master Yi,ioniamasteryi
 Samurai Yi Master Yi,520,Legacy,Master Yi,samuraiyimasteryi
 Headhunter Master Yi,975,Legacy,Master Yi,headhuntermasteryi
+PROJECT Yi Master Yi,1820,Legendary,Master Yi,projectyimasteryi
+Cosmic Blade Master Yi,1350,Epic,Master Yi,cosmicblademasteryi
+Eternal Sword Yi Master Yi,1350,Epic,Master Yi,eternalswordyimasteryi
+Snow Man Yi Master Yi,1350,Epic,Master Yi,snowmanyimasteryi
+Blood Moon Master Yi,1350,Epic,Master Yi,bloodmoonmasteryi
+PsyOps Master Yi,1350,Epic,Master Yi,psyopsmasteryi
+Debonair Master Yi,1350,Epic,Master Yi,debonairmasteryi
+Spirit Blossom Master Yi,1350,Epic,Master Yi,spiritblossommasteryi
+Inkshadow Master Yi,1820,Legendary,Master Yi,inkshadowmasteryi
+Heavenscale Master Yi,1350,Epic,Master Yi,heavenscalemasteryi
 Milio,975,Legacy,Milio,milio
 Faerie Court Milio,1350,Epic,Milio,faeriecourtmilio
+Rain Shepherd Milio,1350,Epic,Milio,rainshepherdmilio
 Miss Fortune,790,Legacy,Miss Fortune,missfortune
 Cowgirl Miss Fortune,750,Legacy,Miss Fortune,cowgirlmissfortune
 Waterloo Miss Fortune,520,Legacy,Miss Fortune,waterloomissfortune
@@ -378,28 +860,86 @@ Candy Cane Miss Fortune,975,Legacy,Miss Fortune,candycanemissfortune
 Road Warrior Miss Fortune,520,Legacy,Miss Fortune,roadwarriormissfortune
 Crime City Miss Fortune,975,Legacy,Miss Fortune,crimecitymissfortune
 Arcade Miss Fortune,1350,Epic,Miss Fortune,arcademissfortune
-Mordekaiser,585,Legacy,Mordekaiser,mordekaiser
+Captain Fortune Miss Fortune,975,Legacy,Miss Fortune,captainfortunemissfortune
+Pool Party Miss Fortune,1350,Epic,Miss Fortune,poolpartymissfortune
+Star Guardian Miss Fortune,1350,Epic,Miss Fortune,starguardianmissfortune
+Gun Goddess Miss Fortune,2775,Epic,Miss Fortune,gungoddessmissfortune
+Pajama Guardian Miss Fortune,1350,Epic,Miss Fortune,pajamaguardianmissfortune
+Bewitching Miss Fortune,1350,Epic,Miss Fortune,bewitchingmissfortune
+Ruined Miss Fortune,1350,Epic,Miss Fortune,ruinedmissfortune
+Battle Bunny Miss Fortune,1820,Legendary,Miss Fortune,battlebunnymissfortune
+Broken Covenant Miss Fortune,1350,Epic,Miss Fortune,brokencovenantmissfortune
+Porcelain Miss Fortune,1350,Epic,Miss Fortune,porcelainmissfortune
+Battle Queen Miss Fortune,1350,Epic,Miss Fortune,battlequeenmissfortune
+Mordekaiser,585,Epic,Mordekaiser,mordekaiser
 Dragon Knight Mordekaiser,520,Legacy,Mordekaiser,dragonknightmordekaiser
 Infernal Mordekaiser,520,Legacy,Mordekaiser,infernalmordekaiser
 Pentakill Mordekaiser,975,Legacy,Mordekaiser,pentakillmordekaiser
 Lord Mordekaiser,975,Legacy,Mordekaiser,lordmordekaiser
 King of Clubs Mordekaiser,750,Legacy,Mordekaiser,kingofclubsmordekaiser
 Dark Star Mordekaiser,1350,Epic,Mordekaiser,darkstarmordekaiser
-Morgana,585,Legacy,Morgana,morgana
+PROJECT Mordekaiser,1820,Legendary,Mordekaiser,projectmordekaiser
+Pentakill Lost Chapter Mordekaiser,1350,Epic,Mordekaiser,pentakilllostchaptermordekaiser
+High Noon Mordekaiser,1350,Epic,Mordekaiser,highnoonmordekaiser
+Old God Mordekaiser,1350,Epic,Mordekaiser,oldgodmordekaiser
+Morgana,585,Epic,Morgana,morgana
+Exiled Morgana,975,Legacy,Morgana,exiledmorgana
+Sinful Succulence Morgana,975,Legacy,Morgana,sinfulsucculencemorgana
+Blade Mistress Morgana,750,Legacy,Morgana,blademistressmorgana
+Blackthorn Morgana,1350,Epic,Morgana,blackthornmorgana
+Ghost Bride Morgana,975,Legacy,Morgana,ghostbridemorgana
+Lunar Wraith Morgana,975,Legacy,Morgana,lunarwraithmorgana
+Bewitching Morgana,975,Legacy,Morgana,bewitchingmorgana
+Majestic Empress Morgana,1350,Epic,Morgana,majesticempressmorgana
+Coven Morgana,1820,Legendary,Morgana,covenmorgana
+Dawnbringer Morgana,1350,Epic,Morgana,dawnbringermorgana
+Star Nemesis Morgana,1350,Epic,Morgana,starnemesismorgana
+Snow Moon Morgana,1350,Epic,Morgana,snowmoonmorgana
+Porcelain Morgana,1350,Epic,Morgana,porcelainmorgana
 Naafiri,975,Legacy,Naafiri,naafiri
 Soul Fighter Naafiri,1350,Epic,Naafiri,soulfighternaafiri
+PROJECT Naafiri,1350,Epic,Naafiri,projectnaafiri
 Nami,880,Legacy,Nami,nami
 Koi Nami,975,Legacy,Nami,koinami
-Nasus,585,Legacy,Nasus,nasus
+River Spirit Nami,975,Legacy,Nami,riverspiritnami
+Urf the Nami-tee Nami,750,Legacy,Nami,urfthenamiteenami
+Deep Sea Nami,1350,Epic,Nami,deepseanami
+SKT T1 Nami,1350,Epic,Nami,sktt1nami
+Program Nami,1350,Epic,Nami,programnami
+Splendid Staff Nami,1350,Epic,Nami,splendidstaffnami
+Cosmic Destiny Nami,1350,Epic,Nami,cosmicdestinynami
+Bewitching Nami,1350,Epic,Nami,bewitchingnami
+Space Groove Nami,1350,Epic,Nami,spacegroovenami
+Coven Nami,1820,Legendary,Nami,covennami
+Nasus,585,Epic,Nasus,nasus
 Galactic Nasus,520,Legacy,Nasus,galacticnasus
 Pharaoh Nasus,520,Legacy,Nasus,pharaohnasus
 Dreadknight Nasus,975,Legacy,Nasus,dreadknightnasus
+Riot K-9 Nasus,975,Legacy,Nasus,riotk9nasus
+Infernal Nasus,1820,Legendary,Nasus,infernalnasus
+Archduke Nasus,750,Legacy,Nasus,archdukenasus
+Worldbreaker Nasus,750,Legacy,Nasus,worldbreakernasus
+Lunar Guardian Nasus,1350,Epic,Nasus,lunarguardiannasus
+Battlecast Nasus,1350,Epic,Nasus,battlecastnasus
+Space Groove Nasus,1350,Epic,Nasus,spacegroovenasus
+Armored Titan Nasus,1350,Epic,Nasus,armoredtitannasus
+Nightbringer Nasus,1350,Epic,Nasus,nightbringernasus
 Nautilus,880,Legacy,Nautilus,nautilus
 Abyssal Nautilus,975,Legacy,Nautilus,abyssalnautilus
 Subterranean Nautilus,975,Legacy,Nautilus,subterraneannautilus
 AstroNautilus Nautilus,1350,Epic,Nautilus,astronautilusnautilus
+Warden Nautilus,750,Legacy,Nautilus,wardennautilus
+Worldbreaker Nautilus,750,Legacy,Nautilus,worldbreakernautilus
+Conqueror Nautilus,975,Legacy,Nautilus,conquerornautilus
+Shan Hai Scrolls Nautilus,1350,Epic,Nautilus,shanhaiscrollsnautilus
+Fright Night Nautilus,1350,Epic,Nautilus,frightnightnautilus
+Cosmic Paladin Nautilus,1350,Epic,Nautilus,cosmicpaladinnautilus
 Neeko,975,Legacy,Neeko,neeko
 Winter Wonder Neeko,1350,Epic,Neeko,winterwonderneeko
+Star Guardian Neeko,1350,Epic,Neeko,starguardianneeko
+Shan Hai Scrolls Neeko,1350,Epic,Neeko,shanhaiscrollsneeko
+Bewitching Neeko,1350,Epic,Neeko,bewitchingneeko
+Street Demons Neeko,1350,Epic,Neeko,streetdemonsneeko
 Nidalee,790,Legacy,Nidalee,nidalee
 Snow Bunny Nidalee,520,Legacy,Nidalee,snowbunnynidalee
 Leopard Nidalee,520,Legacy,Nidalee,leopardnidalee
@@ -409,8 +949,16 @@ Bewitching Nidalee,975,Legacy,Nidalee,bewitchingnidalee
 Headhunter Nidalee,975,Legacy,Nidalee,headhunternidalee
 Warring Kingdoms Nidalee,975,Legacy,Nidalee,warringkingdomsnidalee
 Challenger Nidalee,975,Legacy,Nidalee,challengernidalee
+Super Galaxy Nidalee,1350,Epic,Nidalee,supergalaxynidalee
+Dawnbringer Nidalee,1350,Epic,Nidalee,dawnbringernidalee
+Cosmic Huntress Nidalee,1350,Epic,Nidalee,cosmichuntressnidalee
+DWG Nidalee,1350,Epic,Nidalee,dwgnidalee
+Ocean Song Nidalee,1350,Epic,Nidalee,oceansongnidalee
+Kittalee Nidalee,1350,Epic,Nidalee,kittaleenidalee
+La Ilusión Nidalee,1350,Epic,Nidalee,lailusinnidalee
 Nilah,975,Legacy,Nilah,nilah
 Star Guardian Nilah,1350,Epic,Nilah,starguardiannilah
+Coven Nilah,1350,Epic,Nilah,covennilah
 Nocturne,880,Legacy,Nocturne,nocturne
 Frozen Terror Nocturne,975,Legacy,Nocturne,frozenterrornocturne
 Void Nocturne,520,Legacy,Nocturne,voidnocturne
@@ -419,7 +967,9 @@ Haunting Nocturne,975,Legacy,Nocturne,hauntingnocturne
 Eternum Nocturne,1820,Legendary,Nocturne,eternumnocturne
 Cursed Revenant Nocturne,750,Legacy,Nocturne,cursedrevenantnocturne
 Old God Nocturne,1350,Epic,Nocturne,oldgodnocturne
-Nunu & Willump,260,Legacy,Nunu & Willump,nunuwillump
+Broken Covenant Nocturne,1350,Epic,Nocturne,brokencovenantnocturne
+Empyrean Nocturne,1350,Epic,Nocturne,empyreannocturne
+Nunu & Willump,260,Epic,Nunu & Willump,nunuwillump
 Sasquatch Nunu & Willump,520,Legacy,Nunu & Willump,sasquatchnunuwillump
 Workshop Nunu & Willump,520,Legacy,Nunu & Willump,workshopnunuwillump
 Grungy Nunu & Willump,750,Legacy,Nunu & Willump,grungynunuwillump
@@ -428,10 +978,22 @@ Demolisher Nunu & Willump,975,Legacy,Nunu & Willump,demolishernunuwillump
 TPA Nunu & Willump,750,Legacy,Nunu & Willump,tpanunuwillump
 Zombie Nunu & Willump,1350,Epic,Nunu & Willump,zombienunuwillump
 Papercraft Nunu & Willump,1350,Epic,Nunu & Willump,papercraftnunuwillump
+Space Groove Nunu & Willump,1350,Epic,Nunu & Willump,spacegroovenunuwillump
+Nunu & Beelump Nunu & Willump,1350,Epic,Nunu & Willump,nunubeelumpnunuwillump
+Cosmic Paladins Nunu & Willump,1350,Epic,Nunu & Willump,cosmicpaladinsnunuwillump
+Fright Night Nunu & Willump,1350,Epic,Nunu & Willump,frightnightnunuwillump
 Olaf,790,Legacy,Olaf,olaf
 Forsaken Olaf,520,Legacy,Olaf,forsakenolaf
 Glacial Olaf,520,Legacy,Olaf,glacialolaf
 Brolaf Olaf,1820,Legendary,Olaf,brolafolaf
+Pentakill Olaf,975,Legacy,Olaf,pentakillolaf
+Marauder Olaf,750,Legacy,Olaf,marauderolaf
+Butcher Olaf,750,Legacy,Olaf,butcherolaf
+SKT T1 Olaf,1350,Epic,Olaf,sktt1olaf
+Dragonslayer Olaf,1350,Epic,Olaf,dragonslayerolaf
+Sentinel Olaf,1350,Epic,Olaf,sentinelolaf
+Pentakill Lost Chapter Olaf,1350,Epic,Olaf,pentakilllostchapterolaf
+Infernal Olaf,1350,Epic,Olaf,infernalolaf
 Orianna,880,Legacy,Orianna,orianna
 Gothic Orianna,520,Legacy,Orianna,gothicorianna
 Sewn Chaos Orianna,520,Legacy,Orianna,sewnchaosorianna
@@ -440,9 +1002,15 @@ TPA Orianna,750,Legacy,Orianna,tpaorianna
 Winter Wonder Orianna,975,Legacy,Orianna,winterwonderorianna
 Heartseeker Orianna,1350,Epic,Orianna,heartseekerorianna
 Dark Star Orianna,1350,Epic,Orianna,darkstarorianna
+Pool Party Orianna,1350,Epic,Orianna,poolpartyorianna
+Orbeeanna Orianna,1350,Epic,Orianna,orbeeannaorianna
+Star Guardian Orianna,1350,Epic,Orianna,starguardianorianna
+T1 Orianna,1350,Epic,Orianna,t1orianna
 Ornn,975,Legacy,Ornn,ornn
 Thunder Lord Ornn,1350,Epic,Ornn,thunderlordornn
 Elderwood Ornn,1350,Epic,Ornn,elderwoodornn
+Space Groove Ornn,1350,Epic,Ornn,spacegrooveornn
+Choo-Choo Ornn,1350,Epic,Ornn,choochooornn
 Pantheon,790,Legacy,Pantheon,pantheon
 Myrmidon Pantheon,520,Legacy,Pantheon,myrmidonpantheon
 Ruthless Pantheon,520,Legacy,Pantheon,ruthlesspantheon
@@ -450,22 +1018,45 @@ Perseus Pantheon,750,Legacy,Pantheon,perseuspantheon
 Full Metal Pantheon,975,Legacy,Pantheon,fullmetalpantheon
 Glaive Warrior Pantheon,975,Legacy,Pantheon,glaivewarriorpantheon
 Dragonslayer Pantheon,1350,Epic,Pantheon,dragonslayerpantheon
-Poppy,260,Legacy,Poppy,poppy
+Zombie Slayer Pantheon,975,Legacy,Pantheon,zombieslayerpantheon
+Baker Pantheon,975,Legacy,Pantheon,bakerpantheon
+Pulsefire Pantheon,1350,Epic,Pantheon,pulsefirepantheon
+Ruined Pantheon,1350,Epic,Pantheon,ruinedpantheon
+Poppy,260,Epic,Poppy,poppy
 Noxus Poppy,520,Legacy,Poppy,noxuspoppy
 Blacksmith Poppy,975,Legacy,Poppy,blacksmithpoppy
 Lollipoppy Poppy,975,Legacy,Poppy,lollipoppypoppy
 Ragdoll Poppy,975,Legacy,Poppy,ragdollpoppy
 Battle Regalia Poppy,520,Legacy,Poppy,battleregaliapoppy
+Scarlet Hammer Poppy,975,Legacy,Poppy,scarlethammerpoppy
+Star Guardian Poppy,1350,Epic,Poppy,starguardianpoppy
+Snow Fawn Poppy,1350,Epic,Poppy,snowfawnpoppy
+Astronaut Poppy,1350,Epic,Poppy,astronautpoppy
+Bewitching Poppy,1350,Epic,Poppy,bewitchingpoppy
+Cafe Cuties Poppy,1350,Epic,Poppy,cafecutiespoppy
 Pyke,975,Legacy,Pyke,pyke
 Sand Wraith Pyke,1350,Epic,Pyke,sandwraithpyke
+Blood Moon Pyke,1350,Epic,Pyke,bloodmoonpyke
+PROJECT Pyke,1820,Legendary,Pyke,projectpyke
+PsyOps Pyke,1350,Epic,Pyke,psyopspyke
+Sentinel Pyke,1350,Epic,Pyke,sentinelpyke
+Empyrean Pyke,1820,Legendary,Pyke,empyreanpyke
+Soul Fighter Pyke,1350,Epic,Pyke,soulfighterpyke
+Fright Night Pyke,1350,Epic,Pyke,frightnightpyke
 Qiyana,975,Legacy,Qiyana,qiyana
 Battle Boss Qiyana,1350,Epic,Qiyana,battlebossqiyana
+True Damage Qiyana,1350,Epic,Qiyana,truedamageqiyana
+Battle Queen Qiyana,1350,Epic,Qiyana,battlequeenqiyana
+Shockblade Qiyana,1350,Epic,Qiyana,shockbladeqiyana
+Lunar Empress Qiyana,1350,Epic,Qiyana,lunarempressqiyana
+La Ilusión Qiyana,1350,Epic,Qiyana,lailusinqiyana
 Quinn,880,Legacy,Quinn,quinn
 Phoenix Quinn,975,Legacy,Quinn,phoenixquinn
 Woad Scout Quinn,975,Legacy,Quinn,woadscoutquinn
 Corsair Quinn,750,Legacy,Quinn,corsairquinn
 Heartseeker Quinn,975,Legacy,Quinn,heartseekerquinn
 Warden Quinn,1350,Epic,Quinn,wardenquinn
+Star Guardian Quinn,1350,Epic,Quinn,starguardianquinn
 Rakan,975,Legacy,Rakan,rakan
 Cosmic Dawn Rakan,1350,Epic,Rakan,cosmicdawnrakan
 Sweetheart Rakan,1350,Epic,Rakan,sweetheartrakan
@@ -473,7 +1064,11 @@ SSG Rakan,1350,Epic,Rakan,ssgrakan
 iG Rakan,1350,Epic,Rakan,igrakan
 Star Guardian Rakan,1820,Legendary,Rakan,starguardianrakan
 Elderwood Rakan,1350,Epic,Rakan,elderwoodrakan
-Rammus,585,Legacy,Rammus,rammus
+Arcana Rakan,1350,Epic,Rakan,arcanarakan
+Broken Covenant Rakan,1350,Epic,Rakan,brokencovenantrakan
+Redeemed Star Guardian Rakan,1820,Legendary,Rakan,redeemedstarguardianrakan
+Dragonmancer Rakan,1350,Epic,Rakan,dragonmancerrakan
+Rammus,585,Epic,Rammus,rammus
 Chrome Rammus,750,Legacy,Rammus,chromerammus
 Molten Rammus,975,Legacy,Rammus,moltenrammus
 Freljord Rammus,520,Legacy,Rammus,freljordrammus
@@ -481,13 +1076,22 @@ Ninja Rammus,975,Legacy,Rammus,ninjarammus
 Full Metal Rammus,975,Legacy,Rammus,fullmetalrammus
 Guardian of the Sands Rammus,975,Legacy,Rammus,guardianofthesandsrammus
 Sweeper Rammus,975,Legacy,Rammus,sweeperrammus
+Astronaut Rammus,1350,Epic,Rammus,astronautrammus
+Durian Defender Rammus,1350,Epic,Rammus,duriandefenderrammus
 Rek'Sai,880,Legacy,Rek'Sai,reksai
 Eternum Rek'Sai,1350,Epic,Rek'Sai,eternumreksai
 Pool Party Rek'Sai,1350,Epic,Rek'Sai,poolpartyreksai
+Blackfrost Rek'Sai,1350,Epic,Rek'Sai,blackfrostreksai
+Elderwood Rek'Sai,1350,Epic,Rek'Sai,elderwoodreksai
+Primordian Rek'Sai,1350,Epic,Rek'Sai,primordianreksai
 Rell,975,Legacy,Rell,rell
 Battle Queen Rell,1350,Epic,Rell,battlequeenrell
+Star Guardian Rell,1350,Epic,Rell,starguardianrell
+High Noon Rell,1350,Epic,Rell,highnoonrell
 Renata Glasc,975,Legacy,Renata Glasc,renataglasc
 Admiral Glasc Renata Glasc,1350,Epic,Renata Glasc,admiralglascrenataglasc
+Fright Night Renata Glasc,1350,Epic,Renata Glasc,frightnightrenataglasc
+La Ilusión Renata Glasc,1350,Epic,Renata Glasc,lailusinrenataglasc
 Renekton,880,Legacy,Renekton,renekton
 Galactic Renekton,520,Legacy,Renekton,galacticrenekton
 Outback Renekton,520,Legacy,Renekton,outbackrenekton
@@ -498,18 +1102,41 @@ Scorched Earth Renekton,975,Legacy,Renekton,scorchedearthrenekton
 Prehistoric Renekton,750,Legacy,Renekton,prehistoricrenekton
 SKT T1 Renekton,975,Legacy,Renekton,sktt1renekton
 Renektoy Renekton,750,Legacy,Renekton,renektoyrenekton
+Blackfrost Renekton,1350,Epic,Renekton,blackfrostrenekton
+PROJECT Renekton,1820,Legendary,Renekton,projectrenekton
+Dawnbringer Renekton,1350,Epic,Renekton,dawnbringerrenekton
+Worlds 2023 Renekton,1350,Epic,Renekton,worlds2023renekton
 Rengar,880,Legacy,Rengar,rengar
 Headhunter Rengar,975,Legacy,Rengar,headhunterrengar
+Night Hunter Rengar,975,Legacy,Rengar,nighthunterrengar
+SSW Rengar,750,Legacy,Rengar,sswrengar
+Mecha Rengar,1350,Epic,Rengar,mecharengar
+Pretty Kitty Rengar,1350,Epic,Rengar,prettykittyrengar
+Guardian of the Sands Rengar,1350,Epic,Rengar,guardianofthesandsrengar
+Sentinel Rengar,1350,Epic,Rengar,sentinelrengar
+Street Demons Rengar,1350,Epic,Rengar,streetdemonsrengar
 Riven,880,Legacy,Riven,riven
 Redeemed Riven,975,Legacy,Riven,redeemedriven
 Crimson Elite Riven,520,Legacy,Riven,crimsoneliteriven
 Battle Bunny Riven,975,Legacy,Riven,battlebunnyriven
+Worlds 2012 Riven,975,Legacy,Riven,worlds2012riven
+Dragonblade Riven,1350,Epic,Riven,dragonbladeriven
+Arcade Riven,1350,Epic,Riven,arcaderiven
+Reignited Worlds 2012 Riven,975,Legacy,Riven,reignitedworlds2012riven
+Valiant Sword Riven,1350,Epic,Riven,valiantswordriven
+Spirit Blossom Riven,1350,Epic,Riven,spiritblossomriven
+Sentinel Riven,1350,Epic,Riven,sentinelriven
+Battle Bunny Prime Riven,1350,Epic,Riven,battlebunnyprimeriven
+Broken Covenant Riven,1820,Legendary,Riven,brokencovenantriven
+Primal Ambush Riven,1350,Epic,Riven,primalambushriven
 Rumble,880,Legacy,Rumble,rumble
 Bilgerat Rumble,520,Legacy,Rumble,bilgeratrumble
 Rumble in the Jungle Rumble,975,Legacy,Rumble,rumbleinthejunglerumble
 Super Galaxy Rumble,1820,Legendary,Rumble,supergalaxyrumble
 Badlands Baron Rumble,1350,Epic,Rumble,badlandsbaronrumble
-Ryze,260,Legacy,Ryze,ryze
+Space Groove Rumble,1350,Epic,Rumble,spacegrooverumble
+Cafe Cuties Rumble,1350,Epic,Rumble,cafecutiesrumble
+Ryze,260,Epic,Ryze,ryze
 Tribal Ryze,520,Legacy,Ryze,tribalryze
 Uncle Ryze,520,Legacy,Ryze,uncleryze
 Professor Ryze,975,Legacy,Ryze,professorryze
@@ -518,21 +1145,48 @@ Dark Crystal Ryze,975,Legacy,Ryze,darkcrystalryze
 Pirate Ryze,975,Legacy,Ryze,pirateryze
 Ryze Whitebeard Ryze,750,Legacy,Ryze,ryzewhitebeardryze
 SKT T1 Ryze,975,Legacy,Ryze,sktt1ryze
+Worlds 2019 Ryze,1350,Epic,Ryze,worlds2019ryze
+Guardian of the Sands Ryze,1350,Epic,Ryze,guardianofthesandsryze
+Arcana Ryze,1350,Epic,Ryze,arcanaryze
 Samira,975,Legacy,Samira,samira
 PsyOps Samira,1350,Epic,Samira,psyopssamira
+Space Groove Samira,1350,Epic,Samira,spacegroovesamira
+High Noon Samira,1350,Epic,Samira,highnoonsamira
+Soul Fighter Samira,3250,Ultimate,Samira,soulfightersamira
 Sejuani,880,Legacy,Sejuani,sejuani
 Sabretusk Sejuani,975,Legacy,Sejuani,sabretusksejuani
 Darkrider Sejuani,975,Legacy,Sejuani,darkridersejuani
 Traditional Sejuani,975,Legacy,Sejuani,traditionalsejuani
 Bear Cavalry Sejuani,1350,Epic,Sejuani,bearcavalrysejuani
 Poro Rider Sejuani,975,Legacy,Sejuani,pororidersejuani
+Beast Hunter Sejuani,750,Legacy,Sejuani,beasthuntersejuani
+Sejuani Dawnchaser Sejuani,750,Legacy,Sejuani,sejuanidawnchasersejuani
+Firecracker Sejuani,1350,Epic,Sejuani,firecrackersejuani
+PROJECT Sejuani,1350,Epic,Sejuani,projectsejuani
+Solar Eclipse Sejuani,1350,Epic,Sejuani,solareclipsesejuani
 Senna,975,Legacy,Senna,senna
 True Damage Senna,1350,Epic,Senna,truedamagesenna
+High Noon Senna,1820,Legendary,Senna,highnoonsenna
+PROJECT Senna,1350,Epic,Senna,projectsenna
+Lunar Eclipse Senna,1350,Epic,Senna,lunareclipsesenna
+Bewitching Senna,1350,Epic,Senna,bewitchingsenna
+Star Guardian Senna,1350,Epic,Senna,starguardiansenna
+Winterblessed Senna,1820,Legendary,Senna,winterblessedsenna
 Seraphine,975,Legacy,Seraphine,seraphine
 KDA ALL OUT Indie Seraphine,3250,Ultimate,Seraphine,kdaalloutindieseraphine
 Graceful Phoenix Seraphine,1350,Epic,Seraphine,gracefulphoenixseraphine
+Ocean Song Seraphine,1350,Epic,Seraphine,oceansongseraphine
+Faerie Court Seraphine,1350,Epic,Seraphine,faeriecourtseraphine
+Star Guardian Seraphine,1350,Epic,Seraphine,starguardianseraphine
+Battle Dove Seraphine,1820,Legendary,Seraphine,battledoveseraphine
 Sett,975,Legacy,Sett,sett
 Mecha Kingdoms Sett,1350,Epic,Sett,mechakingdomssett
+Obsidian Dragon Sett,1350,Epic,Sett,obsidiandragonsett
+Pool Party Sett,1350,Epic,Sett,poolpartysett
+Firecracker Sett,1350,Epic,Sett,firecrackersett
+Spirit Blossom Sett,1820,Legendary,Sett,spiritblossomsett
+Soul Fighter Sett,1350,Epic,Sett,soulfightersett
+HEARTSTEEL Sett,1350,Epic,Sett,heartsteelsett
 Shaco,790,Legacy,Shaco,shaco
 Mad Hatter Shaco,520,Legacy,Shaco,madhattershaco
 Royal Shaco,520,Legacy,Shaco,royalshaco
@@ -542,17 +1196,32 @@ Asylum Shaco,975,Legacy,Shaco,asylumshaco
 Masked Shaco,975,Legacy,Shaco,maskedshaco
 Wild Card Shaco,750,Legacy,Shaco,wildcardshaco
 Dark Star Shaco,1350,Epic,Shaco,darkstarshaco
+Arcanist Shaco,1350,Epic,Shaco,arcanistshaco
+Crime City Nightmare Shaco,1350,Epic,Shaco,crimecitynightmareshaco
+Winterblessed Shaco,1350,Epic,Shaco,winterblessedshaco
+Soul Fighter Shaco,1350,Epic,Shaco,soulfightershaco
+Fright Night Shaco,1350,Epic,Shaco,frightnightshaco
 Shen,790,Legacy,Shen,shen
 Frozen Shen,520,Legacy,Shen,frozenshen
 Yellow Jacket Shen,520,Legacy,Shen,yellowjacketshen
 Surgeon Shen,975,Legacy,Shen,surgeonshen
+Blood Moon Shen,750,Legacy,Shen,bloodmoonshen
+Warlord Shen,975,Legacy,Shen,warlordshen
+TPA Shen,750,Legacy,Shen,tpashen
+Pulsefire Shen,1350,Epic,Shen,pulsefireshen
+Infernal Shen,1350,Epic,Shen,infernalshen
+PsyOps Shen,1350,Epic,Shen,psyopsshen
+Shockblade Shen,1350,Epic,Shen,shockbladeshen
 Shyvana,790,Legacy,Shyvana,shyvana
 Ironscale Shyvana,750,Legacy,Shyvana,ironscaleshyvana
 Boneclaw Shyvana,520,Legacy,Shyvana,boneclawshyvana
 Darkflame Shyvana,975,Legacy,Shyvana,darkflameshyvana
 Ice Drake Shyvana,975,Legacy,Shyvana,icedrakeshyvana
 Worlds 2014 Shyvana,975,Legacy,Shyvana,worlds2014shyvana
-Singed,260,Legacy,Singed,singed
+Super Galaxy Shyvana,1350,Epic,Shyvana,supergalaxyshyvana
+Ruined Shyvana,1350,Epic,Shyvana,ruinedshyvana
+Immortal Journey Shyvana,1350,Epic,Shyvana,immortaljourneyshyvana
+Singed,260,Epic,Singed,singed
 Riot Squad Singed,975,Legacy,Singed,riotsquadsinged
 Hextech Singed,520,Legacy,Singed,hextechsinged
 Surfer Singed,975,Legacy,Singed,surfersinged
@@ -563,17 +1232,30 @@ SSW Singed,750,Legacy,Singed,sswsinged
 Black Scourge Singed,750,Legacy,Singed,blackscourgesinged
 Beekeeper Singed,1350,Epic,Singed,beekeepersinged
 Resistance Singed,1350,Epic,Singed,resistancesinged
-Sion,585,Legacy,Sion,sion
+Astronaut Singed,1350,Epic,Singed,astronautsinged
+Sion,585,Epic,Sion,sion
 Hextech Sion,520,Legacy,Sion,hextechsion
 Barbarian Sion,750,Legacy,Sion,barbariansion
 Lumberjack Sion,520,Legacy,Sion,lumberjacksion
 Warmonger Sion,975,Legacy,Sion,warmongersion
 Mecha Zero Sion,1820,Legendary,Sion,mechazerosion
-Sivir,260,Legacy,Sivir,sivir
+Worldbreaker Sion,1350,Epic,Sion,worldbreakersion
+Blackfrost Sion,1350,Epic,Sion,blackfrostsion
+High Noon Sion,1350,Epic,Sion,highnoonsion
+Cosmic Paladin Sion,1350,Epic,Sion,cosmicpaladinsion
+Sivir,260,Epic,Sivir,sivir
 Warrior Princess Sivir,520,Legacy,Sivir,warriorprincesssivir
 Spectacular Sivir,975,Legacy,Sivir,spectacularsivir
 Bandit Sivir,750,Legacy,Sivir,banditsivir
 Snowstorm Sivir,975,Legacy,Sivir,snowstormsivir
+Warden Sivir,750,Legacy,Sivir,wardensivir
+Pizza Delivery Sivir,1350,Epic,Sivir,pizzadeliverysivir
+Blood Moon Sivir,1350,Epic,Sivir,bloodmoonsivir
+Odyssey Sivir,1350,Epic,Sivir,odysseysivir
+Cafe Cuties Sivir,1350,Epic,Sivir,cafecutiessivir
+Solar Eclipse Sivir,1820,Legendary,Sivir,solareclipsesivir
+Mythmaker Sivir,1350,Epic,Sivir,mythmakersivir
+Primal Ambush Sivir,1350,Epic,Sivir,primalambushsivir
 Skarner,880,Legacy,Skarner,skarner
 Sandscourge Skarner,975,Legacy,Skarner,sandscourgeskarner
 Earthrune Skarner,520,Legacy,Skarner,earthruneskarner
@@ -587,7 +1269,15 @@ Muse Sona,975,Legacy,Sona,musesona
 Pentakill Sona,975,Legacy,Sona,pentakillsona
 Silent Night Sona,520,Legacy,Sona,silentnightsona
 Guqin Sona,975,Legacy,Sona,guqinsona
-Soraka,260,Legacy,Soraka,soraka
+Arcade Sona,1350,Epic,Sona,arcadesona
+DJ Sona,3250,Ultimate,Sona,djsona
+Sweetheart Sona,975,Legacy,Sona,sweetheartsona
+Odyssey Sona,1350,Epic,Sona,odysseysona
+PsyOps Sona,1820,Legendary,Sona,psyopssona
+Pentakill Lost Chapter Sona,1350,Epic,Sona,pentakilllostchaptersona
+Star Guardian Sona,1350,Epic,Sona,starguardiansona
+Immortal Journey Sona,1350,Epic,Sona,immortaljourneysona
+Soraka,260,Epic,Soraka,soraka
 Dryad Soraka,520,Legacy,Soraka,dryadsoraka
 Divine Soraka,975,Legacy,Soraka,divinesoraka
 Celestine Soraka,975,Legacy,Soraka,celestinesoraka
@@ -597,50 +1287,107 @@ Program Soraka,1350,Epic,Soraka,programsoraka
 Star Guardian Soraka,1350,Epic,Soraka,starguardiansoraka
 Pajama Guardian Soraka,1350,Epic,Soraka,pajamaguardiansoraka
 Winter Wonder Soraka,1350,Epic,Soraka,winterwondersoraka
+Dawnbringer Soraka,1820,Legendary,Soraka,dawnbringersoraka
+Nightbringer Soraka,1820,Legendary,Soraka,nightbringersoraka
+Cafe Cuties Soraka,1350,Epic,Soraka,cafecutiessoraka
+Spirit Blossom Soraka,1350,Epic,Soraka,spiritblossomsoraka
+Immortal Journey Soraka,1820,Legendary,Soraka,immortaljourneysoraka
+Faerie Court Soraka,1350,Epic,Soraka,faeriecourtsoraka
 Swain,880,Legacy,Swain,swain
 Bilgewater Swain,520,Legacy,Swain,bilgewaterswain
 Northern Front Swain,750,Legacy,Swain,northernfrontswain
 Tyrant Swain,1350,Epic,Swain,tyrantswain
 Dragon Master Swain,1350,Epic,Swain,dragonmasterswain
+Winterblessed Swain,1350,Epic,Swain,winterblessedswain
 Sylas,975,Legacy,Sylas,sylas
 Lunar Wraith Sylas,1350,Epic,Sylas,lunarwraithsylas
+Freljord Sylas,1350,Epic,Sylas,freljordsylas
+PROJECT Sylas,1350,Epic,Sylas,projectsylas
+Battle Wolf Sylas,1350,Epic,Sylas,battlewolfsylas
+Winterblessed Sylas,1350,Epic,Sylas,winterblessedsylas
 Syndra,880,Legacy,Syndra,syndra
 Justicar Syndra,975,Legacy,Syndra,justicarsyndra
 Atlantean Syndra,975,Legacy,Syndra,atlanteansyndra
 Queen of Diamonds Syndra,750,Legacy,Syndra,queenofdiamondssyndra
 Snow Day Syndra,1350,Epic,Syndra,snowdaysyndra
 SKT T1 Syndra,1350,Epic,Syndra,sktt1syndra
+Star Guardian Syndra,1350,Epic,Syndra,starguardiansyndra
+Pool Party Syndra,1350,Epic,Syndra,poolpartysyndra
+Bewitching Syndra,1350,Epic,Syndra,bewitchingsyndra
+Spirit Blossom Syndra,1350,Epic,Syndra,spiritblossomsyndra
+Coven Syndra,1350,Epic,Syndra,covensyndra
 Tahm Kench,880,Legacy,Tahm Kench,tahmkench
 Master Chef Tahm Kench,975,Legacy,Tahm Kench,mastercheftahmkench
 Urf Kench Tahm Kench,750,Legacy,Tahm Kench,urfkenchtahmkench
 Coin Emperor Tahm Kench,1350,Epic,Tahm Kench,coinemperortahmkench
+Arcana Tahm Kench,1350,Epic,Tahm Kench,arcanatahmkench
+High Noon Tahm Kench,1350,Epic,Tahm Kench,highnoontahmkench
+Shan Hai Scrolls Tahm Kench,1350,Epic,Tahm Kench,shanhaiscrollstahmkench
 Taliyah,975,Legacy,Taliyah,taliyah
 Freljord Taliyah,1350,Epic,Taliyah,freljordtaliyah
 SSG Taliyah,1350,Epic,Taliyah,ssgtaliyah
 Pool Party Taliyah,1350,Epic,Taliyah,poolpartytaliyah
+Star Guardian Taliyah,1350,Epic,Taliyah,starguardiantaliyah
 Talon,880,Legacy,Talon,talon
 Renegade Talon,520,Legacy,Talon,renegadetalon
 Crimson Elite Talon,750,Legacy,Talon,crimsonelitetalon
 Dragonblade Talon,975,Legacy,Talon,dragonbladetalon
-Taric,585,Legacy,Taric,taric
+SSW Talon,750,Legacy,Talon,sswtalon
+Blood Moon Talon,1350,Epic,Talon,bloodmoontalon
+Enduring Sword Talon,1350,Epic,Talon,enduringswordtalon
+Talon Blackwood Talon,1350,Epic,Talon,talonblackwoodtalon
+High Noon Talon,1350,Epic,Talon,highnoontalon
+Primal Ambush Talon,1350,Epic,Talon,primalambushtalon
+Taric,585,Epic,Taric,taric
 Emerald Taric,520,Legacy,Taric,emeraldtaric
 Armor of the Fifth Age Taric,750,Legacy,Taric,armorofthefifthagetaric
 Bloodstone Taric,975,Legacy,Taric,bloodstonetaric
 Pool Party Taric,1350,Epic,Taric,poolpartytaric
-Teemo,585,Legacy,Teemo,teemo
+Taric Luminshield Taric,1350,Epic,Taric,taricluminshieldtaric
+Space Groove Taric,1350,Epic,Taric,spacegroovetaric
+Teemo,585,Epic,Teemo,teemo
 Happy Elf Teemo,750,Legacy,Teemo,happyelfteemo
 Recon Teemo,750,Legacy,Teemo,reconteemo
 Badger Teemo,750,Legacy,Teemo,badgerteemo
 Astronaut Teemo,1350,Epic,Teemo,astronautteemo
+Cottontail Teemo,975,Legacy,Teemo,cottontailteemo
+Super Teemo,975,Legacy,Teemo,superteemo
+Panda Teemo,975,Legacy,Teemo,pandateemo
+Omega Squad Teemo,1820,Legendary,Teemo,omegasquadteemo
+Little Devil Teemo,1350,Epic,Teemo,littledevilteemo
+Beemo Teemo,1350,Epic,Teemo,beemoteemo
+Spirit Blossom Teemo,1350,Epic,Teemo,spiritblossomteemo
+Firecracker Teemo,1350,Epic,Teemo,firecrackerteemo
+Space Groove Teemo,1820,Legendary,Teemo,spacegrooveteemo
 Thresh,880,Legacy,Thresh,thresh
 Deep Terror Thresh,975,Legacy,Thresh,deepterrorthresh
 Worlds 2013 Thresh,975,Legacy,Thresh,worlds2013thresh
-Tristana,585,Legacy,Tristana,tristana
+Blood Moon Thresh,975,Legacy,Thresh,bloodmoonthresh
+SSW Thresh,750,Legacy,Thresh,sswthresh
+Dark Star Thresh,1820,Legendary,Thresh,darkstarthresh
+High Noon Thresh,1350,Epic,Thresh,highnoonthresh
+Pulsefire Thresh,1350,Epic,Thresh,pulsefirethresh
+FPX Thresh,1350,Epic,Thresh,fpxthresh
+Spirit Blossom Thresh,1820,Legendary,Thresh,spiritblossomthresh
+Unbound Thresh,750,Legacy,Thresh,unboundthresh
+Steel Dragon Thresh,1350,Epic,Thresh,steeldragonthresh
+Lunar Emperor Thresh,1350,Epic,Thresh,lunaremperorthresh
+Winterblessed Thresh,1350,Epic,Thresh,winterblessedthresh
+Janitor Thresh,1350,Epic,Thresh,janitorthresh
+Tristana,585,Epic,Tristana,tristana
 Earnest Elf Tristana,520,Legacy,Tristana,earnestelftristana
 Firefighter Tristana,1820,Legendary,Tristana,firefightertristana
 Guerilla Tristana,975,Legacy,Tristana,guerillatristana
 Buccaneer Tristana,520,Legacy,Tristana,buccaneertristana
 Rocket Girl Tristana,975,Legacy,Tristana,rocketgirltristana
+Dragon Trainer Tristana,1820,Legendary,Tristana,dragontrainertristana
+Bewitching Tristana,1350,Epic,Tristana,bewitchingtristana
+Omega Squad Tristana,1350,Epic,Tristana,omegasquadtristana
+Little Demon Tristana,1350,Epic,Tristana,littledemontristana
+Pengu Cosplay Tristana,1350,Epic,Tristana,pengucosplaytristana
+Firecracker Tristana,1350,Epic,Tristana,firecrackertristana
+Spirit Blossom Tristana,1350,Epic,Tristana,spiritblossomtristana
+Faerie Court Tristana,1350,Epic,Tristana,faeriecourttristana
 Trundle,880,Legacy,Trundle,trundle
 Junkyard Trundle,750,Legacy,Trundle,junkyardtrundle
 Lil' Slugger Trundle,520,Legacy,Trundle,lilsluggertrundle
@@ -648,7 +1395,8 @@ Traditional Trundle,975,Legacy,Trundle,traditionaltrundle
 Constable Trundle,750,Legacy,Trundle,constabletrundle
 Worldbreaker Trundle,750,Legacy,Trundle,worldbreakertrundle
 Dragonslayer Trundle,1350,Epic,Trundle,dragonslayertrundle
-Tryndamere,585,Legacy,Tryndamere,tryndamere
+Fright Night Trundle,1350,Epic,Trundle,frightnighttrundle
+Tryndamere,585,Epic,Tryndamere,tryndamere
 Highland Tryndamere,520,Legacy,Tryndamere,highlandtryndamere
 King Tryndamere,520,Legacy,Tryndamere,kingtryndamere
 Viking Tryndamere,750,Legacy,Tryndamere,vikingtryndamere
@@ -659,7 +1407,8 @@ Nightmare Tryndamere,750,Legacy,Tryndamere,nightmaretryndamere
 Beast Hunter Tryndamere,750,Legacy,Tryndamere,beasthuntertryndamere
 Chemtech Tryndamere,975,Legacy,Tryndamere,chemtechtryndamere
 Blood Moon Tryndamere,1350,Epic,Tryndamere,bloodmoontryndamere
-Twisted Fate,585,Legacy,Twisted Fate,twistedfate
+Nightbringer Tryndamere,1350,Epic,Tryndamere,nightbringertryndamere
+Twisted Fate,585,Epic,Twisted Fate,twistedfate
 Jack of Hearts Twisted Fate,520,Legacy,Twisted Fate,jackofheartstwistedfate
 The Magnificent Twisted Fate,1820,Legendary,Twisted Fate,themagnificenttwistedfate
 Tango Twisted Fate,520,Legacy,Twisted Fate,tangotwistedfate
@@ -669,16 +1418,37 @@ Underworld Twisted Fate,975,Legacy,Twisted Fate,underworldtwistedfate
 Red Card Twisted Fate,750,Legacy,Twisted Fate,redcardtwistedfate
 Cutpurse Twisted Fate,750,Legacy,Twisted Fate,cutpursetwistedfate
 Blood Moon Twisted Fate,1350,Epic,Twisted Fate,bloodmoontwistedfate
+Odyssey Twisted Fate,1350,Epic,Twisted Fate,odysseytwistedfate
+DWG Twisted Fate,1350,Epic,Twisted Fate,dwgtwistedfate
+Crime City Nightmare Twisted Fate,1350,Epic,Twisted Fate,crimecitynightmaretwistedfate
+Space Groove Twisted Fate,1350,Epic,Twisted Fate,spacegroovetwistedfate
 Twitch,790,Legacy,Twitch,twitch
 Kingpin Twitch,520,Legacy,Twitch,kingpintwitch
-Udyr,585,Legacy,Udyr,udyr
+Whistler Village Twitch,520,Legacy,Twitch,whistlervillagetwitch
+Crime City Twitch,975,Legacy,Twitch,crimecitytwitch
+Vandal Twitch,975,Legacy,Twitch,vandaltwitch
+Pickpocket Twitch,750,Legacy,Twitch,pickpockettwitch
+SSW Twitch,750,Legacy,Twitch,sswtwitch
+Omega Squad Twitch,1350,Epic,Twitch,omegasquadtwitch
+Ice King Twitch,1350,Epic,Twitch,icekingtwitch
+Twitch Shadowfoot Twitch,1350,Epic,Twitch,twitchshadowfoottwitch
+Dragonslayer Twitch,1350,Epic,Twitch,dragonslayertwitch
+High Noon Twitch,1350,Epic,Twitch,highnoontwitch
+Cheddar Chief Twitch,1350,Epic,Twitch,cheddarchieftwitch
+Udyr,585,Epic,Udyr,udyr
 Black Belt Udyr,520,Legacy,Udyr,blackbeltudyr
 Primal Udyr,975,Legacy,Udyr,primaludyr
 Spirit Guard Udyr,3250,Ultimate,Udyr,spiritguardudyr
+Definitely Not Udyr,975,Legacy,Udyr,definitelynotudyr
+Dragon Oracle Udyr,1350,Epic,Udyr,dragonoracleudyr
+Inkshadow Udyr,1350,Epic,Udyr,inkshadowudyr
 Urgot,790,Legacy,Urgot,urgot
 Butcher Urgot,520,Legacy,Urgot,butcherurgot
 Giant Enemy Crabgot Urgot,520,Legacy,Urgot,giantenemycrabgoturgot
 Battlecast Urgot,1350,Epic,Urgot,battlecasturgot
+High Noon Urgot,1350,Epic,Urgot,highnoonurgot
+Pajama Guardian Cosplay Urgot,1350,Epic,Urgot,pajamaguardiancosplayurgot
+Fright Night Urgot,1350,Epic,Urgot,frightnighturgot
 Varus,880,Legacy,Varus,varus
 Blight Crystal Varus,975,Legacy,Varus,blightcrystalvarus
 Arclight Varus,975,Legacy,Varus,arclightvarus
@@ -686,11 +1456,29 @@ Arctic Ops Varus,1350,Epic,Varus,arcticopsvarus
 Heartseeker Varus,1350,Epic,Varus,heartseekervarus
 Varus Swiftbolt Varus,750,Legacy,Varus,varusswiftboltvarus
 Dark Star Varus,1350,Epic,Varus,darkstarvarus
+Conqueror Varus,975,Legacy,Varus,conquerorvarus
+Infernal Varus,1350,Epic,Varus,infernalvarus
+Cosmic Hunter Varus,1350,Epic,Varus,cosmichuntervarus
+PROJECT Varus,1350,Epic,Varus,projectvarus
+High Noon Varus,1350,Epic,Varus,highnoonvarus
+Snow Moon Varus,1350,Epic,Varus,snowmoonvarus
+Empyrean Varus,1820,Legendary,Varus,empyreanvarus
 Vayne,880,Legacy,Vayne,vayne
 Aristocrat Vayne,520,Legacy,Vayne,aristocratvayne
 Vindicator Vayne,520,Legacy,Vayne,vindicatorvayne
 Dragonslayer Vayne,975,Legacy,Vayne,dragonslayervayne
-Veigar,585,Legacy,Veigar,veigar
+Heartseeker Vayne,975,Legacy,Vayne,heartseekervayne
+SKT T1 Vayne,750,Legacy,Vayne,sktt1vayne
+Arclight Vayne,975,Legacy,Vayne,arclightvayne
+PROJECT Vayne,1820,Legendary,Vayne,projectvayne
+Firecracker Vayne,1350,Epic,Vayne,firecrackervayne
+FPX Vayne,1350,Epic,Vayne,fpxvayne
+Spirit Blossom Vayne,1350,Epic,Vayne,spiritblossomvayne
+Sentinel Vayne,1820,Legendary,Vayne,sentinelvayne
+Battle Bat Vayne,1350,Epic,Vayne,battlebatvayne
+Dawnbringer Vayne,1350,Epic,Vayne,dawnbringervayne
+Dragonmancer Vayne,1350,Epic,Vayne,dragonmancervayne
+Veigar,585,Epic,Veigar,veigar
 White Mage Veigar,390,Legacy,Veigar,whitemageveigar
 Curling Veigar,520,Legacy,Veigar,curlingveigar
 Veigar Greybeard Veigar,750,Legacy,Veigar,veigargreybeardveigar
@@ -699,24 +1487,49 @@ Baron Von Veigar,975,Legacy,Veigar,baronvonveigar
 Superb Villain Veigar,975,Legacy,Veigar,superbvillainveigar
 Bad Santa Veigar,975,Legacy,Veigar,badsantaveigar
 Final Boss Veigar,1820,Legendary,Veigar,finalbossveigar
+Omega Squad Veigar,1350,Epic,Veigar,omegasquadveigar
+Elderwood Veigar,1350,Epic,Veigar,elderwoodveigar
+Furyhorn Cosplay Veigar,1350,Epic,Veigar,furyhorncosplayveigar
+Astronaut Veigar,1350,Epic,Veigar,astronautveigar
+Monster Tamer Veigar,1350,Epic,Veigar,monstertamerveigar
+King Beegar Veigar,1350,Epic,Veigar,kingbeegarveigar
+Fright Night Veigar,1820,Legendary,Veigar,frightnightveigar
 Vel'Koz,880,Legacy,Vel'Koz,velkoz
 Battlecast Vel'Koz,1350,Epic,Vel'Koz,battlecastvelkoz
 Arclight Vel'Koz,1350,Epic,Vel'Koz,arclightvelkoz
 Definitely Not Vel'Koz,750,Legacy,Vel'Koz,definitelynotvelkoz
 Infernal Vel'Koz,1350,Epic,Vel'Koz,infernalvelkoz
+Blackfrost Vel'Koz,1350,Epic,Vel'Koz,blackfrostvelkoz
+Bee'Koz Vel'Koz,1350,Epic,Vel'Koz,beekozvelkoz
 Vex,975,Legacy,Vex,vex
 Dawnbringer Vex,1350,Epic,Vex,dawnbringervex
+Empyrean Vex,1350,Epic,Vex,empyreanvex
 Vi,880,Legacy,Vi,vi
 Neon Strike Vi,975,Legacy,Vi,neonstrikevi
 Officer Vi,975,Legacy,Vi,officervi
+Debonair Vi,750,Legacy,Vi,debonairvi
+Demon Vi,1350,Epic,Vi,demonvi
+Warring Kingdoms Vi,1350,Epic,Vi,warringkingdomsvi
+PROJECT Vi,1350,Epic,Vi,projectvi
+Heartbreaker Vi,1350,Epic,Vi,heartbreakervi
+PsyOps Vi,1350,Epic,Vi,psyopsvi
+Arcane Vi,975,Legacy,Vi,arcanevi
+Heartache Vi,1350,Epic,Vi,heartachevi
+Primal Ambush Vi,1350,Epic,Vi,primalambushvi
 Viego,975,Legacy,Viego,viego
 Lunar Beast Viego,1350,Epic,Viego,lunarbeastviego
+Dissonance of Pentakill Viego,1350,Epic,Viego,dissonanceofpentakillviego
+EDG Viego,1350,Epic,Viego,edgviego
+King Viego,1350,Epic,Viego,kingviego
+Soul Fighter Viego,1820,Legendary,Viego,soulfighterviego
+Worlds 2024 Viego,1350,Epic,Viego,worlds2024viego
 Viktor,880,Legacy,Viktor,viktor
 Full Machine Viktor,975,Legacy,Viktor,fullmachineviktor
 Prototype Viktor,520,Legacy,Viktor,prototypeviktor
 Creator Viktor,1350,Epic,Viktor,creatorviktor
 Death Sworn Viktor,1350,Epic,Viktor,deathswornviktor
 PsyOps Viktor,1350,Epic,Viktor,psyopsviktor
+High Noon Viktor,1350,Epic,Viktor,highnoonviktor
 Vladimir,790,Legacy,Vladimir,vladimir
 Count Vladimir,520,Legacy,Vladimir,countvladimir
 Marquis Vladimir,520,Legacy,Vladimir,marquisvladimir
@@ -726,6 +1539,10 @@ Blood Lord Vladimir,1820,Legendary,Vladimir,bloodlordvladimir
 Soulstealer Vladimir,1350,Epic,Vladimir,soulstealervladimir
 Academy Vladimir,750,Legacy,Vladimir,academyvladimir
 Dark Waters Vladimir,1350,Epic,Vladimir,darkwatersvladimir
+Nightbringer Vladimir,1350,Epic,Vladimir,nightbringervladimir
+Cosmic Devourer Vladimir,1350,Epic,Vladimir,cosmicdevourervladimir
+Cafe Cuties Vladimir,1350,Epic,Vladimir,cafecutiesvladimir
+Broken Covenant Vladimir,1350,Epic,Vladimir,brokencovenantvladimir
 Volibear,880,Legacy,Volibear,volibear
 Thunder Lord Volibear,520,Legacy,Volibear,thunderlordvolibear
 Northern Storm Volibear,750,Legacy,Volibear,northernstormvolibear
@@ -734,47 +1551,121 @@ Captain Volibear,750,Legacy,Volibear,captainvolibear
 El Rayo Volibear,750,Legacy,Volibear,elrayovolibear
 The Thousand-Pierced Bear Volibear,975,Legacy,Volibear,thethousandpiercedbearvolibear
 Duality Dragon Volibear,1350,Epic,Volibear,dualitydragonvolibear
-Warwick,260,Legacy,Warwick,warwick
+Inkshadow Volibear,1350,Epic,Volibear,inkshadowvolibear
+Warwick,260,Epic,Warwick,warwick
 Urf the Manatee Warwick,5000,Ultimate,Warwick,urfthemanateewarwick
 Big Bad Warwick,520,Legacy,Warwick,bigbadwarwick
+Tundra Hunter Warwick,520,Legacy,Warwick,tundrahunterwarwick
+Feral Warwick,975,Legacy,Warwick,feralwarwick
+Firefang Warwick,975,Legacy,Warwick,firefangwarwick
+Hyena Warwick,975,Legacy,Warwick,hyenawarwick
+Marauder Warwick,750,Legacy,Warwick,marauderwarwick
+Urfwick Warwick,150000,Ultimate,Warwick,urfwickwarwick
+Lunar Guardian Warwick,1350,Epic,Warwick,lunarguardianwarwick
+PROJECT Warwick,1350,Epic,Warwick,projectwarwick
+Old God Warwick,1350,Epic,Warwick,oldgodwarwick
+Winterblessed Warwick,1350,Epic,Warwick,winterblessedwarwick
 Wukong,880,Legacy,Wukong,wukong
 General Wukong,750,Legacy,Wukong,generalwukong
 Volcanic Wukong,975,Legacy,Wukong,volcanicwukong
 Jade Dragon Wukong,975,Legacy,Wukong,jadedragonwukong
+Underworld Wukong,1350,Epic,Wukong,underworldwukong
+Radiant Wukong,1350,Epic,Wukong,radiantwukong
+Lancer Stratus Wukong,1350,Epic,Wukong,lancerstratuswukong
+Battle Academia Wukong,1350,Epic,Wukong,battleacademiawukong
+Elderwood Wukong,1350,Epic,Wukong,elderwoodwukong
 Xayah,975,Legacy,Xayah,xayah
 Cosmic Dusk Xayah,1350,Epic,Xayah,cosmicduskxayah
 Sweetheart Xayah,1350,Epic,Xayah,sweetheartxayah
 SSG Xayah,1350,Epic,Xayah,ssgxayah
 Star Guardian Xayah,1820,Legendary,Xayah,starguardianxayah
 Elderwood Xayah,1350,Epic,Xayah,elderwoodxayah
+Brave Phoenix Xayah,1350,Epic,Xayah,bravephoenixxayah
+Arcana Xayah,1350,Epic,Xayah,arcanaxayah
+Broken Covenant Xayah,1350,Epic,Xayah,brokencovenantxayah
+Redeemed Star Guardian Xayah,1820,Legendary,Xayah,redeemedstarguardianxayah
+Battle Bat Xayah,1350,Epic,Xayah,battlebatxayah
 Xerath,880,Legacy,Xerath,xerath
 Runeborn Xerath,750,Legacy,Xerath,runebornxerath
 Battlecast Xerath,520,Legacy,Xerath,battlecastxerath
 Scorched Earth Xerath,1350,Epic,Xerath,scorchedearthxerath
 Guardian of the Sands Xerath,1350,Epic,Xerath,guardianofthesandsxerath
 Dark Star Xerath,1350,Epic,Xerath,darkstarxerath
-Xin Zhao,585,Legacy,Xin Zhao,xinzhao
+Arcana Xerath,1350,Epic,Xerath,arcanaxerath
+Astronaut Xerath,1350,Epic,Xerath,astronautxerath
+Xin Zhao,585,Epic,Xin Zhao,xinzhao
 Commando Xin Zhao,520,Legacy,Xin Zhao,commandoxinzhao
 Imperial Xin Zhao,520,Legacy,Xin Zhao,imperialxinzhao
 Viscero Xin Zhao,975,Legacy,Xin Zhao,visceroxinzhao
 Winged Hussar Xin Zhao,975,Legacy,Xin Zhao,wingedhussarxinzhao
 Warring Kingdoms Xin Zhao,1350,Epic,Xin Zhao,warringkingdomsxinzhao
+Secret Agent Xin Zhao,975,Legacy,Xin Zhao,secretagentxinzhao
+Dragonslayer Xin Zhao,1350,Epic,Xin Zhao,dragonslayerxinzhao
+Cosmic Defender Xin Zhao,1350,Epic,Xin Zhao,cosmicdefenderxinzhao
+Marauder Xin Zhao,1350,Epic,Xin Zhao,marauderxinzhao
+Firecracker Xin Zhao,1350,Epic,Xin Zhao,firecrackerxinzhao
 Yasuo,880,Legacy,Yasuo,yasuo
 High Noon Yasuo,975,Legacy,Yasuo,highnoonyasuo
+PROJECT Yasuo,1350,Epic,Yasuo,projectyasuo
+Blood Moon Yasuo,975,Legacy,Yasuo,bloodmoonyasuo
+Odyssey Yasuo,1350,Epic,Yasuo,odysseyyasuo
+Battle Boss Yasuo,1350,Epic,Yasuo,battlebossyasuo
+True Damage Yasuo,1350,Epic,Yasuo,truedamageyasuo
+Spirit Blossom Yasuo,1350,Epic,Yasuo,spiritblossomyasuo
+Truth Dragon Yasuo,1820,Legendary,Yasuo,truthdragonyasuo
+Dream Dragon Yasuo,1820,Legendary,Yasuo,dreamdragonyasuo
+Sea Dog Yasuo,1350,Epic,Yasuo,seadogyasuo
+Inkshadow Yasuo,1350,Epic,Yasuo,inkshadowyasuo
+Foreseen Yasuo,1350,Epic,Yasuo,foreseenyasuo
+Battle Wolf Yasuo,1350,Epic,Yasuo,battlewolfyasuo
 Yone,975,Legacy,Yone,yone
 Spirit Blossom Yone,1350,Epic,Yone,spiritblossomyone
+Battle Academia Yone,1350,Epic,Yone,battleacademiayone
+Dawnbringer Yone,1820,Legendary,Yone,dawnbringeryone
+Ocean Song Yone,1350,Epic,Yone,oceansongyone
+Inkshadow Yone,1350,Epic,Yone,inkshadowyone
+HEARTSTEEL Yone,1350,Epic,Yone,heartsteelyone
+High Noon Yone,1820,Legendary,Yone,highnoonyone
 Yorick,880,Legacy,Yorick,yorick
 Undertaker Yorick,520,Legacy,Yorick,undertakeryorick
 Pentakill Yorick,975,Legacy,Yorick,pentakillyorick
 Arclight Yorick,1350,Epic,Yorick,arclightyorick
 Meowrick Yorick,1350,Epic,Yorick,meowrickyorick
+Resistance Yorick,1350,Epic,Yorick,resistanceyorick
+Pentakill Lost Chapter Yorick,1350,Epic,Yorick,pentakilllostchapteryorick
+Spirit Blossom Yorick,1350,Epic,Yorick,spiritblossomyorick
 Yuumi,975,Legacy,Yuumi,yuumi
 Battle Principal Yuumi,1350,Epic,Yuumi,battleprincipalyuumi
+Heartseeker Yuumi,1350,Epic,Yuumi,heartseekeryuumi
+Yuubee Yuumi,1350,Epic,Yuumi,yuubeeyuumi
+Bewitching Yuumi,1350,Epic,Yuumi,bewitchingyuumi
+EDG Yuumi,1350,Epic,Yuumi,edgyuumi
+Shiba Yuumi,1350,Epic,Yuumi,shibayuumi
+Cyber Cat Yuumi,1350,Epic,Yuumi,cybercatyuumi
 Zac,880,Legacy,Zac,zac
+Special Weapon Zac,975,Legacy,Zac,specialweaponzac
+Pool Party Zac,1350,Epic,Zac,poolpartyzac
+SKT T1 Zac,1350,Epic,Zac,sktt1zac
+Battlecast Zac,1350,Epic,Zac,battlecastzac
+Empyrean Zac,1350,Epic,Zac,empyreanzac
+Zesty Dip Zac,1350,Epic,Zac,zestydipzac
 Zed,880,Legacy,Zed,zed
 Shockblade Zed,975,Legacy,Zed,shockbladezed
+SKT T1 Zed,750,Legacy,Zed,sktt1zed
+PROJECT Zed,1350,Epic,Zed,projectzed
+Worlds 2016 Zed,975,Legacy,Zed,worlds2016zed
+Death Sworn Zed,1350,Epic,Zed,deathswornzed
+Galaxy Slayer Zed,1820,Legendary,Zed,galaxyslayerzed
+PsyOps Zed,1350,Epic,Zed,psyopszed
+Debonair Zed,1820,Legendary,Zed,debonairzed
+Empyrean Zed,1350,Epic,Zed,empyreanzed
+Immortal Journey Zed,1350,Epic,Zed,immortaljourneyzed
+Blood Moon Zed,1350,Epic,Zed,bloodmoonzed
 Zeri,975,Legacy,Zeri,zeri
 Withered Rose Zeri,1350,Epic,Zeri,witheredrosezeri
+Ocean Song Zeri,1350,Epic,Zeri,oceansongzeri
+Immortal Journey Zeri,1350,Epic,Zeri,immortaljourneyzeri
+Fright Night Zeri,1350,Epic,Zeri,frightnightzeri
 Ziggs,880,Legacy,Ziggs,ziggs
 Mad Scientist Ziggs,975,Legacy,Ziggs,madscientistziggs
 Major Ziggs,975,Legacy,Ziggs,majorziggs
@@ -783,19 +1674,31 @@ Snow Day Ziggs,975,Legacy,Ziggs,snowdayziggs
 Master Arcanist Ziggs,1350,Epic,Ziggs,masterarcanistziggs
 Battle Boss Ziggs,1350,Epic,Ziggs,battlebossziggs
 Odyssey Ziggs,1350,Epic,Ziggs,odysseyziggs
-Zilean,585,Legacy,Zilean,zilean
+Sugar Rush Ziggs,1350,Epic,Ziggs,sugarrushziggs
+BZZZiggs Ziggs,1350,Epic,Ziggs,bzzziggsziggs
+La Ilusión Ziggs,1350,Epic,Ziggs,lailusinziggs
+Zilean,585,Epic,Zilean,zilean
 Old Saint Zilean,520,Legacy,Zilean,oldsaintzilean
 Groovy Zilean,520,Legacy,Zilean,groovyzilean
 Shurima Desert Zilean,975,Legacy,Zilean,shurimadesertzilean
 Time Machine Zilean,520,Legacy,Zilean,timemachinezilean
 Blood Moon Zilean,975,Legacy,Zilean,bloodmoonzilean
 Sugar Rush Zilean,1350,Epic,Zilean,sugarrushzilean
+Winterblessed Zilean,1350,Epic,Zilean,winterblessedzilean
 Zoe,975,Legacy,Zoe,zoe
 Cyber Pop Zoe,1350,Epic,Zoe,cyberpopzoe
 Pool Party Zoe,1350,Epic,Zoe,poolpartyzoe
+Star Guardian Zoe,1350,Epic,Zoe,starguardianzoe
+Arcanist Zoe,1350,Epic,Zoe,arcanistzoe
+EDG Zoe,1350,Epic,Zoe,edgzoe
+Winterblessed Zoe,1350,Epic,Zoe,winterblessedzoe
 Zyra,880,Legacy,Zyra,zyra
 Wildfire Zyra,975,Legacy,Zyra,wildfirezyra
 Haunted Zyra,1350,Epic,Zyra,hauntedzyra
 SKT T1 Zyra,750,Legacy,Zyra,sktt1zyra
 Dragon Sorceress Zyra,1350,Epic,Zyra,dragonsorceresszyra
 Coven Zyra,1350,Epic,Zyra,covenzyra
+Crime City Nightmare Zyra,1350,Epic,Zyra,crimecitynightmarezyra
+Mythmaker Zyra,1350,Epic,Zyra,mythmakerzyra
+Street Demons Zyra,1350,Epic,Zyra,streetdemonszyra
+Blood Moon Zyra,1350,Epic,Zyra,bloodmoonzyra
