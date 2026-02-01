@@ -6,39 +6,41 @@ print("="*60)
 print("PARSOWANIE SKINDATA.LUA - POPRAWIONE")
 print("="*60)
 
-# ================= ŚCIEŻKI =================
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAW_DIR = os.path.join(BASE_DIR, "raw")
+# ŚCIEŻKI - POPRAWIONE!
+# Skrypt jest tutaj: LOLDW/data/src_data/parse_skins_from_wiki.py
+# __file__ = /path/to/LOLDW/data/src_data/parse_skins_from_wiki.py
+# dirname(__file__) = /path/to/LOLDW/data/src_data/
+# dirname(dirname(__file__)) = /path/to/LOLDW/data/
+# Więc: BASE_DIR/raw = /path/to/LOLDW/data/raw/
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))  # LOLDW/data/src_data/
+DATA_DIR = os.path.dirname(SCRIPT_DIR)                   # LOLDW/data/
+RAW_DIR = os.path.join(DATA_DIR, "raw")                  # LOLDW/data/raw/
 
 INPUT_LUA = os.path.join(RAW_DIR, "skindata_raw.lua")
 OUTPUT_CSV = os.path.join(RAW_DIR, "wiki_skins_clean.csv")
 
-# ================= WCZYTAJ PLIK =================
+print(f"Szukam pliku: {INPUT_LUA}")
+
+# WCZYTAJ PLIK
 print("\nWczytywanie skindata_raw.lua...")
 try:
     with open(INPUT_LUA, "r", encoding="utf-8") as f:
         lua_content = f.read()
 except FileNotFoundError:
-    print(f"BŁĄD: Nie znaleziono pliku {INPUT_LUA}")
+    print(f"BŁĄD: Nie znaleziono pliku!")
+    print(f"Sprawdź czy plik istnieje: {INPUT_LUA}")
+    print(f"\nAktualny katalog: {os.getcwd()}")
+    print(f"Katalog skryptu: {SCRIPT_DIR}")
+    print(f"Katalog raw: {RAW_DIR}")
     exit(1)
 
 print(f"Wczytano {len(lua_content):,} znaków")
 
-# POPRAWIONY PARSER
-# Format Lua:
-# ["Aatrox"] = {
-#   ["id"] = 266,
-#   ["skins"] = {
-#     ["Original"] = { ["id"] = 0, ["cost"] = 880, ... },
-#     ["Justicar"] = { ["id"] = 1, ["cost"] = 975, ... }
-#   }
-# }
-
+# PARSER
 skins = []
 champions_found = []
 
-# Wzorzec: znajdź każdego championa i jego blok skinów
-# Musimy szukać: ["ChampionName"] = { ... ["skins"] = { ... } }
 champion_blocks = re.finditer(
     r'\["([A-Z][^"]+)"\]\s*=\s*\{[^{]*\["id"\]\s*=\s*\d+[^{]*\["skins"\]\s*=\s*\{(.*?)\n\s{4}\}',
     lua_content,
@@ -51,12 +53,9 @@ for champ_match in champion_blocks:
     
     champions_found.append(champion_name)
     
-    # Debug dla pierwszych 3
     if len(champions_found) <= 3:
         print(f"\nPrzetwarzanie: {champion_name}")
     
-    # W bloku skinów znajdź każdy skin
-    # Format: ["Skin Name"] = { ["id"] = X, ["cost"] = Y, ... }
     skin_entries = re.finditer(
         r'\["([^"]+)"\]\s*=\s*\{([^}]*(?:\{[^}]*\}[^}]*)*)\}(?=\s*,?\s*(?:\["|$))',
         skins_block
@@ -66,24 +65,33 @@ for champ_match in champion_blocks:
         skin_name = skin_match.group(1)
         skin_props = skin_match.group(2)
         
-        # Pomiń jeśli to nie jest skin (np. chromas, voiceactor)
         if not re.search(r'\["id"\]\s*=\s*\d+', skin_props):
             continue
         
-        # Wyciągnij cost
+        # Cost
         cost_match = re.search(r'\["cost"\]\s*=\s*(\d+)', skin_props)
         if cost_match:
             cost = int(cost_match.group(1))
         else:
-            # Sprawdź Special
             if '"Special"' in skin_props or "'Special'" in skin_props:
-                cost = 0  # Special (Prestige/Mythic)
+                cost = 0
             else:
-                continue  # Pomiń jeśli brak ceny
+                continue
         
-        # Określ rarity
+        # FIX: Default/Original = 0 RP
+        if skin_name == "Original":
+            cost = 0
+        
+        # Release date
+        release_match = re.search(r'\["release"\]\s*=\s*"([^"]+)"', skin_props)
+        release_date = release_match.group(1) if release_match else None
+        
+        # Rarity
         if cost == 0:
-            rarity = "Special"
+            if skin_name == "Original":
+                rarity = "Default"
+            else:
+                rarity = "Special"
         elif cost in [390, 520, 750, 790, 880, 975]:
             rarity = "Legacy"
         elif cost == 1350:
@@ -95,7 +103,7 @@ for champ_match in champion_blocks:
         else:
             rarity = "Epic"
         
-        # Pełna nazwa
+        # Full name
         if skin_name == "Original":
             full_name = champion_name
         else:
@@ -105,29 +113,21 @@ for champ_match in champion_blocks:
             'skin_name': full_name,
             'price_rp': cost,
             'rarity': rarity,
-            'champion': champion_name
+            'champion': champion_name,
+            'release_date': release_date
         })
     
-    # Progress
     if len(champions_found) % 20 == 0:
         print(f"  Przetworzone: {len(champions_found)} championów, {len(skins)} skinów...")
 
 print(f"\nZnaleziono {len(champions_found)} championów")
 print(f"Wyciągnięto {len(skins)} skinów")
 
-# Debug - pokaż pierwszych kilka championów
-print("\nPierwszych 10 championów:")
-for champ in champions_found[:10]:
-    count = len([s for s in skins if s['champion'] == champ])
-    print(f"  {champ}: {count} skinów")
-
-# Jeśli za mało skinów, użyj prostszego parsera
+# Fallback parser jeśli za mało
 if len(skins) < 500:
-    print("\n Za mało skinów! Używam prostszego parsera...")
+    print("\n⚠ Za mało skinów! Używam prostszego parsera...")
     
     skins = []
-    
-    # Prostszy wzorzec - znajdź WSZYSTKIE bloki z cost
     all_cost_blocks = re.finditer(
         r'\["([^"]+)"\]\s*=\s*\{[^}]*\["cost"\]\s*=\s*(\d+)',
         lua_content
@@ -139,17 +139,14 @@ if len(skins) < 500:
         name = match.group(1)
         cost = int(match.group(2))
         
-        # Jeśli nazwa zaczyna się wielką literą i nie ma spacji - to champion
         if name[0].isupper() and ' ' not in name and len(name) > 2:
-            # Sprawdź czy to nie skin innego championa
-            # Champions mają id w swoim bloku
             context_start = max(0, match.start() - 100)
             context = lua_content[context_start:match.start()]
             
             if '"id"]' in context and '"skins"]' not in context:
                 current_champion = name
         
-        # Określ rarity
+        # Rarity
         if cost in [390, 520, 750, 790, 880, 975]:
             rarity = "Legacy"
         elif cost == 1350:
@@ -161,15 +158,15 @@ if len(skins) < 500:
         else:
             rarity = "Epic"
         
-        # Dodaj jako skin
         if name == "Original" and current_champion:
             full_name = current_champion
             champ = current_champion
+            cost = 0  # FIX
+            rarity = "Default"
         elif current_champion and name != current_champion:
             full_name = f"{name} {current_champion}"
             champ = current_champion
         else:
-            # Spróbuj wyciągnąć championa z nazwy
             parts = name.split()
             if len(parts) > 1:
                 champ = parts[-1]
@@ -181,20 +178,22 @@ if len(skins) < 500:
             'skin_name': full_name,
             'price_rp': cost,
             'rarity': rarity,
-            'champion': champ
+            'champion': champ,
+            'release_date': None
         })
     
     print(f"Prostszy parser znalazł: {len(skins)} skinów")
 
-# Usuń duplikaty
+# DataFrame
 df = pd.DataFrame(skins)
 original_len = len(df)
 df = df.drop_duplicates(subset=['skin_name'], keep='first')
 print(f"Usuniętch {original_len - len(df)} duplikatów")
 
-# Filtruj Special
+# Filtruj tylko Special (zachowaj Default!)
 df_filtered = df[df['rarity'] != 'Special']
-print(f"Usunięto {len(df) - len(df_filtered)} skinów Special")
+print(f"Usunięto {len(df) - len(df_filtered)} skinów Special (Prestige/Mythic)")
+print(f"Zachowano {len(df_filtered[df_filtered['rarity'] == 'Default'])} skinów Default")
 df = df_filtered
 
 # Normalizacja
@@ -221,6 +220,13 @@ print("\nRozkład cen (top 15):")
 for price, count in df['price_rp'].value_counts().sort_index().head(15).items():
     print(f"  {price:4d} RP: {count:4d}")
 
+# Release dates
+has_date = df['release_date'].notna().sum()
+no_date = df['release_date'].isna().sum()
+print(f"\nDaty wydania:")
+print(f"  Z datą: {has_date} ({has_date/len(df)*100:.1f}%)")
+print(f"  Bez daty: {no_date} ({no_date/len(df)*100:.1f}%)")
+
 # Zapisz
 df.to_csv(OUTPUT_CSV, index=False)
 
@@ -230,9 +236,17 @@ print(f"{'='*60}")
 
 # Przykłady
 print("\nPrzykładowe skiny:")
-for rarity in ['Legacy', 'Epic', 'Legendary', 'Ultimate']:
+for rarity in ['Default', 'Legacy', 'Epic', 'Legendary', 'Ultimate']:
     sample = df[df['rarity'] == rarity].head(2)
     if len(sample) > 0:
         print(f"\n{rarity}:")
         for _, row in sample.iterrows():
-            print(f"  {row['skin_name']}: {row['price_rp']} RP")
+            date_str = f" ({row['release_date']})" if pd.notna(row['release_date']) else ""
+            print(f"  {row['skin_name']}: {row['price_rp']} RP{date_str}")
+
+print("\n" + "="*60)
+print("GOTOWE!")
+print("  ✓ Default skiny mają 0 RP")
+print("  ✓ Wyciągnięto release_date z Wiki")
+print("  ✓ Zachowano Default, usunięto Special")
+print("="*60)

@@ -2,13 +2,9 @@ import requests
 import pandas as pd
 import os
 
-print("=" * 60)
 print("FETCH DDRAGON SKINS")
-print("=" * 60)
 
-# ============================================================
 # ŚCIEŻKI – POPRAWIONE
-# ============================================================
 
 # Jesteśmy w: LOLDW/data/src_data/fetch_ddragon_skins.py
 SRC_DIR = os.path.dirname(os.path.abspath(__file__))   # data/src_data
@@ -22,9 +18,7 @@ os.makedirs(RAW_DIR, exist_ok=True)
 
 print("OUTPUT:", OUTPUT_PATH)
 
-# ============================================================
 # DATA DRAGON
-# ============================================================
 
 print("\nPobieranie wersji Data Dragon...")
 version = requests.get(
@@ -57,14 +51,10 @@ for champ_id, champ in champions.items():
 
 df = pd.DataFrame(rows)
 
-# ============================================================
 # ZAPIS
-# ============================================================
 
 df.to_csv(OUTPUT_PATH, index=False)
 
-print("\n" + "=" * 60)
 print("ZAPIS ZAKOŃCZONY")
 print(f"Plik: {OUTPUT_PATH}")
 print(f"Liczba skinów: {len(df)}")
-print("=" * 60)

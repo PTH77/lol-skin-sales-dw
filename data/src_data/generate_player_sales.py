@@ -3,7 +3,7 @@ import random
 from datetime import datetime, timedelta
 import os
 
-# ================= USTAWIENIA =================
+#USTAWIENIA
 NUM_PLAYERS = 5000
 NUM_TRANSACTIONS = 20000
 ERROR_RATE = 0.10  # 10% błędnych danych w transakcjach
@@ -11,7 +11,7 @@ ERROR_RATE = 0.10  # 10% błędnych danych w transakcjach
 REGIONS = ["EUW", "EUNE", "NA", "KR"]
 SEGMENTS = ["casual", "core", "whale"]
 
-# ================= SCIEZKI =================
+#SCIEZKI
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_RAW_DIR = os.path.join(BASE_DIR, "..", "raw")
 DATA_RAW_DIR = os.path.abspath(DATA_RAW_DIR)
@@ -24,7 +24,7 @@ print("="*60)
 print("GENEROWANIE GRACZY I TRANSAKCJI")
 print("="*60)
 
-# ================= WCZYTAJ SKINY =================
+#WCZYTAJ SKINY
 print("\nWczytywanie skinów z dim_skins_final.csv...")
 
 try:
@@ -57,10 +57,8 @@ price_stats = dim_skin_df.groupby('price_rp').size().sort_index()
 for price, count in price_stats.items():
     print(f"  {price:4d} RP: {count:4d} skinów")
 
-# ================= GENERUJ DIM_PLAYER =================
-print("\n" + "="*60)
+#GENERUJ DIM_PLAYER
 print("GENEROWANIE GRACZY")
-print("="*60)
 
 players = []
 for i in range(1, NUM_PLAYERS + 1):
@@ -97,10 +95,9 @@ for region, count in region_counts.items():
 dim_player_df.to_csv(dim_player_path, index=False)
 print(f"\nZapisano: {dim_player_path}")
 
-# ================= GENERUJ FACT_SALES =================
-print("\n" + "="*60)
+#GENERUJ FACT_SALES
+
 print("GENEROWANIE TRANSAKCJI")
-print("="*60)
 
 # Segmentacja skinów po cenie dla różnych typów graczy
 cheap_skins = [sid for sid, price in skin_price_map.items() if price <= 750]
@@ -176,7 +173,7 @@ for t in range(1, NUM_TRANSACTIONS + 1):
     quantity = 1
     player_id = player["player_id"]
     
-    # ================= WSTRZYKNIJ BŁĘDY (10% transakcji) =================
+    # WSTRZYKNIJ BŁĘDY (10% transakcji)
     is_error = random.random() < ERROR_RATE
     
     if is_error:
@@ -292,9 +289,7 @@ fact_sales_df.to_csv(fact_sales_path, index=False)
 print(f"\nZapisano: {fact_sales_path}")
 
 # ================= PODSUMOWANIE =================
-print("\n" + "="*60)
 print("PODSUMOWANIE")
-print("="*60)
 print(f"\nDIM_PLAYER: {len(dim_player_df)} graczy")
 print(f"DIM_SKIN: {len(dim_skin_df)} skinów (bez Default)")
 print(f"FACT_SALES: {len(fact_sales_df)} transakcji")
