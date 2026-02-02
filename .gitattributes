@@ -1,0 +1,5 @@
+﻿# Ignore giant Lua scraper in GitHub language stats
+*.lua linguist-generated=true
+
+# Count SQL normally
+*.sql linguist-detectable=true
